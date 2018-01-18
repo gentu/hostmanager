@@ -874,9 +874,7 @@
 
     .prologue
     .line 307
-    invoke-static {}, Lcom/samsung/android/hostmanager/utils/CommonUtils;->isSamsungDevice()Z
-
-    move-result v4
+    const/4 v4, 0x0
 
     if-eqz v4, :cond_1
 
@@ -992,9 +990,7 @@
 
     .prologue
     .line 337
-    invoke-static {}, Lcom/samsung/android/hostmanager/utils/CommonUtils;->isSamsungDevice()Z
-
-    move-result v3
+    const/4 v3, 0x0
 
     if-eqz v3, :cond_1
 
@@ -1293,9 +1289,7 @@
 
     .prologue
     .line 277
-    invoke-static {}, Lcom/samsung/android/hostmanager/utils/CommonUtils;->isSamsungDevice()Z
-
-    move-result v4
+    const/4 v4, 0x0
 
     if-eqz v4, :cond_1
 
@@ -1875,9 +1869,7 @@
     .line 439
     .end local v1    # "s":Ljava/lang/String;
     :cond_0
-    invoke-static {}, Lcom/samsung/android/hostmanager/notification/Utils;->isSamsungDevice()Z
-
-    move-result v3
+    const/4 v3, 0x0
 
     if-eqz v3, :cond_1
 
@@ -2405,9 +2397,7 @@
 
     .prologue
     .line 640
-    invoke-static {}, Lcom/samsung/android/hostmanager/utils/CommonUtils;->isSamsungDevice()Z
-
-    move-result v0
+    const/4 v0, 0x0
 
     return v0
 .end method
