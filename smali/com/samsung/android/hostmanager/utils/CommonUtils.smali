@@ -3401,9 +3401,7 @@
     .restart local v0    # "MANUFACTURER":Ljava/lang/String;
     const-string v2, "SAMSUNG"
 
-    invoke-virtual {v0, v2}, Ljava/lang/String;->equalsIgnoreCase(Ljava/lang/String;)Z
-
-    move-result v2
+    const/4 v2, 0x1
 
     goto :goto_0
 .end method
