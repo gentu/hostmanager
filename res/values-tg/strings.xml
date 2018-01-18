@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cf_activate_failed">Фаъол кардани Бозфиристии занг иҷро нашуд.</string>
+    <string name="cf_activate_success">Бозфиристии занг фаъол аст.</string>
+    <string name="cf_deactivate_failed">Ғайрифаъол кардани Бозфиристии занг иҷро нашуд.</string>
+    <string name="cf_deactivate_success">Бозфиристии занг ғайрифаъол аст.</string>
+    <string name="cf_notification_title">Бозфиристии зангҳо ба Gear</string>
+    <string name="common_none">Ягон</string>
+    <string name="common_recent_apps">Барномаҳои охирин</string>
+    <string name="fmg_unavailable_during_call">Ҳангоми занг дастнорас аст.</string>
+    <string name="indicator_noti_restoring">Барқароркунӣ иҷро мешавад…</string>
+    <string name="indicator_noti_subtitle">Дастгоҳ ба %s пайваст шуд.</string>
+    <string name="indicator_noti_to">Бо %s пайваст шуд.</string>
+    <string name="indicator_noti_to_connect_bt">Ба %s тавассути Bluetooth пайваст шуд.</string>
+    <string name="indicator_noti_to_connect_remotely">Бо %s дурдаст пайваст шудааст.</string>
+    <string name="indicator_noti_to_disconnect">Аз %s ҷудо шуд.</string>
+    <string name="install_fail_dueto_connection_lost">Насбкунии барномаи Gear иҷро нашуд. Пайвастагӣ бо дастгоҳи мобилии шумо гум шуд. Барномаи Gear вақте насб карда мешавад, ки дастгоҳи мобилӣ пайваст аст.</string>
+    <string name="notification_alarm">Ҳушдор</string>
+    <string name="notification_email">Почтаи электронӣ</string>
+    <string name="notification_incoming_call">Занги даромад</string>
+    <string name="notification_messages">Паёмҳо</string>
+    <string name="notification_missed_call">Занги беҷавоб</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="uninstall_fail_dueto_connection_lost">Қатъи насби барномаи Gear иҷро нашуд. Пайвастагӣ бо дастгоҳи мобилии шумо гум шуд. Насби барномаи Gear вақте қатъ карда мешавад, ки дастгоҳи мобилӣ пайваст аст.</string>
+    <string name="update_fail_dueto_connection_lost">Навсозии барномаи Gear иҷро нашуд. Пайвастагӣ бо дастгоҳи мобилии шумо гум шуд. Навсозии барномаи Gear вақте қатъ карда мешавад, ки дастгоҳи мобилӣ пайваст аст.</string>
+    <string name="watch_app_install_fail">Насбкунии барнома иҷро нашуд.</string>
+    <string name="watch_app_upate_fail">Навсозии барномаи Gear иҷро нашуд. Пайвастагӣ бо дастгоҳи мобилӣ гум шуд.</string>
+</resources>

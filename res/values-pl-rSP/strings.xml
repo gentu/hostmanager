@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cf_activate_failed">Błąd włączania funkcji Przekazywanie połączeń.</string>
+    <string name="cf_activate_success">Przekazywanie połączeń włączone.</string>
+    <string name="cf_deactivate_failed">Błąd wyłączania funkcji Przekazywanie połączeń.</string>
+    <string name="cf_deactivate_success">Wyłączono przekazywanie połączeń.</string>
+    <string name="cf_notification_title">Przekazywaniy połōnczyń do zygŏrka Gear</string>
+    <string name="common_none">Żŏdyn</string>
+    <string name="common_recent_apps">Ôs. aplik.</string>
+    <string name="fmg_unavailable_during_call">Niy je dostympne w czasie gŏdki.</string>
+    <string name="indicator_noti_restoring">Przywracaniy…</string>
+    <string name="indicator_noti_subtitle">Połōnczōne z %s.</string>
+    <string name="indicator_noti_to">Połōnczōno z %s.</string>
+    <string name="indicator_noti_to_connect_bt">Zepniynto z maszinōm %s bez Bluetooth</string>
+    <string name="indicator_noti_to_connect_remotely">Zdalnie zepniynto z maszinōm %s.</string>
+    <string name="indicator_noti_to_disconnect">Odłączono od %s.</string>
+    <string name="install_fail_dueto_connection_lost">Niy poradziłżech zainsztalować aplikacyje ôd Gear. Straciłżech połōnczyniy z twoim mobilniŏkiym. Zainsztaluja aplikacyjŏ ôd Gear po połōnczyniu z mobilniŏkiym.</string>
+    <string name="notification_alarm">Alarm</string>
+    <string name="notification_email">Email</string>
+    <string name="notification_incoming_call">Połōnczyniy</string>
+    <string name="notification_messages">Wiadōmości</string>
+    <string name="notification_missed_call">Gŏdka niyôdebranŏ</string>
+    <string name="notification_voicemail">Poczta głosowŏ</string>
+    <string name="uninstall_fail_dueto_connection_lost">Niy poradziłżech ôdinsztalować aplikacyje ôd Gear. Straciłżech połōnczyniy z twoim mobilniŏkiym. Ôdinsztaluja aplikacyjŏ ôd Gear po połōnczyniu z mobilniŏkiym.</string>
+    <string name="update_fail_dueto_connection_lost">Niy poradziłżech zainsztalować aplikacyje ôd Gear. Straciłżech połōnczyniy z twoim mobilniŏkiym. Zaktualizuja aplikacyjŏ ôd Gear po połōnczyniu z mobilniŏkiym.</string>
+    <string name="watch_app_install_fail">Niy szło zainsztalować aplikacyje.</string>
+    <string name="watch_app_upate_fail">Niy poradziłżech zainsztalować aplikacyje ôd Gear. Straciłżech połōnczyniy z twoim mobilniŏkiym.</string>
+</resources>

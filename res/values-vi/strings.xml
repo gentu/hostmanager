@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Đã kết nối</string>
+    <string name="bt_disconnected">Ngắt kết nối</string>
+    <string name="bt_unpaired">Chưa được ghép đôi</string>
+    <string name="cf_activate_failed">Có lỗi khi bật Chuyển tiếp cuộc gọi.</string>
+    <string name="cf_activate_success">Đã bật Chuyển tiếp cuộc gọi.</string>
+    <string name="cf_deactivate_failed">Có lỗi khi tắt Chuyển tiếp cuộc gọi.</string>
+    <string name="cf_deactivate_success">Chuyển tiếp cuộc gọi đã tắt.</string>
+    <string name="common_none">Không có</string>
+    <string name="common_recent_apps">Ứng dụng gần đây</string>
+    <string name="fmg_unavailable_during_call">Không có sẵn trong khi thực hiện cuộc gọi.</string>
+    <string name="general_app_name_for_reinstall">ứng dụng Samsung Gear</string>
+    <string name="indicator_noti_restoring">Đang khôi phục…</string>
+    <string name="indicator_noti_subtitle">Đã kết nối với %s.</string>
+    <string name="indicator_noti_to">Đã kết nối với %s.</string>
+    <string name="indicator_noti_to_connect_bt">Đã kết nối với %s qua Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Đã kết nối với %s từ xa.</string>
+    <string name="indicator_noti_to_disconnect">Đã ngắt kết nối %s</string>
+    <string name="install_fail_dueto_connection_lost">Không thể cài đặt ứng dụng Gear. Đã mất kết nối với thiết bị di động của bạn. Ứng dụng Gear sẽ được cài đặt khi kết nối với thiết bị di động.</string>
+    <string name="navigate_up">Đi lên</string>
+    <string name="notification_alarm">Chuông báo</string>
+    <string name="notification_email">Email</string>
+    <string name="notification_incoming_call">Cuộc gọi đến</string>
+    <string name="notification_messages">Tin nhắn</string>
+    <string name="notification_missed_call">Cuộc gọi nhỡ</string>
+    <string name="notification_schedule">Lịch trình</string>
+    <string name="notification_voicemail">Thư thoại</string>
+    <string name="toast_text_for_reinstall">%1$s sẽ vẫn xuất hiện trên thiết bị của bạn ngay cả sau khi gỡ cài cài đặt %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Không thể gỡ cài đặt ứng dụng Gear. Đã mất kết nối với thiết bị di động của bạn. Ứng dụng Gear sẽ được gỡ cài đặt khi kết nối với thiết bị di động.</string>
+    <string name="update_fail_dueto_connection_lost">Không thể cập nhật ứng dụng Gear. Đã mất kết nối với thiết bị di động của bạn. Ứng dụng Gear sẽ được cập nhật khi kết nối với thiết bị di động.</string>
+    <string name="watch_app_install_fail">Cài đặt ứng dụng không thành công.</string>
+    <string name="watch_app_upate_fail">Không thể cập nhật ứng dụng Gear. Đã mất kết nối với thiết bị di động.</string>
+</resources>

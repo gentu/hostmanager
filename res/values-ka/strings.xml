@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">დაკავშირებული</string>
+    <string name="bt_disconnected">გაითიშა</string>
+    <string name="bt_unpaired">არ არის დაწყვილებული</string>
+    <string name="cf_activate_failed">ზარის გადაგზავნა ვერ გააქტიურდა.</string>
+    <string name="cf_activate_success">ზარის გადაგზავნა ჩართულია.</string>
+    <string name="cf_deactivate_failed">ზარის გადაგზავნა ვერ გამოირთო.</string>
+    <string name="cf_deactivate_success">ზარის გადაგზავნა გამორთულია.</string>
+    <string name="cf_notification_title">გადაამისამართეთ ზარები Gear-ში</string>
+    <string name="common_none">არც ერთი</string>
+    <string name="common_recent_apps">ბოლო პროგრ.</string>
+    <string name="fmg_unavailable_during_call">ზარის დროს შეუძლებელია.</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear-ის აპლიკაცია</string>
+    <string name="indicator_noti_restoring">აღდგენა…</string>
+    <string name="indicator_noti_subtitle">%s დაკავშირდა.</string>
+    <string name="indicator_noti_to">შეერთებულია „%s“-თან.</string>
+    <string name="indicator_noti_to_connect_bt">%s დააკავშირეთ Bluetooth-ით.</string>
+    <string name="indicator_noti_to_connect_remotely">%s დაკავშირებულია დისტანციურად.</string>
+    <string name="indicator_noti_to_disconnect">გაითიშა %s.</string>
+    <string name="install_fail_dueto_connection_lost">Gear-ის პროგრამა ვერ დაინსტალირდა. თქვენს მობილურ აპარატთან კავშირი დაიკარგა. Gear-ის პროგრამა დაინსტალირდება, როდესაც დაუკავშირდება მობილურ აპარატს</string>
+    <string name="navigate_up">ნავიგაცია ზემოთ</string>
+    <string name="notification_alarm">მაღვიძარა</string>
+    <string name="notification_email">ელფოსტა</string>
+    <string name="notification_incoming_call">შემოსული ზარი</string>
+    <string name="notification_messages">შეტყობინებები</string>
+    <string name="notification_missed_call">გამოტოვებული ზარი</string>
+    <string name="notification_schedule">განრიგი</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s დარჩება თქვენს მოწყობილობაში, %2$s-ის ინსტალაციის გაუქმების შემდეგაც კი.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Gear-ის პროგრამის დეინსტალაცია ვერ შესრულდა. თქვენს მობილურ აპარატთან კავშირი დაიკარგა. Gear-ის პროგრამის დეინსტალაცია შესრულდება, როდესაც დაუკავშირდება მობილურ აპარატს</string>
+    <string name="update_fail_dueto_connection_lost">Gear-ის პროგრამა ვერ განახლდა. თქვენს მობილურ აპარატთან კავშირი დაიკარგა. Gear-ის პროგრამა განახლდება, როდესაც დაუკავშირდება მობილურ აპარატს</string>
+    <string name="watch_app_install_fail">პროგრამა ვერ დაინსტალირდა.</string>
+    <string name="watch_app_upate_fail">Gear-ის პროგრამა ვერ განახლდა. მობილურ აპარატთან კავშირი დაიკარგა</string>
+</resources>

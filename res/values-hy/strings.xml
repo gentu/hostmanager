@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Միացված է</string>
+    <string name="bt_disconnected">Անջատված է</string>
+    <string name="bt_unpaired">Ապազուգտակված</string>
+    <string name="cf_activate_failed">Չհաջողվեց ընձեռել Կանչի փոխանցումը:</string>
+    <string name="cf_activate_success">Կանչի փոխանցումն ընձեռված է:</string>
+    <string name="cf_deactivate_failed">Չհաջողվեց կասեցնել Կանչի փոխանցումը:</string>
+    <string name="cf_deactivate_success">Կանչի փոխանցումը կասեցված է:</string>
+    <string name="cf_notification_title">Կանչերը փոխանցվում են դեպի Ձեր Gear-ը</string>
+    <string name="common_none">Չկա</string>
+    <string name="common_recent_apps">Վերջ. ծրգրեր</string>
+    <string name="fmg_unavailable_during_call">Անհասանելի է զանգի ընթացքում:</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear ծրագիր</string>
+    <string name="indicator_noti_restoring">Վերականգնումն ընթացքում է…</string>
+    <string name="indicator_noti_subtitle">Միացել է %s-ին:</string>
+    <string name="indicator_noti_to">Միացված է %s-ին:</string>
+    <string name="indicator_noti_to_connect_bt">Կապակցված է %s-ին` Bluetooth-ով:</string>
+    <string name="indicator_noti_to_connect_remotely">Հեռակա կապակցված է %s-ին:</string>
+    <string name="indicator_noti_to_disconnect">Անջատվել է %s-ից:</string>
+    <string name="install_fail_dueto_connection_lost">Չհաջողվեց տեղադրել Gear ծրագիրը: Կապը Ձեր շարժական սարքի հետ կորել է: Gear ծրագիրը կտեղադրվի, երբ կապակցվի շարժական սարքի հետ</string>
+    <string name="navigate_up">Նավարկել վեր</string>
+    <string name="notification_alarm">Նախազգշցմ</string>
+    <string name="notification_email">Էլփոստ</string>
+    <string name="notification_incoming_call">Մուտքային կանչ</string>
+    <string name="notification_messages">Հաղորդագրություններ</string>
+    <string name="notification_missed_call">Բացթողած զանգ</string>
+    <string name="notification_schedule">Ժամանակացույց</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s-ը Ձեր սարքում կմնա նույնիսկ %2$s-ն ապատեղադրելուց հետո:</string>
+    <string name="uninstall_fail_dueto_connection_lost">Չհաջողվեց ապատեղադրել Gear ծրագիրը: Կապը Ձեր շարժական սարքի հետ կորել է: Gear ծրագիրը կապատեղադրվի, երբ կապակցվի շարժական սարքի հետ</string>
+    <string name="update_fail_dueto_connection_lost">Չհաջողվեց թարմացնել Gear ծրագիրը: Կապը Ձեր շարժական սարքի հետ կորել է: Gear ծրագիրը կթարմացվի, երբ կապակցվի շարժական սարքի հետ</string>
+    <string name="watch_app_install_fail">Չհաջողվեց տեղադրել ծրագիրը:</string>
+    <string name="watch_app_upate_fail">Չհաջողվեց թարմացնել Gear ծրագիրը: Կապը շարժական սարքի հետ կորել է</string>
+</resources>

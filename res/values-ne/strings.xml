@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">गियर मैनेजर</string>
+    <string name="bt_connected">जडान गरियो</string>
+    <string name="bt_disconnected">जोडन विच्छेद भयो</string>
+    <string name="bt_unpaired">जोड़ि बनाइएन</string>
+    <string name="cf_activate_failed">कल फरवार्डिङ सक्षम गर्न असफल भयो।</string>
+    <string name="cf_activate_success">कल फरवार्डिङ सक्षम गरियो।</string>
+    <string name="cf_deactivate_failed">कल फरवार्डिङ असक्षम गर्न असफल भयो।</string>
+    <string name="cf_deactivate_success">कल फर्वाडिङ असक्षम गरियो।</string>
+    <string name="cf_notification_title">तपाईको गियरमा कलहरू फर्वाड गर्नु</string>
+    <string name="common_none">शून्‍य</string>
+    <string name="common_recent_apps">हालका एप्‍स</string>
+    <string name="fmg_unavailable_during_call">कल हुँदा अनुपलब्‍ध।</string>
+    <string name="general_app_name_for_reinstall">सैमसंग गियर अनुप्रयोग</string>
+    <string name="indicator_noti_restoring">पुनःभण्डार गर्दैछ…</string>
+    <string name="indicator_noti_subtitle">%s संग कनेक्ट गरिएको छ।</string>
+    <string name="indicator_noti_to">%s संग जोड्यो।</string>
+    <string name="indicator_noti_to_connect_bt">ब्लुटूथ मार्फत %s मा जडान गरियो।</string>
+    <string name="indicator_noti_to_connect_remotely">टाढाबाटै %s मा जडान गरियो।</string>
+    <string name="indicator_noti_to_disconnect">%s बाट विच्छेद भयो।</string>
+    <string name="install_fail_dueto_connection_lost">गियर एप स्थापना गर्न असफल भयो। तपाईको मोबाइल यन्त्रसंगको कनेक्शन हराएको छ। मोबाइल यन्त्रसंग कनेक्ट भएको बेला गियर एप्प स्थापना गरिनेछ।</string>
+    <string name="navigate_up">माथि न्याभिगेट गर्नुहोस्</string>
+    <string name="notification_alarm">अलार्म</string>
+    <string name="notification_email">ईमेल</string>
+    <string name="notification_incoming_call">इनकमिङ कल</string>
+    <string name="notification_messages">संदेशहरु</string>
+    <string name="notification_missed_call">छुटेको कल</string>
+    <string name="notification_schedule">कार्यक्रम</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%2$s को स्थापना हटाएपछि पनि %1$s तपाईको यन्त्रमा नै रहनेछ।</string>
+    <string name="uninstall_fail_dueto_connection_lost">गियर एपको स्थापना रद्द गर्न असफल भयो। तपाईको मोबाइल यन्त्रसँगको कनेक्शन हराएको छ। मोबाइल यन्त्रसँग कनेक्ट भएको बेला गियर एप्पको स्थापना रद्द गरिनेछ।</string>
+    <string name="update_fail_dueto_connection_lost">गियर एप्प अपडेट गर्न असफल भयो। तपाईको मोबाइल यन्त्रसंगको कनेक्शन हराएको छ। मोबाइल यन्त्रसंग कनेक्ट गरेको बेला गियर एप अपडेट गरिनेछ।</string>
+    <string name="watch_app_install_fail">एप स्थापना गर्न असफल भयो।</string>
+    <string name="watch_app_upate_fail">गियर एप्प अपडेट गर्न असफल भयो। मोबाइल यन्त्रसंगको कनेक्शन हरायो।</string>
+</resources>

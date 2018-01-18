@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Підключено</string>
+    <string name="bt_disconnected">"Роз'єднано"</string>
+    <string name="bt_unpaired">Скасовано утворення пари</string>
+    <string name="cf_activate_failed">Не вдалося ввімкнути переадресацію викликів.</string>
+    <string name="cf_activate_success">Переадресацію викликів увімкнено.</string>
+    <string name="cf_deactivate_failed">Не вдалося вимкнути переадресацію викликів.</string>
+    <string name="cf_deactivate_success">Переадресацію викликів вимкнено.</string>
+    <string name="cf_notification_title">Переадресація викликів на Gear</string>
+    <string name="common_none">Немає</string>
+    <string name="common_recent_apps">Ост.програми</string>
+    <string name="fmg_unavailable_during_call">Недоступний під час виклику.</string>
+    <string name="general_app_name_for_reinstall">Програма Samsung Gear</string>
+    <string name="indicator_noti_restoring">Відновлення…</string>
+    <string name="indicator_noti_subtitle">Підключено до %s.</string>
+    <string name="indicator_noti_to">"З'єднано з %s."</string>
+    <string name="indicator_noti_to_connect_bt">Підключено %s через Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Дистанційно підключено до %s.</string>
+    <string name="indicator_noti_to_disconnect">Відключено від %s.</string>
+    <string name="install_fail_dueto_connection_lost">Не вдалося інсталювати програму Gear. Підключення до мобільного пристрою втрачено. Програму Gear буде інстальовано у разі підключення до мобільного пристрою</string>
+    <string name="navigate_up">Перехід вгору</string>
+    <string name="notification_alarm">Будил.</string>
+    <string name="notification_email">Email</string>
+    <string name="notification_incoming_call">Вхідний виклик</string>
+    <string name="notification_messages">Повідомлення</string>
+    <string name="notification_missed_call">Пропущений виклик</string>
+    <string name="notification_schedule">Розклад</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">Програма %1$s буде доступна для використання на пристрої навіть після видалення %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Не вдалося видалити програму Gear. Підключення до мобільного пристрою втрачено. Програму Gear буде видалено у разі підключення до мобільного пристрою</string>
+    <string name="update_fail_dueto_connection_lost">Не вдалося оновити програму Gear. Підключення до мобільного пристрою втрачено. Програму Gear буде оновлено у разі підключення до мобільного пристрою</string>
+    <string name="watch_app_install_fail">Не вдалося інсталювати програму.</string>
+    <string name="watch_app_upate_fail">Не вдалося оновити програму Gear. Підключення до мобільного пристрою втрачено</string>
+</resources>

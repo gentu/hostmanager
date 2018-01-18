@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">已連接</string>
+    <string name="bt_disconnected">已中斷連線</string>
+    <string name="bt_unpaired">解除配對</string>
+    <string name="cf_activate_failed">無法啟用來電轉接。</string>
+    <string name="cf_activate_success">來電轉接已啟用。</string>
+    <string name="cf_deactivate_failed">無法停用來電轉接。</string>
+    <string name="cf_deactivate_success">來電轉接已停用。</string>
+    <string name="cf_notification_title">正在將通話轉接至您的 Gear</string>
+    <string name="common_none">無</string>
+    <string name="common_recent_apps">最近的應用程式</string>
+    <string name="fmg_unavailable_during_call">通話期間無法使用。</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear 應用程式</string>
+    <string name="indicator_noti_restoring">正在還原…</string>
+    <string name="indicator_noti_subtitle">已連接至 %s。</string>
+    <string name="indicator_noti_to">已與 %s 連線</string>
+    <string name="indicator_noti_to_connect_bt">經由藍牙連接至 %s。</string>
+    <string name="indicator_noti_to_connect_remotely">遠端連接至 %s。</string>
+    <string name="indicator_noti_to_disconnect">自 %s 中斷連接。</string>
+    <string name="install_fail_dueto_connection_lost">無法安裝 Gear 應用程式。已失去與您行動裝置的連接。連接至行動裝置時將安裝 Gear 應用程式。</string>
+    <string name="navigate_up">往上瀏覽</string>
+    <string name="notification_alarm">鬧鐘</string>
+    <string name="notification_email">電子郵件</string>
+    <string name="notification_incoming_call">來電</string>
+    <string name="notification_messages">訊息</string>
+    <string name="notification_missed_call">未接電話</string>
+    <string name="notification_schedule">排程</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">解除安裝 %2$s 後，裝置上仍會有 %1$s。</string>
+    <string name="uninstall_fail_dueto_connection_lost">無法解除安裝 Gear 應用程式。已失去與您行動裝置的連接。連接至行動裝置時將解除安裝 Gear 應用程式。</string>
+    <string name="update_fail_dueto_connection_lost">無法更新 Gear 應用程式。已失去與您行動裝置的連接。連接至行動裝置時將更新 Gear 應用程式。</string>
+    <string name="watch_app_install_fail">無法安裝應用程式。</string>
+    <string name="watch_app_upate_fail">無法更新 Gear 應用程式。已失去與行動裝置的連接。</string>
+</resources>

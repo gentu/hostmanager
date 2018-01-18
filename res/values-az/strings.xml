@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Qoşulmuşdur</string>
+    <string name="bt_disconnected">əlaqəsi pozuldu</string>
+    <string name="bt_unpaired">Qoşulmayıb</string>
+    <string name="cf_activate_failed">Zəng yönləndirməsini yandırmaq olmadı.</string>
+    <string name="cf_activate_success">Zəng yönləndirməsi aktiv edildi.</string>
+    <string name="cf_deactivate_failed">Zəng yönləndirməsini söndürmək olmadı.</string>
+    <string name="cf_deactivate_success">Zəng yönləndirmə qeyri-aktiv edildi.</string>
+    <string name="cf_notification_title">Zənglərin Gear-a yönləndirilməsi</string>
+    <string name="common_none">Yoxdur</string>
+    <string name="common_recent_apps">Son proqr</string>
+    <string name="fmg_unavailable_during_call">Zəng zamanı mümkün deyil.</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear proqramı</string>
+    <string name="indicator_noti_restoring">Bərpa edilir…</string>
+    <string name="indicator_noti_subtitle">%s-ə qoşulmuşdur.</string>
+    <string name="indicator_noti_to">%s ilə əlaqə yaradıldı.</string>
+    <string name="indicator_noti_to_connect_bt">Bluetooth ilə %s-a qoşulmuşdur.</string>
+    <string name="indicator_noti_to_connect_remotely">%s-a uzaqdan qoşulmuşdur.</string>
+    <string name="indicator_noti_to_disconnect">%s-dən ayrılmışdır.</string>
+    <string name="install_fail_dueto_connection_lost">Gear proqramını quraşdırmaq mümkün olmadı. Mobil cihazınızla əlaqə itmişdir. Gear proqramı mobil cihaza qoşulduğu zaman quraşdırılacaqdır</string>
+    <string name="navigate_up">Yuxarı keç</string>
+    <string name="notification_alarm">Siqnal</string>
+    <string name="notification_email">Email</string>
+    <string name="notification_incoming_call">Gələn zəng</string>
+    <string name="notification_messages">Mesajlar</string>
+    <string name="notification_missed_call">Buraxılmış zəng</string>
+    <string name="notification_schedule">Plan</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">Hətta %2$s pozduqdan sonra belə %1$s sizin cihazınızda qalmağa davam edəcək.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Gear proqramını silmək mümkün olmadı. Mobil cihazınızla əlaqə itmişdir. Gear proqramı mobil cihaza qoşulduğu zaman silinəcəkdir</string>
+    <string name="update_fail_dueto_connection_lost">Gear proqramını yeniləmək mümkün olmadı. Mobil cihazınızla əlaqə itmişdir. Gear proqramı mobil cihaza qoşulduğu zaman yenilənəcəkdir</string>
+    <string name="watch_app_install_fail">Proqramı quraşdırmaq alınmadı.</string>
+    <string name="watch_app_upate_fail">Gear proqramını yeniləmək mümkün olmadı. Mobil cihazla əlaqə itmişdir</string>
+</resources>

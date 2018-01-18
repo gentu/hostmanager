@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Tersambung</string>
+    <string name="bt_disconnected">Terputus</string>
+    <string name="bt_unpaired">Pisahkan</string>
+    <string name="cf_activate_failed">Gagal mengaktifkan Penerusan panggilan.</string>
+    <string name="cf_activate_success">Penerusan panggilan diaktifkan.</string>
+    <string name="cf_deactivate_failed">Gagal menonaktifkan Penerusan panggilan.</string>
+    <string name="cf_deactivate_success">Pengalihan panggilan dinonaktifkan.</string>
+    <string name="cf_notification_title">Meneruskan panggilan ke Gear Anda</string>
+    <string name="common_none">Tdk ada</string>
+    <string name="common_recent_apps">Apl terakhir</string>
+    <string name="fmg_unavailable_during_call">Tidak tersedia selama panggilan.</string>
+    <string name="general_app_name_for_reinstall">Aplikasi Samsung Gear</string>
+    <string name="indicator_noti_restoring">Simpan ulang…</string>
+    <string name="indicator_noti_subtitle">Tersambung ke %s.</string>
+    <string name="indicator_noti_to">Terhubung dengan %s.</string>
+    <string name="indicator_noti_to_connect_bt">Tersambung ke %s lewat Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Tersambung jarak jauh ke %s.</string>
+    <string name="indicator_noti_to_disconnect">Terputus dari %s.</string>
+    <string name="install_fail_dueto_connection_lost">Gagal menginstal aplikasi Gear. Koneksi ke perangkat seluler Anda hilang. Aplikasi Gear akan diinstal saat tersambung ke perangkat seluler.</string>
+    <string name="navigate_up">Navigasi ke atas</string>
+    <string name="notification_alarm">Alarm</string>
+    <string name="notification_email">Email</string>
+    <string name="notification_incoming_call">Panggilan masuk</string>
+    <string name="notification_messages">Pesan</string>
+    <string name="notification_missed_call">Pgln tak terjwb</string>
+    <string name="notification_schedule">Jadwal</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s akan tetap berada di perangkat bahkan setelah menghapus instalasi %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Gagal menghapus instalasi aplikasi Gear. Koneksi ke perangkat seluler Anda hilang. Aplikasi Gear akan dihapus instalasinya saat tersambung ke perangkat seluler.</string>
+    <string name="update_fail_dueto_connection_lost">Gagal memperbarui aplikasi Gear. Koneksi ke perangkat seluler Anda hilang. Aplikasi Gear akan diperbarui saat tersambung ke perangkat seluler.</string>
+    <string name="watch_app_install_fail">Gagal menginstal aplikasi.</string>
+    <string name="watch_app_upate_fail">Gagal memperbarui aplikasi Gear. Koneksi ke perangkat seluler hilang.</string>
+</resources>

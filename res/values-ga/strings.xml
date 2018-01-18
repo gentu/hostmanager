@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Bainisteoir Gear</string>
+    <string name="bt_connected">Nasctha</string>
+    <string name="bt_disconnected">Dínasctha</string>
+    <string name="bt_unpaired">Díphéireáilte</string>
+    <string name="cf_activate_failed">Theip ar chumasú Cur ar aghaidh glaonna.</string>
+    <string name="cf_activate_success">Cur ar aghaidh glaonna cumasaithe.</string>
+    <string name="cf_deactivate_failed">Theip ar dhíchumasú Cur ar aghaidh glaonna.</string>
+    <string name="cf_deactivate_success">Cur ar aghaidh glaonna díchumasaithe.</string>
+    <string name="cf_notification_title">Glaonna a chur ar aghaidh chuig do Gear</string>
+    <string name="common_none">Dada</string>
+    <string name="common_recent_apps">"F'chláir le déanaí"</string>
+    <string name="fmg_unavailable_during_call">Níl sé ar fáil i rith glao.</string>
+    <string name="general_app_name_for_reinstall">feidhmchlár Samsung Gear</string>
+    <string name="indicator_noti_restoring">Ag cur ar ais…</string>
+    <string name="indicator_noti_subtitle">Nasctha le %s.</string>
+    <string name="indicator_noti_to">Nasctha le %s.</string>
+    <string name="indicator_noti_to_connect_bt">Nasctha le %s trí Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Cian-nasctha le %s.</string>
+    <string name="indicator_noti_to_disconnect">Dínasctha ó %s.</string>
+    <string name="install_fail_dueto_connection_lost">Theip ar shuiteáil an fheidhmchláir Gear. Cailleadh an nasc le do ghléas móibíleach. Suiteálfar an feidhmchlár Gear nuair a bheidh an gléas móibíleach nasctha.</string>
+    <string name="navigate_up">Déan nascleanúint thuas</string>
+    <string name="notification_alarm">Aláram</string>
+    <string name="notification_email">R-phost</string>
+    <string name="notification_incoming_call">Glao isteach</string>
+    <string name="notification_messages">Teachtaireachtaí</string>
+    <string name="notification_missed_call">Glao caillte</string>
+    <string name="notification_schedule">Sceideal</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">Beidh %1$s fós ar do ghléas fiú amháin tar éis %2$s a dhíshuiteáil.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Theip ar dhíshuiteáil an fheidhmchláir Gear. Cailleadh an nasc le do ghléas móibíleach. Díshuiteálfar an feidhmchlár Gear nuair a bheidh an gléas móibíleach nasctha.</string>
+    <string name="update_fail_dueto_connection_lost">Theip ar nuashonrú an fheidhmchláir Gear. Cailleadh an nasc le do ghléas móibíleach. Nuashonrófar an feidhmchlár Gear nuair a bheidh an gléas móibíleach nasctha.</string>
+    <string name="watch_app_install_fail">Theip ar shuiteáil an fheidhmchláir.</string>
+    <string name="watch_app_upate_fail">Theip ar nuashonrú an fheidhmchláir Gear. Cailleadh an nasc leis an ngléas móibíleach.</string>
+</resources>

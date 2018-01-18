@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">गियर प्रबंधक</string>
+    <string name="bt_connected">कनेक्ट किया गया</string>
+    <string name="bt_disconnected">डिस्कनेक्ट हुआ</string>
+    <string name="bt_unpaired">जोड़ा हटाया गया</string>
+    <string name="cf_activate_failed">कॉल अग्रेषण सक्षम करने में विफल।</string>
+    <string name="cf_activate_success">कॉल अग्रेषण सक्षम किया गया।</string>
+    <string name="cf_deactivate_failed">कॉल अग्रेषण अक्षम करने में विफल।</string>
+    <string name="cf_deactivate_success">कॉल अग्रेषण अक्षम किया गया।</string>
+    <string name="cf_notification_title">अपने गियर पर कॉल्स अग्रेषित करना</string>
+    <string name="common_none">कुछ नहीं</string>
+    <string name="common_recent_apps">हाल ही के एप्स</string>
+    <string name="fmg_unavailable_during_call">कॉल के दौरान अनुपलब्ध।</string>
+    <string name="general_app_name_for_reinstall">सैमसंग गियर एप्लीकेशन</string>
+    <string name="indicator_noti_restoring">रीस्‍टोर हो रहा है…</string>
+    <string name="indicator_noti_subtitle">%s से कनेक्ट है।</string>
+    <string name="indicator_noti_to">%s के साथ जोड़ा गया।</string>
+    <string name="indicator_noti_to_connect_bt">%s से ब्लूटूथ के द्वारा कनेक्ट किया गया।</string>
+    <string name="indicator_noti_to_connect_remotely">%s से दूरस्थ रूप से कनेक्ट किया गया।</string>
+    <string name="indicator_noti_to_disconnect">%s से डिस्कनेक्ट किया गया।</string>
+    <string name="install_fail_dueto_connection_lost">गियर एप स्थापित करने में विफल। आपके मोबाइल डिवाइस से कनेक्शन खो गया है। मोबाइल डिवाइस से कनेक्ट होने पर गियर एप स्थापित किया जाएगा।</string>
+    <string name="navigate_up">ऊपर नेविगेट करें</string>
+    <string name="notification_alarm">अलार्म</string>
+    <string name="notification_email">ईमेल</string>
+    <string name="notification_incoming_call">आनेवाली कॉल</string>
+    <string name="notification_messages">सन्देश</string>
+    <string name="notification_missed_call">छूटी कॉल</string>
+    <string name="notification_schedule">अनुसूची</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%2$s की स्थापना रद्द करने के बाद भी %1$s आपके डिवाइस पर रहेगा।</string>
+    <string name="uninstall_fail_dueto_connection_lost">गियर एप की स्थापना रद्द करने में विफल। आपके मोबाइल डिवाइस से कनेक्शन खो गया है। मोबाइल डिवाइस से कनेक्ट होने पर गियर एप की स्थापना रद्द कर दी जाएगी।</string>
+    <string name="update_fail_dueto_connection_lost">गियर एप अपडेट करने में विफल। आपके मोबाइल डिवाइस से कनेक्शन खो गया है। मोबाइल डिवाइस से कनेक्ट होने पर गियर एप अपडेट किया जाएगा।</string>
+    <string name="watch_app_install_fail">एप्लीकेशन की स्थापना करने में विफल।</string>
+    <string name="watch_app_upate_fail">गियर एप अपडेट करने में विफल। मोबाइल डिवाइस से कनेक्शन खो गया है।</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Povezano</string>
+    <string name="bt_disconnected">Prekinjeno</string>
+    <string name="bt_unpaired">Nepovezano</string>
+    <string name="cf_activate_failed">Funkcije Posredovanje klicev ni uspelo omogočiti.</string>
+    <string name="cf_activate_success">Funkcija Posredovanje klicev je omogočena.</string>
+    <string name="cf_deactivate_failed">Funkcije Posredovanje klicev ni uspelo onemogočiti.</string>
+    <string name="cf_deactivate_success">Posredovanje klicev je onemogočeno.</string>
+    <string name="cf_notification_title">Posredovanje klicev v uro Gear</string>
+    <string name="common_none">Brez</string>
+    <string name="common_recent_apps">Nedavne apl.</string>
+    <string name="fmg_unavailable_during_call">Ni na voljo med klicem.</string>
+    <string name="general_app_name_for_reinstall">aplikacija Samsung Gear</string>
+    <string name="indicator_noti_restoring">Obnavljanje…</string>
+    <string name="indicator_noti_subtitle">Povezava z %s vzpostavljena.</string>
+    <string name="indicator_noti_to">Povezan z %s.</string>
+    <string name="indicator_noti_to_connect_bt">Z napravo %s ste povezani prek povezave Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Z napravo %s ste povezani na daljavo.</string>
+    <string name="indicator_noti_to_disconnect">Povezava z %s je prekinjena.</string>
+    <string name="install_fail_dueto_connection_lost">Aplikacija Gear ni bila uspešno nameščena. Povezava z vašo mobilno napravo je prekinjena. Aplikacija Gear bo nameščena, ko bo vzpostavljena povezava z mobilno napravo.</string>
+    <string name="navigate_up">Usmerjanje gor</string>
+    <string name="notification_alarm">Budilka</string>
+    <string name="notification_email">E-pošta</string>
+    <string name="notification_incoming_call">Dohodni klic</string>
+    <string name="notification_messages">Sporočila</string>
+    <string name="notification_missed_call">Neodgovorjen klic</string>
+    <string name="notification_schedule">Urnik</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">Aplikacija %1$s bo ostala v napravi tudi po odstranitvi vtičnika %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Aplikacija Gear ni bila uspešno odstranjena. Povezava z vašo mobilno napravo je prekinjena. Aplikacija Gear bo odstranjena, ko bo vzpostavljena povezava z mobilno napravo.</string>
+    <string name="update_fail_dueto_connection_lost">Aplikacija Gear ni bila uspešno posodobljena. Povezava z vašo mobilno napravo je prekinjena. Aplikacija Gear bo posodobljena, ko bo vzpostavljena povezava z mobilno napravo.</string>
+    <string name="watch_app_install_fail">Aplikacija ni bila uspešno nameščena.</string>
+    <string name="watch_app_upate_fail">Aplikacija Gear ni bila uspešno posodobljena. Povezava z mobilno napravo je prekinjena.</string>
+</resources>

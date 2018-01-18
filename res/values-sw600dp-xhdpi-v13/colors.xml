@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="drawer_menu_connected_text_color">#ff675236</color>
+    <color name="drawer_selected_text_color">#ffff9000</color>
+    <color name="regular_text_color">#fff5f5f5</color>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><notifications>
+<entry>
+<package type="text">missedcall</package>
+<entryname>Missed call</entryname>
+<id>100</id>
+<maxByte>500</maxByte>
+<marked>true</marked>
+</entry>
+<entry>
+<package type="text">messages</package>
+<entryname>Messages</entryname>
+<id>101</id>
+<maxByte>500</maxByte>
+<marked>true</marked>
+</entry>
+<entry>
+<package type="text">email</package>
+<entryname>Email</entryname>
+<id>102</id>
+<maxByte>500</maxByte>
+<marked>true</marked>
+</entry>
+<entry>
+<package type="text">voicemail</package>
+<entryname>Voice mail</entryname>
+<id>104</id>
+<maxByte>500</maxByte>
+<marked>true</marked>
+</entry>
+</notifications>

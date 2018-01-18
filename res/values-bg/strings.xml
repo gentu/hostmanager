@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Мениджър на Gear</string>
+    <string name="bt_connected">Свързано</string>
+    <string name="bt_disconnected">Изключен</string>
+    <string name="bt_unpaired">Несдвоени</string>
+    <string name="cf_activate_failed">Неуспешно активиране на Препращане на повиквания.</string>
+    <string name="cf_activate_success">Препращането на повиквания е активирано.</string>
+    <string name="cf_deactivate_failed">Неуспешно деактивиране на Препращане на повиквания.</string>
+    <string name="cf_deactivate_success">Препращането на повиквания е забранено.</string>
+    <string name="cf_notification_title">Препращане на повиквания към Gear</string>
+    <string name="common_none">Няма</string>
+    <string name="common_recent_apps">Скор. прил.</string>
+    <string name="fmg_unavailable_during_call">Недостъпно по време на разговор.</string>
+    <string name="general_app_name_for_reinstall">приложението Samsung Gear</string>
+    <string name="indicator_noti_restoring">Възстановяване…</string>
+    <string name="indicator_noti_subtitle">Свързано с %s.</string>
+    <string name="indicator_noti_to">Свързан с %s.</string>
+    <string name="indicator_noti_to_connect_bt">Свързани сте към %s чрез Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Свързани сте с %s отдалечено.</string>
+    <string name="indicator_noti_to_disconnect">Връзката с %s е прекъсната.</string>
+    <string name="install_fail_dueto_connection_lost">Неуспешно инсталиране на приложението за Gear. Връзката с вашето мобилно устройство е изгубена. Приложението за Gear ще бъде инсталирано, когато се свържете към мобилното устройство.</string>
+    <string name="navigate_up">Навигация нагоре</string>
+    <string name="notification_alarm">Аларма</string>
+    <string name="notification_email">Имейл</string>
+    <string name="notification_incoming_call">Входящо повикване</string>
+    <string name="notification_messages">Съобщения</string>
+    <string name="notification_missed_call">Пропуснат разговор</string>
+    <string name="notification_schedule">Моят график</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s ще остане на устройството ви дори след деинсталиране на %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Неуспешно деинсталиране на приложението за Gear. Връзката с вашето мобилно устройство е изгубена. Приложението за Gear ще бъде деинсталирано, когато се свържете към мобилното устройство.</string>
+    <string name="update_fail_dueto_connection_lost">Неуспешно актуализиране на приложението за Gear. Връзката с вашето мобилно устройство е изгубена. Приложението за Gear ще бъде актуализирано, когато се свържете към мобилното устройство.</string>
+    <string name="watch_app_install_fail">Неуспешно инсталиране на приложението.</string>
+    <string name="watch_app_upate_fail">Неуспешно актуализиране на приложението за Gear. Връзката с мобилното устройство е изгубена.</string>
+</resources>

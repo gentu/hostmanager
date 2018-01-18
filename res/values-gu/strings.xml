@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">ગીઅર મેનેજર</string>
+    <string name="bt_connected">જોડેલ</string>
+    <string name="bt_disconnected">ડીસ્કનેકટેડ</string>
+    <string name="bt_unpaired">જોડી અલગ</string>
+    <string name="cf_activate_failed">કૉલ ફોર્વર્ડિંગ સક્ષમ કરવામાં નિષ્ફળ.</string>
+    <string name="cf_activate_success">કૉલ ફોર્વર્ડિંગ સક્ષમ કરેલું છે.</string>
+    <string name="cf_deactivate_failed">કૉલ ફોર્વર્ડિંગ અક્ષમ કરવામાં નિષ્ફળ.</string>
+    <string name="cf_deactivate_success">કૉલ ફોર્વર્ડિંગને અક્ષમ કરેલ છે.</string>
+    <string name="cf_notification_title">તમારા ગિઅર પર કૉલ્સ ફોર્વર્ડ કરી રહ્યું છે</string>
+    <string name="common_none">એકેય નહીં</string>
+    <string name="common_recent_apps">તાજેતરની એપ્સ</string>
+    <string name="fmg_unavailable_during_call">કૉલ દરમ્યાન અનઉપલબ્ધ.</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear એપ્લિકેશન</string>
+    <string name="indicator_noti_restoring">પુન:સ્થાપિત કરે છે…</string>
+    <string name="indicator_noti_subtitle">%s થી જોડાયા.</string>
+    <string name="indicator_noti_to">%s સાથે જોડાયેલ.</string>
+    <string name="indicator_noti_to_connect_bt">બ્લ્યુટુથ મારફતે %s થી જોડ્યું.</string>
+    <string name="indicator_noti_to_connect_remotely">%s થી રિમોટલી જોડ્યું.</string>
+    <string name="indicator_noti_to_disconnect">%s થી ડિસ્કનેક્ટ થયું.</string>
+    <string name="install_fail_dueto_connection_lost">ગિઅર એપ્લિકેશન સ્થાપિત કરવામાં નિષ્ફળ થયું. તમારા મોબાઇલ ઉપકરણનું જોડાણ ગુમ થયું છે. મોબાઇલ ઉપકરણથી જોડેલું હોય ત્યારે ગિઅર એપ્લિકેશન સ્થાપિત થશે.</string>
+    <string name="navigate_up">ઉપર નેવિગેટ કરો</string>
+    <string name="notification_alarm">એલાર્મ</string>
+    <string name="notification_email">ઇમેલ</string>
+    <string name="notification_incoming_call">ઇનકમિંગ કૉલ</string>
+    <string name="notification_messages">સંદેશા</string>
+    <string name="notification_missed_call">છૂટી ગયેલા કૉલ્સ</string>
+    <string name="notification_schedule">અનુસૂચિ</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%2$s ને અનઇન્સ્ટોલ કર્યા પછી પણ %1$s તમારા ઉપકરણ પર રહેશે.</string>
+    <string name="uninstall_fail_dueto_connection_lost">ગિઅર એપ્લિકેશનની સ્થાપના દૂર કરવામાં નિષ્ફળ થયું. તમારા મોબાઇલ ઉપકરણનું જોડાણ ગુમ થયું છે. જ્યારે મોબાઇલ ઉપકરણથી જોડેલું હોય ત્યારે ગિઅર એપ્લિકેશનની સ્થાપના દૂર કરવામાં આવશે.</string>
+    <string name="update_fail_dueto_connection_lost">ગિઅર એપ્લિકેશનને અપડેટ કરવામાં નિષ્ફળ થયું. તમારા મોબાઇલ ઉપકરણનું જોડાણ ગુમ થયું છે. જ્યારે મોબાઇલ ઉપકરણથી જોડેલું હોય ત્યારે ગિઅર એપ્લિકેશન અપડેટ કરવામાં કરવામાં આવશે.</string>
+    <string name="watch_app_install_fail">એપ સ્થાપિત કરવામાં નિષ્ફળ થયું.</string>
+    <string name="watch_app_upate_fail">ગિઅર એપ્લિકેશનને અપડેટ કરવામાં નિષ્ફળ થયું. મોબાઇલ ઉપકરણથી જોડાણ દૂર થયું.</string>
+</resources>

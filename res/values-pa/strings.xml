@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">ਗੇਅਰ ਪ੍ਰਬੰਧਕ</string>
+    <string name="bt_connected">ਕਨੈਕਟ ਹੋਇਆ</string>
+    <string name="bt_disconnected">ਡਿਸਕਨੈਕਟ ਹੋ ਗਿਆ ਹੈ</string>
+    <string name="bt_unpaired">ਜੋੜਾ ਤੋੜਿਆ</string>
+    <string name="cf_activate_failed">ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ ਸਮਰੱਥ ਕਰਨ ਵਿੱਚ ਅਸਫਲ।</string>
+    <string name="cf_activate_success">ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ ਨੂੰ ਸਮਰੱਥ ਕੀਤਾ ਗਿਆ।</string>
+    <string name="cf_deactivate_failed">ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ ਅਸਮਰੱਥ ਕਰਨ ਵਿੱਚ ਅਸਫਲ।</string>
+    <string name="cf_deactivate_success">ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ ਅਸਮਰੱਥ।</string>
+    <string name="cf_notification_title">ਤੁਹਾਡੇ ਗੇਅਰ ਤੇ ਕਾੱਲਸ ਫਾਰਵਰਡ ਕਰਨਾ</string>
+    <string name="common_none">ਕੋਈ ਨਹੀਂ</string>
+    <string name="common_recent_apps">ਹਾਲ ਹੀ ਦੇ ਐਪਸ</string>
+    <string name="fmg_unavailable_during_call">ਕਾੱਲ ਦੌਰਾਨ ਉਪਲਬਧ ਨਹੀਂ।</string>
+    <string name="general_app_name_for_reinstall">ਸੈਮਸੰਗ ਗੇਅਰ ਅਨੁਪ੍ਰਯੋਗ</string>
+    <string name="indicator_noti_restoring">ਪੁਨਰ ਸਥਾਪਿਤ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="indicator_noti_subtitle">%s ਨਾਲ ਕਨੈਕਟ ਹੋਇਆ।</string>
+    <string name="indicator_noti_to">%s ਨਾਲ ਕਨੈਕਟ ਹੋਇਆ।</string>
+    <string name="indicator_noti_to_connect_bt">%s ਨਾਲ ਬਲੂਟੁੱਥ ਰਾਹੀਂ ਕਨੈਕਟ ਕੀਤਾ ਗਿਆ।</string>
+    <string name="indicator_noti_to_connect_remotely">%s ਨਾਲ ਦੂਰਵਰਤੀ ਤਰੀਕੇ ਨਾਲ ਕਨੈਕਟ ਕੀਤਾ ਗਿਆ।</string>
+    <string name="indicator_noti_to_disconnect">%s ਤੋਂ ਡਿਸਕਨੈਕਟ ਹੋਇਆ।</string>
+    <string name="install_fail_dueto_connection_lost">ਗੇਅਰ ਐਪ ਸਥਾਪਿਤ ਕਰਨ ਵਿੱਚ ਅਸਫਲ। ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਨਾਲ ਕਨੈਕਸ਼ਨ ਸਮਾਪਤ ਹੋ ਗਿਆ ਹੈ। ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਹੋਣ ਤੇ ਗੇਅਰ ਐਪ ਸਥਾਪਿਤ ਹੋ ਜਾਵੇਗਾ।</string>
+    <string name="navigate_up">ਉੱਪਰ ਨੈਵੀਗੇਟ ਕਰੋ</string>
+    <string name="notification_alarm">ਅਲਾਰਮ</string>
+    <string name="notification_email">ਈਮੇਲ</string>
+    <string name="notification_incoming_call">ਇਨਕਮਿੰਗ ਕਾੱਲ</string>
+    <string name="notification_messages">ਸੰਦੇਸ਼</string>
+    <string name="notification_missed_call">ਮਿਸਡ ਕਾੱਲ</string>
+    <string name="notification_schedule">ਸ਼ੈਡਿਊਲ</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%2$s ਨੂੰ ਅਣਸਥਾਪਿਤ ਕਰਨ ਤੋਂ ਬਾਅਦ ਵੀ %1$s ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਉੱਤੇ ਰਹੇਗਾ।</string>
+    <string name="uninstall_fail_dueto_connection_lost">ਗੇਅਰ ਐਪ ਅਣਸਥਾਪਿਤ ਕਰਨ ਵਿੱਚ ਅਸਫਲ। ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਨਾਲ ਕਨੈਕਸ਼ਨ ਸਮਾਪਤ ਹੋ ਗਿਆ ਹੈ। ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਹੋਣ ਤੇ ਗੇਅਰ ਅਨੁਪ੍ਰਯੋਗ ਐਪ ਹੋ ਜਾਵੇਗਾ।</string>
+    <string name="update_fail_dueto_connection_lost">ਗੇਅਰ ਐਪ ਅਪਡੇਟ ਕਰਨ ਵਿੱਚ ਅਸਫਲ। ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਨਾਲ ਕਨੈਕਸ਼ਨ ਸਮਾਪਤ ਹੋ ਗਿਆ ਹੈ। ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਹੋਣ ਤੇ ਗੇਅਰ ਐਪ ਅਪਡੇਟ ਹੋ ਜਾਵੇਗਾ।</string>
+    <string name="watch_app_install_fail">ਐਪ ਸਥਾਪਿਤ ਕਰਨ ਵਿੱਚ ਅਸਫਲ।</string>
+    <string name="watch_app_upate_fail">ਗੇਅਰ ਅਨੁਪ੍ਰਯੋਗ ਅਪਡੇਟ ਕਰਨ ਵਿੱਚ ਅਸਫਲ। ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਤੇ ਕਨੈਕਸ਼ਨ ਖਤਮ ਹੋ ਗਿਆ ਹੈ।</string>
+</resources>

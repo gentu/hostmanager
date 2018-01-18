@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="root_view">false</item>
+    <item type="id" name="drawer_layout">false</item>
+    <item type="id" name="content_frame">false</item>
+    <item type="id" name="content_frame1">false</item>
+    <item type="id" name="left_drawer">false</item>
+    <item type="id" name="main_logo_top">false</item>
+    <item type="id" name="ly_action_bar_button">false</item>
+    <item type="id" name="pluginListSpinner">false</item>
+    <item type="id" name="layout_drawer">false</item>
+    <item type="id" name="action_up_button">false</item>
+    <item type="id" name="tvActionTitle">false</item>
+    <item type="id" name="ly_action_switch_holder">false</item>
+    <item type="id" name="ly_action_btn_holder">false</item>
+    <item type="id" name="app_icon">false</item>
+    <item type="id" name="drawer_menu_layout">false</item>
+    <item type="id" name="status">false</item>
+    <item type="id" name="general_layout">false</item>
+    <item type="id" name="spinnertext">false</item>
+    <item type="id" name="spinner_text_item">false</item>
+</resources>

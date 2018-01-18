@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">ගියර් කළමනාකරු</string>
+    <string name="bt_connected">සම්බන්ධිතයි</string>
+    <string name="bt_disconnected">විසන්ධි විය</string>
+    <string name="bt_unpaired">යුගලගත කර නැත</string>
+    <string name="cf_activate_failed">ඇමතුම් යොමු කිරීම සක්‍රිය කිරීම අසාර්ථකයි.</string>
+    <string name="cf_activate_success">ඇමතුම් යොමු කිරීම සක්‍රියයි.</string>
+    <string name="cf_deactivate_failed">ඇමතුම් යොමු කිරීම අක්‍රිය කිරීම අසාර්ථකයි.</string>
+    <string name="cf_deactivate_success">ඇමතුම් යොමු කිරීම අක්‍රියයි.</string>
+    <string name="cf_notification_title">ඔබගේ ගියර් වෙත ඇමතුම් යොමු කිරීම</string>
+    <string name="common_none">නොමැත</string>
+    <string name="common_recent_apps">මෑත යෙදුම්</string>
+    <string name="fmg_unavailable_during_call">ඇමතුම අතර‍තුර නොමැත.</string>
+    <string name="general_app_name_for_reinstall">සැම්සුං ගියර් යෙදුම</string>
+    <string name="indicator_noti_restoring">ප්‍රතිස්ථාපනය කරමින්…</string>
+    <string name="indicator_noti_subtitle">%s වෙත සබැඳිණි.</string>
+    <string name="indicator_noti_to">%s සමඟ සම්බන්ධ විය.</string>
+    <string name="indicator_noti_to_connect_bt">බ්ලූටූත් හරහා %s වෙත සම්බන්ධ විණි.</string>
+    <string name="indicator_noti_to_connect_remotely">දුරස්ථව %s වෙත සම්බන්ධ විණි.</string>
+    <string name="indicator_noti_to_disconnect">%s වෙතින් විසන්ධි විය.</string>
+    <string name="install_fail_dueto_connection_lost">ගියර යෙදුම ස්ථාපනය කිරීමට අසමත් විය. ඔබගේ ජංගම උපාංගය වෙත සබැඳුම නැතිවී ඇත. ජංගම උපාංගය වෙත සබැඳුණු විට ගියර යෙදුම ස්ථාපනය වනු ඇත.</string>
+    <string name="navigate_up">ඉහළට යාත්‍රා කරන්න</string>
+    <string name="notification_alarm">එලාමය</string>
+    <string name="notification_email">ඊමේල්</string>
+    <string name="notification_incoming_call">ලැබෙන ඇමතුම්</string>
+    <string name="notification_messages">පණිවිඩ</string>
+    <string name="notification_missed_call">මඟහැරුණු ඇමතුම</string>
+    <string name="notification_schedule">කාර්යසටහන</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%2$s අස්ථාපනය කිරීමෙන් පසුව ද %1$s ඔබේ උපාංගයෙහි රැඳෙනු ඇත.</string>
+    <string name="uninstall_fail_dueto_connection_lost">ගියර යෙදුම අස්ථාපනය කිරීමට අසමත් විය. ඔබගේ ජංගම උපාංගය වෙත සබැඳුම නැතිවී ඇත. ජංගම උපාංගය වෙත සබැඳුණු විට ගියර යෙදුම අස්ථාපනය වනු ඇත.</string>
+    <string name="update_fail_dueto_connection_lost">ගියර යෙදුම යාවත්කාලීන කිරීමට අසමත් විය. ඔබගේ ජංගම උපාංගය වෙත සබැඳුම නැතිවී ඇත. ජංගම උපාංගය වෙත සබැඳුණු විට ගියර යෙදුම යාවත්කාලීන වනු ඇත.</string>
+    <string name="watch_app_install_fail">යෙදුම ස්ථාපනය කිරීම අසමත් විය.</string>
+    <string name="watch_app_upate_fail">ගියර් යෙදුම යාවත්කාලීන කිරීමට අසමත් විය. ජංගම උපාංගය වෙත සබැඳුම නැති විය.</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Verbonden</string>
+    <string name="bt_disconnected">Verbinding verbroken</string>
+    <string name="bt_unpaired">Niet-gekoppeld</string>
+    <string name="cf_activate_failed">Kan Oproepen doorschakelen niet inschakelen.</string>
+    <string name="cf_activate_success">Oproepen doorschakelen ingeschakeld.</string>
+    <string name="cf_deactivate_failed">Kan Oproepen doorschakelen niet uitschakelen.</string>
+    <string name="cf_deactivate_success">Oproepen doorschakelen uitgeschakeld.</string>
+    <string name="cf_notification_title">Oproepen doorschakelen naar uw Gear</string>
+    <string name="common_none">Geen</string>
+    <string name="common_recent_apps">Recente apps</string>
+    <string name="fmg_unavailable_during_call">Niet beschikbaar tijdens gesprek.</string>
+    <string name="general_app_name_for_reinstall">de Samsung Gear-applicatie</string>
+    <string name="indicator_noti_restoring">Herstellen…</string>
+    <string name="indicator_noti_subtitle">Verbonden met %s.</string>
+    <string name="indicator_noti_to">Verbonden met %s.</string>
+    <string name="indicator_noti_to_connect_bt">Verbonden met %s via Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Verbonden met %s op afstand.</string>
+    <string name="indicator_noti_to_disconnect">Verbinding met %s verbroken.</string>
+    <string name="install_fail_dueto_connection_lost">Kan de Gear-app niet installeren. De verbinding met uw mobiele apparaat is verbroken. De Gear-app wordt geïnstalleerd als er verbinding is met het mobiele apparaat.</string>
+    <string name="navigate_up">Omhoog navigeren</string>
+    <string name="notification_alarm">Alarm</string>
+    <string name="notification_email">E-mail</string>
+    <string name="notification_incoming_call">Inkomende oproep</string>
+    <string name="notification_messages">Berichten</string>
+    <string name="notification_missed_call">Gemiste oproep</string>
+    <string name="notification_schedule">Afspraak</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s blijft op uw apparaat ook nadat %2$s is verwijderd.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Kan de Gear-app niet verwijderen. De verbinding met uw mobiele apparaat is verbroken. De Gear-app wordt verwijderd als er verbinding is met het mobiele apparaat.</string>
+    <string name="update_fail_dueto_connection_lost">Kan de Gear-app niet bijwerken. De verbinding met uw mobiele apparaat is verbroken. De Gear-app wordt bijgewerkt als er verbinding is met het mobiele apparaat.</string>
+    <string name="watch_app_install_fail">Kan de app niet installeren.</string>
+    <string name="watch_app_upate_fail">Kan Gear-app niet bijwerken. Verbinding met mobiel apparaat verbroken.</string>
+</resources>

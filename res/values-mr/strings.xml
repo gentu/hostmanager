@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">गिअर व्‍यवस्‍थापक</string>
+    <string name="bt_connected">कनेक्‍ट झाले</string>
+    <string name="bt_disconnected">खंडित केले</string>
+    <string name="bt_unpaired">अनपेअर केलेली</string>
+    <string name="cf_activate_failed">कॉल अग्रेषित करणे सक्षम करण्यात अयशस्वी झाले.</string>
+    <string name="cf_activate_success">कॉल अग्रेषित करणे सक्षम आहे.</string>
+    <string name="cf_deactivate_failed">कॉल अग्रेषित करणे अक्षम करण्यात अयशस्वी झाले.</string>
+    <string name="cf_deactivate_success">कॉल अग्रेषण अक्षम केले.</string>
+    <string name="cf_notification_title">आपल्‍या गिअरवर कॉल्‍स अग्रेषित करणे</string>
+    <string name="common_none">काही नाही</string>
+    <string name="common_recent_apps">अलीकडील अनुप्रयोग</string>
+    <string name="fmg_unavailable_during_call">कॉल दरम्यान अनुपलब्ध.</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear अनुप्रयोग</string>
+    <string name="indicator_noti_restoring">पुन:संग्रहित करीत आहे…</string>
+    <string name="indicator_noti_subtitle">%s वर कनेक्‍ट केले.</string>
+    <string name="indicator_noti_to">%s शी जोडले.</string>
+    <string name="indicator_noti_to_connect_bt">%s शी ब्लुटूथद्वारे कनेक्ट केले.</string>
+    <string name="indicator_noti_to_connect_remotely">%s शी दूरस्थपणे कनेक्ट केले.</string>
+    <string name="indicator_noti_to_disconnect">%s वरून डिस्कनेक्ट केले.</string>
+    <string name="install_fail_dueto_connection_lost">गिअर ऍप इन्‍स्‍टॉल करण्‍यामध्‍ये अयशस्‍वी. आपल्‍या मोबाईल उपकरणावीरल कनेक्‍शन गमावले आहे. जेव्‍हा मोबाईल उपकरणाशी कनेक्‍ट असेल तेव्‍हा गिअर ऍप इन्‍स्‍टॉल केले जाईल.</string>
+    <string name="navigate_up">वरती नेव्हिगेट करा</string>
+    <string name="notification_alarm">अलार्म</string>
+    <string name="notification_email">ईमेल</string>
+    <string name="notification_incoming_call">येणारा कॉल</string>
+    <string name="notification_messages">संदेश</string>
+    <string name="notification_missed_call">सुटलेले कॉल</string>
+    <string name="notification_schedule">शेड्यूल</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%2$s अनइन्स्टॉल केल्यावर देखील %1$s आपल्या उपकरणावर राहील.</string>
+    <string name="uninstall_fail_dueto_connection_lost">गिअर ऍप अन्‍इन्‍स्‍टॉल करण्‍यामध्‍ये अयशस्‍वी. आपल्‍या मोबाईल उपकरणावीरल कनेक्‍शन गमावले आहे. जेव्‍हा मोबाईल उपकरणाशी कनेक्‍ट असेल तेव्‍हा गिअर ऍप अन्‍इन्‍स्‍टॉल केले जाईल.</string>
+    <string name="update_fail_dueto_connection_lost">गिअर ऍप अद्ययावत करण्‍यामध्‍ये अयशस्‍वी. आपल्‍या मोबाईल उपकरणावीरल कनेक्‍शन गमावले आहे. जेव्‍हा मोबाईल उपकरणाशी कनेक्‍ट असेल तेव्‍हा गिअर ऍप अद्ययावत केले जाईल.</string>
+    <string name="watch_app_install_fail">ऍप इन्‍स्‍टॉल करण्‍यामध्‍ये अयशस्‍वी.</string>
+    <string name="watch_app_upate_fail">गिअर ऍप अद्ययावत करण्‍यामध्‍ये अयशस्‍वी. मोबाईल उपकरणावरील कनेक्‍शन गमावले आहे.</string>
+</resources>

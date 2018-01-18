@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">متصل</string>
+    <string name="bt_disconnected">قطع شد</string>
+    <string name="bt_unpaired">جفت سازی لغو شد</string>
+    <string name="cf_activate_failed">فعال کردن هدایت تماس ناموفق بود.</string>
+    <string name="cf_activate_success">هدایت تماس فعال شد.</string>
+    <string name="cf_deactivate_failed">غیرفعال کردن هدایت تماس ناموفق بود.</string>
+    <string name="cf_deactivate_success">هدایت تماس غیرفعال شد.</string>
+    <string name="cf_notification_title">هدایت تماس‌‌ها به Gear</string>
+    <string name="common_none">هيچيک</string>
+    <string name="common_recent_apps">برنامه اخیر</string>
+    <string name="fmg_unavailable_during_call">درزمان مکالمه در دسترس نمی‌باشد.</string>
+    <string name="general_app_name_for_reinstall">برنامه Samsung Gear</string>
+    <string name="indicator_noti_restoring">در حال بازیابی…</string>
+    <string name="indicator_noti_subtitle">به %s متصل شد.</string>
+    <string name="indicator_noti_to">با %s متصل شد.</string>
+    <string name="indicator_noti_to_connect_bt">از طریق بلوتوث به ‎%s متصل شد.</string>
+    <string name="indicator_noti_to_connect_remotely">از راه دور به ‎%s متصل شد.</string>
+    <string name="indicator_noti_to_disconnect">اتصال با ‎%s قطع شد.</string>
+    <string name="install_fail_dueto_connection_lost">برنامه Gear نصب نشد. اتصال به دستگاه تلفن همراه شما قطع شد. برنامه Gear وقتی به دستگاه تلفن همراه شما وصل شد، نصب می شود.</string>
+    <string name="navigate_up">پیمایش به بالا</string>
+    <string name="notification_alarm">زنگ هشدار</string>
+    <string name="notification_email">ایمیل</string>
+    <string name="notification_incoming_call">تماس دريافتی</string>
+    <string name="notification_messages">پيام ها</string>
+    <string name="notification_missed_call">تماس بی پاسخ</string>
+    <string name="notification_schedule">برنامه</string>
+    <string name="notification_voicemail">‏Voice Mail</string>
+    <string name="toast_text_for_reinstall">حتی پس از لغو نصب ‎%2$s‏ ‎%1$s در دستگاهتان باقی می‌ماند.</string>
+    <string name="uninstall_fail_dueto_connection_lost">برنامه Gear لغو نصب نشد. اتصال به دستگاه تلفن همراه شما قطع شد. برنامه Gear وقتی به دستگاه تلفن همراه شما وصل شد، لغو نصب می شود.</string>
+    <string name="update_fail_dueto_connection_lost">برنامه Gear به روزرسانی نشد. اتصال به دستگاه تلفن همراه شما قطع شد. برنامه Gear وقتی به دستگاه تلفن همراه شما وصل شد، به روزرسانی می شود.</string>
+    <string name="watch_app_install_fail">نصب برنامه انجام نشد.</string>
+    <string name="watch_app_upate_fail">برنامه Gear به روزرسانی نشد. اتصال به دستگاه تلفن همراه قطع شد.</string>
+</resources>

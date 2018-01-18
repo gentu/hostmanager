@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear 관리자</string>
+    <string name="bt_connected">연결됨</string>
+    <string name="bt_disconnected">연결 해제</string>
+    <string name="bt_unpaired">등록 해제됨</string>
+    <string name="cf_activate_failed">[착신전환]을 실행하지 못하였습니다.</string>
+    <string name="cf_activate_success">[착신전환]을 실행하였습니다.</string>
+    <string name="cf_deactivate_failed">[착신전환]을 해제하지 못하였습니다.</string>
+    <string name="cf_deactivate_success">[착신전환]을 해제하였습니다.</string>
+    <string name="cf_notification_title">Gear로 착신전환하기</string>
+    <string name="common_none">설정 안 함</string>
+    <string name="common_recent_apps">최근 사용 앱</string>
+    <string name="fmg_unavailable_during_call">통화 중에는 사용할 수 없습니다.</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear 애플리케이션</string>
+    <string name="indicator_noti_restoring">복구 중…</string>
+    <string name="indicator_noti_subtitle">%s에 연결하였습니다.</string>
+    <string name="indicator_noti_to">%s 디바이스와 연결하였습니다.</string>
+    <string name="indicator_noti_to_connect_bt">%s에 블루투스로 연결하였습니다.</string>
+    <string name="indicator_noti_to_connect_remotely">%s에 원격으로 연결하였습니다.</string>
+    <string name="indicator_noti_to_disconnect">%s 연결을 해제하였습니다.</string>
+    <string name="install_fail_dueto_connection_lost">모바일 디바이스 연결이 해제되어 Gear 앱을 설치하지 못하였습니다. 모바일 디바이스에 연결되면 Gear 앱을 설치합니다.</string>
+    <string name="navigate_up">상위 메뉴로 이동</string>
+    <string name="notification_alarm">알람</string>
+    <string name="notification_email">이메일</string>
+    <string name="notification_incoming_call">수신전화</string>
+    <string name="notification_messages">메시지</string>
+    <string name="notification_missed_call">부재중 전화</string>
+    <string name="notification_schedule">일정</string>
+    <string name="notification_voicemail">음성 메일</string>
+    <string name="toast_text_for_reinstall">%2$s 플러그인을 삭제한 후에도 %1$s은 디바이스에 남아 있습니다.</string>
+    <string name="uninstall_fail_dueto_connection_lost">모바일 디바이스 연결이 해제되어 Gear 앱을 삭제하지 못하였습니다. 모바일 디바이스에 연결되면 Gear 앱을 삭제합니다.</string>
+    <string name="update_fail_dueto_connection_lost">모바일 디바이스 연결이 해제되어 Gear 앱을 업데이트하지 못하였습니다. 모바일 디바이스에 연결되면 Gear 앱을 업데이트합니다.</string>
+    <string name="watch_app_install_fail">앱을 설치하지 못하였습니다.</string>
+    <string name="watch_app_upate_fail">모바일 디바이스 연결이 해제되어 Gear 앱을 업데이트하지 못하였습니다.</string>
+</resources>

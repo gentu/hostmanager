@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Menaxheri Gear</string>
+    <string name="bt_connected">Lidhur</string>
+    <string name="bt_disconnected">Shkëputur</string>
+    <string name="bt_unpaired">Paçiftuar</string>
+    <string name="cf_activate_failed">Dështova të aftësoj Përcjelljen e thirrjeve.</string>
+    <string name="cf_activate_success">Përcjellja e thirrjeve është aftësuar.</string>
+    <string name="cf_deactivate_failed">Dështova të paaftësoj Përcjelljen e thirrjeve.</string>
+    <string name="cf_deactivate_success">Përcjellja e thirrjeve është paaftësuar.</string>
+    <string name="cf_notification_title">Përcjellja e thirrjeve te Gear</string>
+    <string name="common_none">Asnjë</string>
+    <string name="common_recent_apps">App së fundi</string>
+    <string name="fmg_unavailable_during_call">S’përdoret dot gjatë telefonatës.</string>
+    <string name="general_app_name_for_reinstall">aplikacioni Samsung Gear</string>
+    <string name="indicator_noti_restoring">Po rikthej…</string>
+    <string name="indicator_noti_subtitle">Lidhur me %s.</string>
+    <string name="indicator_noti_to">Lidhur me %s.</string>
+    <string name="indicator_noti_to_connect_bt">Lidhur me %s nëpërmjet Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Lidhur me %s në distancë.</string>
+    <string name="indicator_noti_to_disconnect">U shkëput nga %s.</string>
+    <string name="install_fail_dueto_connection_lost">Dështova të instaloj aplikacionin Gear. Lidhja me pajisjen tënde celulare ka humbur. Aplikacioni Gear do të instalohet kur të vendoset lidhja me pajisjen celulare.</string>
+    <string name="navigate_up">Navigo lart</string>
+    <string name="notification_alarm">Alarmi</string>
+    <string name="notification_email">E-posta</string>
+    <string name="notification_incoming_call">Telefonatë në hyrje</string>
+    <string name="notification_messages">Mesazhet</string>
+    <string name="notification_missed_call">Telefonatë e humbur</string>
+    <string name="notification_schedule">Orari</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s do të mbetet në pajisjen tënde edhe pasi të çinstalohet %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Dështova të çinstaloj aplikacionin Gear. Lidhja me pajisjen tënde celulare ka humbur. Aplikacioni Gear do të çinstalohet kur të vendoset lidhja me pajisjen celulare.</string>
+    <string name="update_fail_dueto_connection_lost">Dështova të përditësoj aplikacionin Gear. Lidhja me pajisjen tënde celulare ka humbur. Aplikacioni Gear do të përditësohet kur të vendoset lidhja me pajisjen celulare.</string>
+    <string name="watch_app_install_fail">Dështova të instaloj aplikacionin.</string>
+    <string name="watch_app_upate_fail">Dështova të përditësoj aplikacionin Gear. Lidhja me pajisjen celulare ka humbur.</string>
+</resources>

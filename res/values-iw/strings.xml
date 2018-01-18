@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">מחובר</string>
+    <string name="bt_disconnected">מנותק</string>
+    <string name="bt_unpaired">לא מותאם</string>
+    <string name="cf_activate_failed">נכשלה הפעלת הפונקציה ’העברת שיחות‘.</string>
+    <string name="cf_activate_success">הפונקציה ’העברת שיחות‘ מופעלת.</string>
+    <string name="cf_deactivate_failed">נכשלה השבתת הפונקציה ’העברת שיחות‘.</string>
+    <string name="cf_deactivate_success">התכונה ’העברת שיחות‘ מושבתת.</string>
+    <string name="cf_notification_title">העברת שיחות אל ה-Gear</string>
+    <string name="common_none">ללא</string>
+    <string name="common_recent_apps">יישומים אחרונים</string>
+    <string name="fmg_unavailable_during_call">לא זמין במהלך שיחה.</string>
+    <string name="general_app_name_for_reinstall">היישום Samsung Gear</string>
+    <string name="indicator_noti_restoring">משחזר…</string>
+    <string name="indicator_noti_subtitle">מחובר אל %s.</string>
+    <string name="indicator_noti_to">מחובר באמצעות %s.</string>
+    <string name="indicator_noti_to_connect_bt">מחובר אל %s באמצעות Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">מחובר מרחוק אל %s.</string>
+    <string name="indicator_noti_to_disconnect">מנותק מ-%s.</string>
+    <string name="install_fail_dueto_connection_lost">התקנת יישום Gear נכשלה. החיבור עם המכשיר הנייד שלך אבד. היישום Gear יותקן כאשר Gear יהיה מחובר למכשיר הנייד.</string>
+    <string name="navigate_up">נווט למעלה</string>
+    <string name="notification_alarm">התראה</string>
+    <string name="notification_email">‏‫דוא”ל‬</string>
+    <string name="notification_incoming_call">שיחה נכנסת</string>
+    <string name="notification_messages">הודעות</string>
+    <string name="notification_missed_call">שיחה שלא נענתה</string>
+    <string name="notification_schedule">פגישה</string>
+    <string name="notification_voicemail">‏Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s יישאר במכשיר גם לאחר הסרת %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">הסרת ההתקנה של יישום Gear נכשלה. החיבור עם המכשיר הנייד שלך אבד. התקנת היישום Gear תוסר כאשר Gear יהיה מחובר למכשיר הנייד.</string>
+    <string name="update_fail_dueto_connection_lost">עדכון יישום Gear נכשל. החיבור עם המכשיר הנייד שלך אבד. יישום Gear יעודכן כאשר Gear יהיה מחובר למכשיר הנייד.</string>
+    <string name="watch_app_install_fail">התקנת היישום נכשלה.</string>
+    <string name="watch_app_upate_fail">עדכון יישום Gear נכשל. החיבור למכשיר הנייד אבד.</string>
+</resources>

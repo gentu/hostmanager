@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Nakakonekta</string>
+    <string name="bt_disconnected">Nadiskonekta</string>
+    <string name="bt_unpaired">Na-unpair</string>
+    <string name="cf_activate_failed">Nabigo sa pagpapagana ng Call forwarding.</string>
+    <string name="cf_activate_success">Pinagana ang Call forwarding.</string>
+    <string name="cf_deactivate_failed">Nabigo sa hindi pagpapagana ng Call forwarding.</string>
+    <string name="cf_deactivate_success">Hindi pinagana ang Call forwarding.</string>
+    <string name="cf_notification_title">Fino-forward ang mga tawag sa iyong Gear</string>
+    <string name="common_none">Wala</string>
+    <string name="common_recent_apps">Recent apps</string>
+    <string name="fmg_unavailable_during_call">Hindi available habang nasa tawag.</string>
+    <string name="general_app_name_for_reinstall">ang Samsung Gear application</string>
+    <string name="indicator_noti_restoring">Ipinapanumbalik…</string>
+    <string name="indicator_noti_subtitle">Nakakonekta sa %s.</string>
+    <string name="indicator_noti_to">Nakakonekta sa %s.</string>
+    <string name="indicator_noti_to_connect_bt">Nakakonekta sa %s sa pamamagitan ng Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Nakakonekta sa %s nang malayuan.</string>
+    <string name="indicator_noti_to_disconnect">Tinanggal mula sa %s.</string>
+    <string name="install_fail_dueto_connection_lost">Nabigong i-install ang Gear app. Nawala ang koneksyon sa iyong mobile device . I-i-install ang Gear app kapag nakakonekta sa mobile device.</string>
+    <string name="navigate_up">Mag-navigate pataas</string>
+    <string name="notification_alarm">Alarm</string>
+    <string name="notification_email">Email</string>
+    <string name="notification_incoming_call">Papasok na tawag</string>
+    <string name="notification_messages">Mga Mensahe</string>
+    <string name="notification_missed_call">Hindi nasagot na tawag</string>
+    <string name="notification_schedule">Iskedyul</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">Ang %1$s ay mananatili sa iyong device kahit pagkatapos na i-uninstall ang %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Nabigong i-uninstall ang Gear app. Nawala ang koneksyon sa iyong mobile device . I-a-uninstall ang Gear app kapag nakakonekta sa mobile device.</string>
+    <string name="update_fail_dueto_connection_lost">Nabigong i-update ang Gear app. Nawala ang koneksyon sa iyong mobile device . I-a-update ang Gear app kapag nakakonekta sa mobile device.</string>
+    <string name="watch_app_install_fail">Nabigong i-install ang app.</string>
+    <string name="watch_app_upate_fail">Nabigong i-udpate ang Gear app. Nawala ang koneksyon sa mobile device.</string>
+</resources>

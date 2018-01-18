@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">ဂီယာ မန္ေနဂ်ာ</string>
+    <string name="bt_connected">ခ်ိတ္ဆက္ေနပါသည္</string>
+    <string name="bt_disconnected">ဆက္သြယ္ထားမႈကို ျဖတ္ေတာက္ၿပီးပါၿပီ</string>
+    <string name="bt_unpaired">တြဲမထားပါ</string>
+    <string name="cf_activate_failed">ေခၚဆိုမႈ ဆက္ပို႔ျခင္းကို ဖြင့္လို႔ မရႏိုင္ပါ။</string>
+    <string name="cf_activate_success">ေခၚဆိုမႈ ဆက္ပို႔ျခင္းကို ဖြင့္ထားပါသည္။</string>
+    <string name="cf_deactivate_failed">ေခၚဆိုမႈ ဆက္ပို႔ျခင္းကို ပိတ္ရန္ မေအာင္ျမင္ပါ။</string>
+    <string name="cf_deactivate_success">ဖုန္းေခၚဆိုမႈ ထပ္ဆင့္ ေပးပို႔ျခင္းကို ပိတ္ထားပါသည္။</string>
+    <string name="cf_notification_title">သင့္ဂီယာသို႔ ဖုန္းေခၚမ်ား ဆက္ပို႔ျခင္း</string>
+    <string name="common_none">မရွိ</string>
+    <string name="common_recent_apps">လတ္တေလာ အပ္မ်ား</string>
+    <string name="fmg_unavailable_during_call">ဖုန္းေခၚဆိုေနစဥ္ မရႏိုင္ပါ။</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear အပလီေကးရွင္း</string>
+    <string name="indicator_noti_restoring">ျပန္ေဖၚထုတ္ေန….</string>
+    <string name="indicator_noti_subtitle">%s သို႔ ခ်ိတ္ဆက္ထားသည္</string>
+    <string name="indicator_noti_to">%s ႏွင့္ ခ်ိတ္ဆက္ၿပီးၿပီ။</string>
+    <string name="indicator_noti_to_connect_bt">%s ထံ ဘလူးတုသ္မွတဆင့္ ခ်ိတ္ဆက္ခဲ့သည္။</string>
+    <string name="indicator_noti_to_connect_remotely">%s ထံ အေဝးမွ ခ်ိတ္ဆက္ခဲ့သည္။</string>
+    <string name="indicator_noti_to_disconnect">%s မွ ခ်ိတ္ဆက္မႈ ျပတ္ေနပါသည္။</string>
+    <string name="install_fail_dueto_connection_lost">ဂီယာ အက္ပ္ တပ္ဆင္ရန္ မေအာင္ျမင္ပါ။ သင့္ မိုဘိုင္းကိရိယာသို႔ ခ်ိတ္ဆက္မႈ ေပ်ာက္သြားသည္။ မိုဘိုင္းကိရိယာသို႔ ခ်ိတ္ဆက္သည့္အခါ ဂီယာ အက္ပ္ တပ္ဆင္လိမ့္မည္။</string>
+    <string name="navigate_up">အေပၚကို ေမာင္းသြားပါ</string>
+    <string name="notification_alarm">သတိေပးခ်က္</string>
+    <string name="notification_email">အီးေမးလ္</string>
+    <string name="notification_incoming_call">အ၀င္ ဖုန္းေခၚဆုိမႈ</string>
+    <string name="notification_messages">မက္ေဆ့မ်ား</string>
+    <string name="notification_missed_call">လြတ္သြားေသာ ဖုန္းေခၚဆုိမႈ</string>
+    <string name="notification_schedule">အစီအစဥ္</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%2$s ကို ျဖဳတ္ၿပီးေနာက္မွာ %1$s က သင့္ကိရိယာေပၚ၌ က်န္ရွိေနပါမည္။</string>
+    <string name="uninstall_fail_dueto_connection_lost">ဂီယာ အက္ပ္ ျပန္ျဖဳတ္ရန္ မေအာင္ျမင္ပါ။ သင့္ မိုဘိုင္းကိရိယာသို႔ ခ်ိတ္ဆက္မႈ ေပ်ာက္သြားသည္။ မိုဘိုင္းကိရိယာသို႔ ခ်ိတ္ဆက္သည့္အခါ ဂီယာ အက္ပ္ ျပန္ျဖဳတ္လိမ့္မည္။</string>
+    <string name="update_fail_dueto_connection_lost">ဂီယာ အက္ပ္ အပ္ဒိတ္လုပ္ရန္ မေအာင္ျမင္ပါ။ သင့္ မိုဘိုင္းကိရိယာသို႔ ခ်ိတ္ဆက္မႈ ေပ်ာက္သြားသည္။ မိုဘိုင္းကိရိယာသို႔ ခ်ိတ္ဆက္သည့္အခါ ဂီယာ အက္ပ္ အပ္ဒိတ္လုပ္လိမ့္မည္။</string>
+    <string name="watch_app_install_fail">အက္ပ္ တပ္ဆင္ရန္ မေအာင္ျမင္ပါ။</string>
+    <string name="watch_app_upate_fail">ဂီယာ အက္ပ္ အပ္ဒိတ္လုပ္ရန္ မေအာင္ျမင္ပါ။ မိုဘိုင္းကိရိယာသို႔ ခ်ိတ္ဆက္မႈ ေပ်ာက္သြားသည္။</string>
+</resources>

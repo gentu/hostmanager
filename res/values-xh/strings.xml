@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cf_activate_failed">Failed to enable Call forwarding.</string>
+    <string name="cf_activate_success">Call forwarding enabled.</string>
+    <string name="cf_deactivate_failed">Failed to disable Call forwarding.</string>
+    <string name="cf_deactivate_success">Call forwarding disabled.</string>
+    <string name="cf_notification_title">Forwarding calls to your Gear</string>
+    <string name="common_none">Azikho</string>
+    <string name="common_recent_apps">Recent apps</string>
+    <string name="fmg_unavailable_during_call">Ukungafumaneki ngethuba lomnxeba</string>
+    <string name="indicator_noti_restoring">Kuyabuyiselwa…</string>
+    <string name="indicator_noti_subtitle">Connected to %s.</string>
+    <string name="indicator_noti_to">Kuqhagamshelwe nge- %s</string>
+    <string name="indicator_noti_to_connect_bt">Connected to %s via Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Connected to %s remotely.</string>
+    <string name="indicator_noti_to_disconnect">Disconnected from %s.</string>
+    <string name="install_fail_dueto_connection_lost">Failed to install the Gear app. The connection to your mobile device has been lost. The Gear app will be installed when connected to the mobile device.</string>
+    <string name="notification_alarm">Ialam</string>
+    <string name="notification_email">Email</string>
+    <string name="notification_incoming_call">Ikholi engenayo</string>
+    <string name="notification_messages">Imiyalezo</string>
+    <string name="notification_missed_call">Ikholi ephosiweyo</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="uninstall_fail_dueto_connection_lost">Failed to uninstall the Gear app. The connection to your mobile device has been lost. The Gear app will be uninstalled when connected to the mobile device.</string>
+    <string name="update_fail_dueto_connection_lost">Failed to update the Gear app. The connection to your mobile device has been lost. The Gear app will be updated when connected to the mobile device.</string>
+    <string name="watch_app_install_fail">Failed to install the app.</string>
+    <string name="watch_app_upate_fail">Failed to update Gear app. Connection to mobile device lost.</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cf_activate_failed">Дуудлага уламжлахыг идэвхижүүлж чадсангүй.</string>
+    <string name="cf_activate_success">Дуудлага уламжлахыг идэвхижүүлэх.</string>
+    <string name="cf_deactivate_failed">Дуудлага уламжлахыг идэвхигүй болгож чадсангүй.</string>
+    <string name="cf_deactivate_success">Дуудлага уламжлахыг идэвхгүй болгосон.</string>
+    <string name="cf_notification_title">Дуудлагыг таны Gear рүү уламжилж байна</string>
+    <string name="common_none">Байхгүй</string>
+    <string name="common_recent_apps">Сүүл. прог</string>
+    <string name="fmg_unavailable_during_call">Дуудлагын үеэр боломжгүй</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear апп</string>
+    <string name="indicator_noti_restoring">Сэргээж байна…</string>
+    <string name="indicator_noti_subtitle">%s-д холбогдсон.</string>
+    <string name="indicator_noti_to">%s-д холбогдлоо</string>
+    <string name="indicator_noti_to_connect_bt">Bluetooth-ээр %s-д холбогдсон.</string>
+    <string name="indicator_noti_to_connect_remotely">%s-д алсаас холбогдсон.</string>
+    <string name="indicator_noti_to_disconnect">%s-с салгасан.</string>
+    <string name="install_fail_dueto_connection_lost">Gear-н програм суулгаж чадсангүй. Таны хөдөлгөөнт төхөөрөмжид холбогдсон холболт тасарсан. Хөдөлгөөнт төхөөрөмжид холбогдоход Gear-н програмыг суулгана</string>
+    <string name="notification_alarm">Сэрүүлэг</string>
+    <string name="notification_email">Имейл</string>
+    <string name="notification_incoming_call">Ирэх дуудлага</string>
+    <string name="notification_messages">Зурвасууд</string>
+    <string name="notification_missed_call">Аваагүй дуудлага</string>
+    <string name="notification_schedule">Хуваарь</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%2$s-г устгасны дараа ч гэсэн %1$s таны төхөөрөмж дээр хэвээр үлдэнэ.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Gear-н програм устгаж чадсангүй. Таны хөдөлгөөнт төхөөрөмжид холбогдсон холболт тасарсан. Хөдөлгөөнт төхөөрөмжид холбогдоход Gear-н програмыг устгана</string>
+    <string name="update_fail_dueto_connection_lost">Gear-н програм шинэчилж чадсангүй. Таны хөдөлгөөнт төхөөрөмжид холбогдсон холболт тасарсан. Хөдөлгөөнт төхөөрөмжид холбогдоход Gear-н програмыг шинэчилнэ</string>
+    <string name="watch_app_install_fail">Програм суулгаж чадсангүй</string>
+    <string name="watch_app_upate_fail">Gear-н програм шинэчилж чадсангүй. Хөдөлгөөнт төхөөрөмжид холбогдсон холболт тасарсан</string>
+</resources>

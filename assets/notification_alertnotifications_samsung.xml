@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><notifications>
+<entry>
+<package type="text">call</package>
+<entryname>Incoming Call</entryname>
+<id>10</id>
+<maxByte>500</maxByte>
+<marked>true</marked>
+</entry>
+<entry>
+<package type="text">alarm</package>
+<entryname>Alarm</entryname>
+<id>11</id>
+<maxByte>500</maxByte>
+<marked>true</marked>
+</entry>
+<entry>
+<package type="text">calendar</package>
+<entryname>Schedule</entryname>
+<id>13</id>
+<maxByte>500</maxByte>
+<marked>true</marked>
+</entry>
+</notifications>

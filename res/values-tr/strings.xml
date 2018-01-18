@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Yöneticisi</string>
+    <string name="bt_connected">Bağlı</string>
+    <string name="bt_disconnected">Bağlantı kesildi</string>
+    <string name="bt_unpaired">Eşleşme kaldırıldı</string>
+    <string name="cf_activate_failed">Arama yönlendirme etkinleştirilemedi.</string>
+    <string name="cf_activate_success">Arama yönlendirme etkinleştirildi.</string>
+    <string name="cf_deactivate_failed">Arama yönlendirme devre dışı bırakılamadı.</string>
+    <string name="cf_deactivate_success">Arama yönlendirme devre dışı bırakıldı.</string>
+    <string name="cf_notification_title">"Aramalar Gear'ınıza yönlendiriliyor"</string>
+    <string name="common_none">Hiçbiri</string>
+    <string name="common_recent_apps">Son uygulmlr</string>
+    <string name="fmg_unavailable_during_call">Arama sırasında kullanılamaz.</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear uygulaması</string>
+    <string name="indicator_noti_restoring">Geri alınıyor…</string>
+    <string name="indicator_noti_subtitle">%s ağı ile bağlantı kuruldu.</string>
+    <string name="indicator_noti_to">%s ile bağlantı kuruldu.</string>
+    <string name="indicator_noti_to_connect_bt">Bluetooth yoluyla %s bağlantısı kuruldu.</string>
+    <string name="indicator_noti_to_connect_remotely">Uzak %s bağlantısı kuruldu.</string>
+    <string name="indicator_noti_to_disconnect">%s bağlantısı kesildi.</string>
+    <string name="install_fail_dueto_connection_lost">Gear uygulaması yüklenemedi. Mobil cihazınızla olan bağlantı kesildi. Mobil cihaza bağlanıldığında Gear uygulaması yüklenecek.</string>
+    <string name="navigate_up">Yukarı gezinir</string>
+    <string name="notification_alarm">Alarm</string>
+    <string name="notification_email">E-posta</string>
+    <string name="notification_incoming_call">Gelen arama</string>
+    <string name="notification_messages">Mesajlar</string>
+    <string name="notification_missed_call">Cevapsız arama</string>
+    <string name="notification_schedule">Program</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s, %2$s kaldırıldıktan sonra bile cihazınızda kalır.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Gear uygulaması kaldırılamadı. Mobil cihazınızla olan bağlantı kesildi. Mobil cihaza bağlanıldığında Gear uygulaması kaldırılacak.</string>
+    <string name="update_fail_dueto_connection_lost">Gear uygulaması güncellenemedi. Mobil cihazınızla olan bağlantı kesildi. Mobil cihaza bağlanıldığında Gear uygulaması güncellenecek.</string>
+    <string name="watch_app_install_fail">Uygulama yüklenemedi.</string>
+    <string name="watch_app_upate_fail">Gear uygulaması güncellenemedi. Mobil cihazla olan bağlantı kesildi.</string>
+</resources>

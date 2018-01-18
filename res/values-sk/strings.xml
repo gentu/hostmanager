@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Pripojené</string>
+    <string name="bt_disconnected">Odpojené</string>
+    <string name="bt_unpaired">Nespárované</string>
+    <string name="cf_activate_failed">Nepodarilo sa zapnúť presmerovanie hovorov.</string>
+    <string name="cf_activate_success">Presmerovanie hovorov je zapnuté.</string>
+    <string name="cf_deactivate_failed">Nepodarilo sa vypnúť presmerovanie hovorov.</string>
+    <string name="cf_deactivate_success">Presmerovanie hovorov je vypnuté.</string>
+    <string name="cf_notification_title">Presmerovanie hovorov do hodiniek Gear</string>
+    <string name="common_none">Žiadny</string>
+    <string name="common_recent_apps">Posledné ap.</string>
+    <string name="fmg_unavailable_during_call">Počas hovoru nie je k dispozícii.</string>
+    <string name="general_app_name_for_reinstall">aplikácia Samsung Gear</string>
+    <string name="indicator_noti_restoring">Obnovenie…</string>
+    <string name="indicator_noti_subtitle">Pripojené k zariadeniu %s.</string>
+    <string name="indicator_noti_to">Spojené s %s.</string>
+    <string name="indicator_noti_to_connect_bt">Pripojené k zariadeniu %s cez Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Pripojené k zariadeniu %s na diaľku.</string>
+    <string name="indicator_noti_to_disconnect">Odpojené od zariadenia %s.</string>
+    <string name="install_fail_dueto_connection_lost">Nepodarilo sa nainštalovať aplikáciu Gear. Spojenie s vaším mobilným zariadením bolo prerušené. Aplikácia Gear sa nainštaluje po pripojení k mobilnému zariadeniu.</string>
+    <string name="navigate_up">Navigovať nahor</string>
+    <string name="notification_alarm">Upozor.</string>
+    <string name="notification_email">E-mail</string>
+    <string name="notification_incoming_call">Prichádzajúci hovor</string>
+    <string name="notification_messages">Správy</string>
+    <string name="notification_missed_call">Zmeškaný hovor</string>
+    <string name="notification_schedule">Plán</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s zostane vo vašom zariadení aj po odinštalovaní aplikácie %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Nepodarilo sa odinštalovať aplikáciu Gear. Spojenie s vaším mobilným zariadením bolo prerušené. Aplikácia Gear sa odinštaluje po pripojení k mobilnému zariadeniu.</string>
+    <string name="update_fail_dueto_connection_lost">Nepodarilo sa aktualizovať aplikáciu Gear. Spojenie s vaším mobilným zariadením bolo prerušené. Aplikácia Gear sa aktualizuje po pripojení k mobilnému zariadeniu.</string>
+    <string name="watch_app_install_fail">Nepodarilo sa nainštalovať aplikáciu.</string>
+    <string name="watch_app_upate_fail">Nepodarilo sa aktualizovať aplikáciu Gear. Spojenie s mobilným zariadením sa prerušilo.</string>
+</resources>

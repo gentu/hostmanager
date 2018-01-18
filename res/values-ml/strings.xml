@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">ഗിയര്‍ മാനേജര്‍</string>
+    <string name="bt_connected">ബന്ധിപ്പിച്ചു</string>
+    <string name="bt_disconnected">വിച്ഛേദിച്ചു</string>
+    <string name="bt_unpaired">പെയര്‍ ചെയ്യാത്തത്</string>
+    <string name="cf_activate_failed">കോൾ ഫോർവേഡിംഗ് പ്രാപ്തമാക്കുന്നത് പരാജയപ്പെട്ടു.</string>
+    <string name="cf_activate_success">കോൾ ഫോർവേഡിംഗ് പ്രാപ്തമാക്കി.</string>
+    <string name="cf_deactivate_failed">കോൾ ഫോർവേഡിംഗ് അപ്രാപ്തമാക്കുന്നത് പരാജയപ്പെട്ടു.</string>
+    <string name="cf_deactivate_success">കോൾ ഫോർവേഡിംഗ് അപ്രാപ്തമാക്കി.</string>
+    <string name="cf_notification_title">കോളുകൾ നിങ്ങളുടെ ഗിയറിലേക്ക് ഫോർവേഡ് ചെയ്യൽ</string>
+    <string name="common_none">ഒന്നുമില്ല</string>
+    <string name="common_recent_apps">അടുത്തിടെ ഉപയോഗിച്ച ആപ്ലിക്കേഷനുകൾ</string>
+    <string name="fmg_unavailable_during_call">വിളിക്കുമ്പോള്‍ ലഭ്യമല്ല.</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear ആപ്ലിക്കേഷൻ</string>
+    <string name="indicator_noti_restoring">പുനസംഭരിക്കുന്നു…</string>
+    <string name="indicator_noti_subtitle">%s-ലേക്ക് ബന്ധിപ്പിച്ചു.</string>
+    <string name="indicator_noti_to">%s മായി ബന്ധിപ്പിച്ചു.</string>
+    <string name="indicator_noti_to_connect_bt">%s-ലേക്ക് ബ്ലൂടൂത്ത് വഴി ബന്ധിപ്പിച്ചു.</string>
+    <string name="indicator_noti_to_connect_remotely">%s-ലേക്ക് വിദൂരമായി ബന്ധിപ്പിച്ചു.</string>
+    <string name="indicator_noti_to_disconnect">%s-ല്‍ നിന്ന്‍ വിച്ഛേദിച്ചു.</string>
+    <string name="install_fail_dueto_connection_lost">ഗിയർ ആപ്ലിക്കേഷൻ ഇൻസ്റ്റാൾ ചെയ്യുന്നത് പരാജയപ്പെട്ടു. നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിലേക്കുള്ള കണക്ഷൻ നഷ്ടപ്പെട്ടു. മൊബൈൽ ഉപകരണത്തിലേക്ക് ബന്ധിപ്പിക്കുമ്പോൾ ഗിയർ ആപ്ലിക്കേഷൻ ഇൻസ്റ്റാൾ ചെയ്യപ്പെടും.</string>
+    <string name="navigate_up">മുകളിലേക്ക് നാവിഗേറ്റ് ചെയ്യുക</string>
+    <string name="notification_alarm">അലാറം</string>
+    <string name="notification_email">ഈമെയില്‍</string>
+    <string name="notification_incoming_call">ഇന്‍‌കമിംഗ് കോള്‍</string>
+    <string name="notification_messages">സന്ദേശം</string>
+    <string name="notification_missed_call">നഷ്ടപ്പെട്ട കോള്‍</string>
+    <string name="notification_schedule">ഷെഡ്യൂള്‍‌</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%2$s അൺഇൻസ്റ്റാൾ ചെയ്തതിന് ശേഷവും %1$s നിങ്ങളുടെ ഉപകരണത്തിൽ അവശേഷിക്കും.</string>
+    <string name="uninstall_fail_dueto_connection_lost">ഗിയർ ആപ്ലിക്കേഷൻ അൺഇൻസ്റ്റാൾ ചെയ്യുന്നത് പരാജയപ്പെട്ടു. നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിലേക്കുള്ള കണക്ഷൻ നഷ്ടപ്പെട്ടു. മൊബൈൽ ഉപകരണത്തിലേക്ക് ബന്ധിപ്പിക്കുമ്പോൾ ഗിയർ ആപ്ലിക്കേഷൻ അൺഇൻസ്റ്റാൾ ചെയ്യപ്പെടും.</string>
+    <string name="update_fail_dueto_connection_lost">ഗിയർ ആപ്ലിക്കേഷൻ അപ്ഡേറ്റ് ചെയ്യുന്നത് പരാജയപ്പെട്ടു. നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിലേക്കുള്ള കണക്ഷൻ നഷ്ടപ്പെട്ടു. മൊബൈൽ ഉപകരണത്തിലേക്ക് ബന്ധിപ്പിക്കുമ്പോൾ ഗിയർ ആപ്ലിക്കേഷൻ അപ്ഡേറ്റ് ചെയ്യപ്പെടും.</string>
+    <string name="watch_app_install_fail">ആപ്ലിക്കേഷന്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യുന്നതില്‍ പരാജയപ്പെട്ടു.</string>
+    <string name="watch_app_upate_fail">ഗിയർ ആപ്ലിക്കേഷൻ അപ്ഡേറ്റ് ചെയ്യുന്നത് പരാജയപ്പെട്ടു. മൊബൈൽ ഉപകരണത്തിലേക്കുള്ള കണക്ഷൻ നഷ്ടപ്പെട്ടു.</string>
+</resources>

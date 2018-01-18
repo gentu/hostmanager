@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">إدارة Gear</string>
+    <string name="bt_connected">تم الاتصال</string>
+    <string name="bt_disconnected">تم الفصل</string>
+    <string name="bt_unpaired">غير مقترن</string>
+    <string name="cf_activate_failed">فشل تفعيل خيار إعادة توجيه المكالمة.</string>
+    <string name="cf_activate_success">تم تفعيل خيار إعادة توجيه المكالمة.</string>
+    <string name="cf_deactivate_failed">فشل إلغاء تفعيل خيار إعادة توجيه المكالمة.</string>
+    <string name="cf_deactivate_success">تم إلغاء تفعيل تحويل المكالمة.</string>
+    <string name="cf_notification_title">إعادة توجيه المكالمات إلى Gear</string>
+    <string name="common_none">لا شيء</string>
+    <string name="common_recent_apps">تطبيقات حديثة</string>
+    <string name="fmg_unavailable_during_call">لا يتوفّر أثناء المكالمة.</string>
+    <string name="general_app_name_for_reinstall">تطبيق Samsung Gear</string>
+    <string name="indicator_noti_restoring">قيد الاستعادة…</string>
+    <string name="indicator_noti_subtitle">متصل بـ %s.</string>
+    <string name="indicator_noti_to">تم التوصيل بـ %s.</string>
+    <string name="indicator_noti_to_connect_bt">تم الاتصال بـ %s عبر البلوتوث.</string>
+    <string name="indicator_noti_to_connect_remotely">تم الاتصال بـ %s عن بعد.</string>
+    <string name="indicator_noti_to_disconnect">تم الفصل عن %s.</string>
+    <string name="install_fail_dueto_connection_lost">فشل تثبيت التطبيق Gear. تم فقد الاتصال بجهازك المحمول. سيتم تثبيت التطبيق Gear عند الاتصال بالجهاز المحمول.</string>
+    <string name="navigate_up">التنقل لأعلى</string>
+    <string name="notification_alarm">المنبه</string>
+    <string name="notification_email">البريد الإلكتروني</string>
+    <string name="notification_incoming_call">مكالمة واردة</string>
+    <string name="notification_messages">الرسائل</string>
+    <string name="notification_missed_call">مكالمة فائتة</string>
+    <string name="notification_schedule">منظم</string>
+    <string name="notification_voicemail">‏Voice Mail</string>
+    <string name="toast_text_for_reinstall">سيبقى %1$s على جهازك حتى بعد إلغاء تثبيت %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">فشل إلغاء تثبيت التطبيق Gear. تم فقد الاتصال بجهازك المحمول. سيتم إلغاء تثبيت التطبيق Gear عند الاتصال بالجهاز المحمول.</string>
+    <string name="update_fail_dueto_connection_lost">فشل تحديث التطبيق Gear. تم فقد الاتصال بجهازك المحمول. سيتم تحديث التطبيق Gear عند الاتصال بالجهاز المحمول.</string>
+    <string name="watch_app_install_fail">فشل تثبيت التطبيق.</string>
+    <string name="watch_app_upate_fail">فشل تحديث تطبيق Gear. تم فقد الاتصال بالجهاز المحمول.</string>
+</resources>

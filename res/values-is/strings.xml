@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear-stjórnun</string>
+    <string name="bt_connected">Tengt</string>
+    <string name="bt_disconnected">Aftengt</string>
+    <string name="bt_unpaired">Óparað</string>
+    <string name="cf_activate_failed">Mistókst að kveikja á framsendingu símtala.</string>
+    <string name="cf_activate_success">Kveikt á framsendingu símtala.</string>
+    <string name="cf_deactivate_failed">Mistókst að slökkva á framsendingu símtala.</string>
+    <string name="cf_deactivate_success">Slökkt á framsendingu símtala.</string>
+    <string name="cf_notification_title">Símtöl framsend í Gear</string>
+    <string name="common_none">Ekkert</string>
+    <string name="common_recent_apps">Nýleg forrit</string>
+    <string name="fmg_unavailable_during_call">Ekki tiltækt í símtali.</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear forritið</string>
+    <string name="indicator_noti_restoring">Endurbyggja</string>
+    <string name="indicator_noti_subtitle">Tengt við %s.</string>
+    <string name="indicator_noti_to">Tengt við %s.</string>
+    <string name="indicator_noti_to_connect_bt">Tengt við %s um Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Fjartengt við %s.</string>
+    <string name="indicator_noti_to_disconnect">Aftengt frá %s.</string>
+    <string name="install_fail_dueto_connection_lost">Mistókst að setja upp Gear-forritið. Tenging við fartækið slitnaði. Gear-forritið verður sett upp þegar tenging við fartækið hefur komist á.</string>
+    <string name="navigate_up">Fara upp</string>
+    <string name="notification_alarm">Vekjari</string>
+    <string name="notification_email">Tölvupóstur</string>
+    <string name="notification_incoming_call">Móttekið símtal</string>
+    <string name="notification_messages">Skilaboð</string>
+    <string name="notification_missed_call">Ósvarað</string>
+    <string name="notification_schedule">Dagskrá</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s verður áfram í tækinu, jafnvel þótt %2$s sé fjarlægt.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Mistókst að fjarlægja Gear-forritið. Tenging við fartækið slitnaði. Gear-forritið verður fjarlægt þegar tenging við fartækið hefur komist á.</string>
+    <string name="update_fail_dueto_connection_lost">Mistókst að uppfæra Gear-forritið. Tenging við fartækið slitnaði. Gear-forritið verður uppfært þegar tenging við fartækið hefur komist á.</string>
+    <string name="watch_app_install_fail">Mistókst að setja upp forritið.</string>
+    <string name="watch_app_upate_fail">Mistókst að uppfæra Gear-forritið. Tenging við fartækið slitnaði.</string>
+</resources>

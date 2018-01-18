@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">អភិបាល Gear</string>
+    <string name="bt_connected">បាន​ភ្ជាប់</string>
+    <string name="bt_disconnected">បាន​ផ្តាច់</string>
+    <string name="bt_unpaired">បាន​ឈប់​ផ្គូ</string>
+    <string name="cf_activate_failed">បាន​បរាជ័យ​ក្នុង​ការ​បើកប្រើ ការបញ្ជូនបន្ត​ការហៅ។</string>
+    <string name="cf_activate_success">បាន​បើកប្រើ​ការបញ្ជូនបន្ត​ការហៅ។</string>
+    <string name="cf_deactivate_failed">បាន​បរាជ័យ​ក្នុង​ការ​បិទ ការបញ្ជូនបន្ត​ការហៅ។</string>
+    <string name="cf_deactivate_success">បាន​បិទ​ការបញ្ជូនបន្ត​ការហៅ។</string>
+    <string name="cf_notification_title">ការបញ្ជូនបន្ត​ការហៅ​ទៅ Gear របស់​អ្នក</string>
+    <string name="common_none">គ្មាន</string>
+    <string name="common_recent_apps">កម្មវិធី​ថ្មីៗ</string>
+    <string name="fmg_unavailable_during_call">មិន​អាច​ប្រើ​បាន​ក្នុង​ពេល​ហៅ។</string>
+    <string name="general_app_name_for_reinstall">កម្មវិធី Samsung Gear</string>
+    <string name="indicator_noti_restoring">កំពុង​ស្ដារ…</string>
+    <string name="indicator_noti_subtitle">បាន​ភ្ជាប់​ទៅ %s។</string>
+    <string name="indicator_noti_to">បាន​ភ្ជាប់​ជាមួយ %s។</string>
+    <string name="indicator_noti_to_connect_bt">បាន​ភ្ជាប់​ទៅ %s តាម Bluetooth។</string>
+    <string name="indicator_noti_to_connect_remotely">បាន​ភ្ជាប់​ទៅ %s ពី​ចម្ងាយ។</string>
+    <string name="indicator_noti_to_disconnect">បាន​ផ្ដាច់​ពី %s។</string>
+    <string name="install_fail_dueto_connection_lost">បាន​បរាជ័យ​ក្នុង​ការ​ដំឡើង​កម្មវិធី Gear។ ការភ្ជាប់​ទៅ​ឧបករណ៍​ចល័ត​របស់​អ្នក​បាន​បាត់បង់។ កម្មវិធី Gear នឹង​ត្រូវ​បាន​ដំឡើង​នៅពេល​បាន​ភ្ជាប់​ទៅ​ឧបករណ៍​ចល័ត។</string>
+    <string name="navigate_up">រុករក​ទៅ​លើ</string>
+    <string name="notification_alarm">ការរោទ៍</string>
+    <string name="notification_email">អ៊ីមែល</string>
+    <string name="notification_incoming_call">ការហៅ​ចូល</string>
+    <string name="notification_messages">សារ</string>
+    <string name="notification_missed_call">ការហៅ​បាន​ខក​ខាន</string>
+    <string name="notification_schedule">កាល​វិភាគ</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s នឹង​នៅតែ​ស្ថិត​លើ​ឧបករណ៍​របស់​អ្នក​ដដែល សូម្បី​បន្ទាប់​ពី​លុប %2$s ក៏​ដោយ។</string>
+    <string name="uninstall_fail_dueto_connection_lost">បាន​បរាជ័យ​ក្នុង​ការ​លុប​កម្មវិធី Gear។ ការភ្ជាប់​ទៅ​ឧបករណ៍​ចល័ត​របស់​អ្នក​បាន​បាត់បង់។ កម្មវិធី Gear នឹង​ត្រូវ​បាន​លុប​នៅពេល​បាន​ភ្ជាប់​ទៅ​ឧបករណ៍​ចល័ត។</string>
+    <string name="update_fail_dueto_connection_lost">បាន​បរាជ័យ​ក្នុង​ការ​អាប់ដេត​កម្មវិធី Gear។ ការភ្ជាប់​ទៅ​ឧបករណ៍​ចល័ត​របស់​អ្នក​បាន​បាត់បង់។ កម្មវិធី Gear នឹង​ត្រូវ​បាន​អាប់ដេត​នៅពេល​បាន​ភ្ជាប់​ទៅ​ឧបករណ៍​ចល័ត។</string>
+    <string name="watch_app_install_fail">បាន​បរាជ័យ​ក្នុង​ការ​ដំឡើង​កម្មវិធី។</string>
+    <string name="watch_app_upate_fail">បាន​បរាជ័យ​ក្នុង​ការ​អាប់ដេត​កម្មវិធី Gear។ ការភ្ជាប់​ទៅ​ឧបករណ៍​ចល័ត​បាន​បាត់បង់។</string>
+</resources>

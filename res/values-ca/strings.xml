@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Connectat</string>
+    <string name="bt_disconnected">Desconnectat</string>
+    <string name="bt_unpaired">Sense acoblar</string>
+    <string name="cf_activate_failed">Error en habilitar Desviament de trucades.</string>
+    <string name="cf_activate_success">Desviament de trucades habilitat.</string>
+    <string name="cf_deactivate_failed">Error en deshabilitar Desviament de trucades.</string>
+    <string name="cf_deactivate_success">Desviament de trucades deshabilitat.</string>
+    <string name="cf_notification_title">Desviament de trucades al Gear</string>
+    <string name="common_none">Cap</string>
+    <string name="common_recent_apps">Aplic recent</string>
+    <string name="fmg_unavailable_during_call">No està disponible durant una trucada</string>
+    <string name="general_app_name_for_reinstall">"l'aplicació Samsung Gear"</string>
+    <string name="indicator_noti_restoring">Restaurant…</string>
+    <string name="indicator_noti_subtitle">Connectat a %s</string>
+    <string name="indicator_noti_to">Connectat amb %s</string>
+    <string name="indicator_noti_to_connect_bt">Connectat a %s mitjançant Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Connectat a %s remotament.</string>
+    <string name="indicator_noti_to_disconnect">Desconnectat de %s.</string>
+    <string name="install_fail_dueto_connection_lost">"Error d'instal·lació de l'aplicació Gear. S'ha perdut la connexió amb el seu dispositiu mòbil. S'instal·larà l'aplicació Gear quan estigui connectat al dispositiu mòbil."</string>
+    <string name="navigate_up">Navegar amunt</string>
+    <string name="notification_alarm">Alarma</string>
+    <string name="notification_email">Correu electrònic</string>
+    <string name="notification_incoming_call">"Trucada d'entrada"</string>
+    <string name="notification_messages">Missatges</string>
+    <string name="notification_missed_call">Trucada perduda</string>
+    <string name="notification_schedule">Planificació</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s es mantindrà al seu dispositiu fins i tot després de desinstal·lar %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">"Error de desinstal·lació de l'aplicació Gear. S'ha perdut la connexió amb el seu dispositiu mòbil. Es desinstal·larà l'aplicació Gear quan estigui connectat al dispositiu mòbil."</string>
+    <string name="update_fail_dueto_connection_lost">"Error d'actualització de l'aplicació Gear. S'ha perdut la connexió amb el seu dispositiu mòbil. S'actualitzarà l'aplicació Gear quan estigui connectat al dispositiu mòbil."</string>
+    <string name="watch_app_install_fail">"Error d'instal·lació de l'aplicació"</string>
+    <string name="watch_app_upate_fail">"Error d'actualització de l'aplicació Gear. S'ha perdut la connexió amb el dispositiu mòbil."</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Pengurus Gear</string>
+    <string name="bt_connected">Disambungkan</string>
+    <string name="bt_disconnected">Diputuskan</string>
+    <string name="bt_unpaired">Nyahpasangan</string>
+    <string name="cf_activate_failed">Gagal mengaktifkan Pemajuan panggilan.</string>
+    <string name="cf_activate_success">Pemajuan panggilan diaktifkan.</string>
+    <string name="cf_deactivate_failed">Gagal menyahaktifkan Pemajuan panggilan.</string>
+    <string name="cf_deactivate_success">Pemajuan panggilan dinyahaktifkan.</string>
+    <string name="cf_notification_title">Memajukan panggilan ke Gear anda</string>
+    <string name="common_none">Tiada</string>
+    <string name="common_recent_apps">Apl terkini</string>
+    <string name="fmg_unavailable_during_call">Tidak tersedia semasa panggilan.</string>
+    <string name="general_app_name_for_reinstall">aplikasi Samsung Gear</string>
+    <string name="indicator_noti_restoring">Memulih…</string>
+    <string name="indicator_noti_subtitle">Disambungkan ke %s.</string>
+    <string name="indicator_noti_to">Disambungkan dengan %s.</string>
+    <string name="indicator_noti_to_connect_bt">Disambungkan ke %s melalui Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Disambungkan ke %s dari jauh.</string>
+    <string name="indicator_noti_to_disconnect">Dinyahsambung daripada %s.</string>
+    <string name="install_fail_dueto_connection_lost">Gagal memasang aplikasi Gear. Sambungan ke peranti mudah alih anda telah hilang. Aplikasi Gear akan dipasang apabila bersambung ke peranti mudah alih.</string>
+    <string name="navigate_up">Pandu arah ke atas</string>
+    <string name="notification_alarm">Penggera</string>
+    <string name="notification_email">E-mel</string>
+    <string name="notification_incoming_call">Panggilan masuk</string>
+    <string name="notification_messages">Mesej</string>
+    <string name="notification_missed_call">Panggilan tidak dijawab</string>
+    <string name="notification_schedule">Jadual</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s akan kekal pada peranti anda walaupun selepas menyahpasang %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Gagal menyahpasang aplikasi Gear. Sambungan ke peranti mudah alih anda telah hilang. Aplikasi Gear akan dinyahpasang apabila bersambung ke peranti mudah alih.</string>
+    <string name="update_fail_dueto_connection_lost">Gagal mengemas kini aplikasi Gear. Sambungan ke peranti mudah alih anda telah hilang. Aplikasi Gear akan dikemaskini apabila bersambung ke peranti mudah alih.</string>
+    <string name="watch_app_install_fail">Gagal memasang aplikasi.</string>
+    <string name="watch_app_upate_fail">Gagal mengemas kini aplikasi Gear. Sambungan ke peranti mudah alih telah hilang.</string>
+</resources>

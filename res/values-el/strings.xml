@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Διαχείριση Gear</string>
+    <string name="bt_connected">Συνδέθηκε</string>
+    <string name="bt_disconnected">Αποσυνδέθηκε</string>
+    <string name="bt_unpaired">Μη αντιστοιχισμένη</string>
+    <string name="cf_activate_failed">Η ενεργοποίηση της προώθησης κλήσεων απέτυχε.</string>
+    <string name="cf_activate_success">Η προώθηση κλήσεων ενεργοποιήθηκε.</string>
+    <string name="cf_deactivate_failed">Η απενεργοποίηση της προώθησης κλήσεων απέτυχε.</string>
+    <string name="cf_deactivate_success">Η προώθηση κλήσεων απενεργοποιήθηκε.</string>
+    <string name="cf_notification_title">Προώθηση κλήσεων στο Gear</string>
+    <string name="common_none">Κανένα</string>
+    <string name="common_recent_apps">Πρόσφ. εφ.</string>
+    <string name="fmg_unavailable_during_call">Μη διαθέσιμο κατά την κλήση.</string>
+    <string name="general_app_name_for_reinstall">η εφαρμογή Samsung Gear</string>
+    <string name="indicator_noti_restoring">Επαναφορά…</string>
+    <string name="indicator_noti_subtitle">Σύνδεση με %s.</string>
+    <string name="indicator_noti_to">Συνδεδεμένο με %s.</string>
+    <string name="indicator_noti_to_connect_bt">Σύνδεση με το %s μέσω Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Απομακρυσμένη σύνδεση με το %s.</string>
+    <string name="indicator_noti_to_disconnect">Αποσυνδέθηκε από το χρήστη %s.</string>
+    <string name="install_fail_dueto_connection_lost">Η εγκατάσταση της εφαρμογής Gear απέτυχε. Χάθηκε η σύνδεση στην κινητή σας συσκευή. Η εφαρμογή Gear θα εγκατασταθεί μόλις γίνει σύνδεση στην κινητή σας συσκευή.</string>
+    <string name="navigate_up">Περιήγηση επάνω</string>
+    <string name="notification_alarm">Ειδοποίηση</string>
+    <string name="notification_email">Email</string>
+    <string name="notification_incoming_call">Εισερχόμενη κλήση</string>
+    <string name="notification_messages">Μηνύματα</string>
+    <string name="notification_missed_call">Αναπάντητη κλήση</string>
+    <string name="notification_schedule">Το πρόγραμμά μου</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">Το %1$s θα παραμείνει στη συσκευή σας ακόμα και μετά την κατάργηση της εγκατάστασης του %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Η κατάργηση της εγκατάστασης της εφαρμογής Gear απέτυχε. Χάθηκε η σύνδεση στην κινητή σας συσκευή. Η εγκατάσταση της εφαρμογής Gear θα καταργηθεί μόλις γίνει σύνδεση στην κινητή σας συσκευή.</string>
+    <string name="update_fail_dueto_connection_lost">Η ενημέρωση της εφαρμογής Gear απέτυχε. Χάθηκε η σύνδεση στην κινητή σας συσκευή. Η εφαρμογή Gear θα ενημερωθεί μόλις γίνει σύνδεση στην κινητή σας συσκευή.</string>
+    <string name="watch_app_install_fail">Η εγκατάσταση της εφαρμογής απέτυχε.</string>
+    <string name="watch_app_upate_fail">Η ενημέρωση της εφαρμογής Gear απέτυχε. Χάθηκε η σύνδεση με την κινητή σας συσκευή.</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear-kezelő</string>
+    <string name="bt_connected">Csatlakoztatva</string>
+    <string name="bt_disconnected">Szétkapcsolva</string>
+    <string name="bt_unpaired">Nem párosított</string>
+    <string name="cf_activate_failed">Nem sikerült bekapcsolni a hívásátirányítást.</string>
+    <string name="cf_activate_success">A hívásátirányítás bekapcsolt.</string>
+    <string name="cf_deactivate_failed">Nem sikerült kikapcsolni a hívásátirányítást.</string>
+    <string name="cf_deactivate_success">Kikapcsolta a hívásátirányítást.</string>
+    <string name="cf_notification_title">Hívások átirányítása a Gearre</string>
+    <string name="common_none">Nincs</string>
+    <string name="common_recent_apps">Legut. alk.</string>
+    <string name="fmg_unavailable_during_call">Hívás közben nem elérhető.</string>
+    <string name="general_app_name_for_reinstall">a Samsung Gear-alkalmazás</string>
+    <string name="indicator_noti_restoring">Visszaállítás…</string>
+    <string name="indicator_noti_subtitle">Kapcsolódva a következőhöz: %s.</string>
+    <string name="indicator_noti_to">Összekapcsolva ezzel: %s.</string>
+    <string name="indicator_noti_to_connect_bt">Bluetooth-on kapcsolódott a(z) %s eszközhöz.</string>
+    <string name="indicator_noti_to_connect_remotely">Távolról kapcsolódott a(z) %s eszközhöz.</string>
+    <string name="indicator_noti_to_disconnect">Megszakadt a kapcsolat a következővel: %s.</string>
+    <string name="install_fail_dueto_connection_lost">Nem sikerült telepíteni a Gear alkalmazást. Megszakadt a kapcsolat a mobileszközzel. A Gear alkalmazás telepítésére a mobileszközhöz történő kapcsolódás után kerül sor.</string>
+    <string name="navigate_up">Navigálás felfelé</string>
+    <string name="notification_alarm">Jelzés</string>
+    <string name="notification_email">E-mail</string>
+    <string name="notification_incoming_call">Bejövő hívás</string>
+    <string name="notification_messages">Üzenetek</string>
+    <string name="notification_missed_call">Nem fogadott hívás</string>
+    <string name="notification_schedule">Programok</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">A(z) %1$s a(z) %2$s eltávolítása esetén is az eszközön marad.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Nem sikerült eltávolítani a Gear alkalmazást. Megszakadt a kapcsolat a mobileszközzel. A Gear alkalmazás eltávolítására a mobileszközhöz történő kapcsolódás után kerül sor.</string>
+    <string name="update_fail_dueto_connection_lost">Nem sikerült frissíteni a Gear alkalmazást. Megszakadt a kapcsolat a mobileszközzel. A Gear alkalmazás frissítésére a mobileszközhöz történő kapcsolódás után kerül sor.</string>
+    <string name="watch_app_install_fail">Nem sikerült telepíteni az alkalmazást.</string>
+    <string name="watch_app_upate_fail">Nem sikerült frissíteni a Gear alkalmazást. Megszakadt a kapcsolat a mobileszközzel.</string>
+</resources>

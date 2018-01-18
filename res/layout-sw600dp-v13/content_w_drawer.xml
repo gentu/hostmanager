@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout android:id="@id/drawer_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <view android:gravity="center_vertical" android:orientation="horizontal" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false" class="com.samsung.android.uhm.framework.ui.base.SplitView">
+        <FrameLayout android:id="@id/content_frame" android:background="#fff6f6f6" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="@dimen/fragment1_weight" />
+        <View android:background="@drawable/b2_manager_divider" android:clickable="true" android:layout_width="20.0dip" android:layout_height="fill_parent" android:layout_marginLeft="-20.0dip" />
+        <FrameLayout android:id="@id/content_frame1" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="@dimen/fragment2_weight" />
+    </view>
+    <ListView android:layout_gravity="start" android:id="@id/left_drawer" android:layout_width="381.0dip" android:layout_height="fill_parent" android:cacheColorHint="@android:color/transparent" android:divider="@android:color/transparent" android:dividerHeight="0.0dip" />
+</android.support.v4.widget.DrawerLayout>

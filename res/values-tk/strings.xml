@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cf_activate_failed">Jaň gönükdirmegi işledip bolmady.</string>
+    <string name="cf_activate_success">Jaň gönükdirmeklik işledildi.</string>
+    <string name="cf_deactivate_failed">Jaň gönükdirmegi ýapyp bolmady.</string>
+    <string name="cf_deactivate_success">Jaň gönükdirmek ýapyk.</string>
+    <string name="cf_notification_title">Jaňlary öz Gear-iňe gönükdirmek</string>
+    <string name="common_none">Hiç hili</string>
+    <string name="common_recent_apps">Ýakynda ulanylan goşundylar.</string>
+    <string name="fmg_unavailable_during_call">Jaň wagty elýeterli däl</string>
+    <string name="indicator_noti_restoring">Dikeldilýär…</string>
+    <string name="indicator_noti_subtitle">%s-a baglandy.</string>
+    <string name="indicator_noti_to">%s bn birikdirildi</string>
+    <string name="indicator_noti_to_connect_bt">%s enjamyna Bluetooth arkaly birikdi.</string>
+    <string name="indicator_noti_to_connect_remotely">%s enjamyna uzakdan birikdi.</string>
+    <string name="indicator_noti_to_disconnect">%s enjamyndan birikmesi kesildi.</string>
+    <string name="install_fail_dueto_connection_lost">Abzalyň goşundylaryny gurnamagy ýerine ýetirmedi. Siziň ykjam aragatnaşyk enjamyňyza barýan birikme ýitirildi. Abzalyň goşundulary ykjam aragatnaşyk enjamyňyz birikdirilende gurnalar.</string>
+    <string name="notification_alarm">Duýduryş sagat</string>
+    <string name="notification_email">E-poçta</string>
+    <string name="notification_incoming_call">Gelýän jaň</string>
+    <string name="notification_messages">Habarlar</string>
+    <string name="notification_missed_call">Alynmadyk jaň</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="uninstall_fail_dueto_connection_lost">Abzalyň goşundylaryny aýyrmak ýerine ýetirilmedi. Siziň ykjam aragatnaşyk enjamyňyza barýan birikme ýitirildi. Abzalyň goşundulary ykjam aragatnaşyk enjamyňyz birikdirilende aýrylar.</string>
+    <string name="update_fail_dueto_connection_lost">Abzalyň goşundylaryny täzelemek ýerine ýetirilmedi. Siziň ykjam aragatnaşyk enjamyňyza barýan birikme ýitirildi. Abzalyň goşundulary ykjam aragatnaşyk enjamyňyz birikdirilende täzelener.</string>
+    <string name="watch_app_install_fail">Gollanmany gurnap bolmady.</string>
+    <string name="watch_app_upate_fail">Abzalyň goşundylaryny täzelemek ýerine ýetirilmedi. Ykjam aragatnaşyk enjamyna birikme ýitdi.</string>
+</resources>

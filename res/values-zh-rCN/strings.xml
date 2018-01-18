@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear 管理器</string>
+    <string name="bt_connected">已连接</string>
+    <string name="bt_disconnected">已断开</string>
+    <string name="bt_unpaired">未配对</string>
+    <string name="cf_activate_failed">启用呼叫转移失败</string>
+    <string name="cf_activate_success">呼叫转移已启用</string>
+    <string name="cf_deactivate_failed">禁用呼叫转移失败</string>
+    <string name="cf_deactivate_success">呼叫转移已禁用</string>
+    <string name="cf_notification_title">转移来电至您的 Gear</string>
+    <string name="common_none">无</string>
+    <string name="common_recent_apps">最近应用程序</string>
+    <string name="fmg_unavailable_during_call">通话中无法使用。</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear 应用程序</string>
+    <string name="indicator_noti_restoring">恢复中…</string>
+    <string name="indicator_noti_subtitle">已连接至 %s。</string>
+    <string name="indicator_noti_to">已连接 %s</string>
+    <string name="indicator_noti_to_connect_bt">已通过蓝牙连接至 %s</string>
+    <string name="indicator_noti_to_connect_remotely">已远程连接至 %s</string>
+    <string name="indicator_noti_to_disconnect">已与 %s 断开连接</string>
+    <string name="install_fail_dueto_connection_lost">无法安装 Gear 应用程序。已丢失与您移动设备的连接。连接至移动设备时将安装 Gear 应用程序。</string>
+    <string name="navigate_up">向上导航</string>
+    <string name="notification_alarm">闹钟</string>
+    <string name="notification_email">电子邮件</string>
+    <string name="notification_incoming_call">来电</string>
+    <string name="notification_messages">信息</string>
+    <string name="notification_missed_call">未接来电</string>
+    <string name="notification_schedule">日程表</string>
+    <string name="notification_voicemail">语音邮件</string>
+    <string name="toast_text_for_reinstall">即使在卸载 %2$s 后，%1$s 也将保持在设备上。</string>
+    <string name="uninstall_fail_dueto_connection_lost">无法卸载 Gear 应用程序。已丢失与您移动设备的连接。连接至移动设备时将卸载 Gear 应用程序。</string>
+    <string name="update_fail_dueto_connection_lost">无法更新 Gear 应用程序。已丢失与您移动设备的连接。连接至移动设备时将更新 Gear 应用程序。</string>
+    <string name="watch_app_install_fail">安装应用程序失败。</string>
+    <string name="watch_app_upate_fail">无法更新 Gear 应用程序。已丢失与移动设备的连接。</string>
+</resources>

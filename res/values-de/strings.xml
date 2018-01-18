@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Verbunden</string>
+    <string name="bt_disconnected">Getrennt</string>
+    <string name="bt_unpaired">Nicht gekoppelt</string>
+    <string name="cf_activate_failed">Anrufweiterleitung konnte nicht aktiviert werden.</string>
+    <string name="cf_activate_success">Anrufweiterleitung aktiviert.</string>
+    <string name="cf_deactivate_failed">Anrufweiterleitung konnte nicht deaktiviert werden.</string>
+    <string name="cf_deactivate_success">Anrufweiterleitung deaktiviert.</string>
+    <string name="cf_notification_title">Weiterleitung von Anrufen an die Gear</string>
+    <string name="common_none">Ohne</string>
+    <string name="common_recent_apps">Akt. Apps</string>
+    <string name="fmg_unavailable_during_call">Während eines Anrufs nicht verfügbar</string>
+    <string name="general_app_name_for_reinstall">Die Anwendung Samsung Gear</string>
+    <string name="indicator_noti_restoring">Wiederherstellung wird durchgeführt…</string>
+    <string name="indicator_noti_subtitle">Verbunden mit %s</string>
+    <string name="indicator_noti_to">Mit %s verbunden</string>
+    <string name="indicator_noti_to_connect_bt">Mit %s über Bluetooth verbunden.</string>
+    <string name="indicator_noti_to_connect_remotely">Remote-Verbindung mit %s.</string>
+    <string name="indicator_noti_to_disconnect">Von %s getrennt.</string>
+    <string name="install_fail_dueto_connection_lost">Fehler beim Installieren der Gear-App. Die Verbindung zu Ihrem mobilen Gerät wurde unterbrochen. Die Gear-App wird installiert, sobald eine Verbindung zum mobilen Gerät besteht.</string>
+    <string name="navigate_up">Nach oben navigieren</string>
+    <string name="notification_alarm">Alarm</string>
+    <string name="notification_email">E-Mail</string>
+    <string name="notification_incoming_call">Eingehender Anruf</string>
+    <string name="notification_messages">Nachrichten</string>
+    <string name="notification_missed_call">Anruf in Abwesenheit</string>
+    <string name="notification_schedule">Termine</string>
+    <string name="notification_voicemail">Mailbox</string>
+    <string name="toast_text_for_reinstall">%1$s bleibt auch nach Deinstallation von %2$s auf Ihrem Gerät.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Fehler beim Deinstallieren der Gear-App. Die Verbindung zu Ihrem mobilen Gerät wurde unterbrochen. Die Gear-App wird deinstalliert, sobald eine Verbindung zum mobilen Gerät besteht.</string>
+    <string name="update_fail_dueto_connection_lost">Fehler beim Aktualisieren der Gear-App. Die Verbindung zu Ihrem mobilen Gerät wurde unterbrochen. Die Gear-App wird aktualisiert, sobald eine Verbindung zum mobilen Gerät besteht.</string>
+    <string name="watch_app_install_fail">App konnte nicht installiert werden.</string>
+    <string name="watch_app_upate_fail">Fehler beim Aktualisieren der Gear-App. Verbindung zu mobilem Gerät wurde unterbrochen.</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">接続中</string>
+    <string name="bt_disconnected">切断</string>
+    <string name="bt_unpaired">ペアリング解除しました。</string>
+    <string name="cf_activate_failed">通話転送機能を有効にできませんでした。</string>
+    <string name="cf_activate_success">通話転送機能を有効にしました。</string>
+    <string name="cf_deactivate_failed">通話転送機能を無効にできませんでした。</string>
+    <string name="cf_deactivate_success">通話転送機能を無効にしました。</string>
+    <string name="cf_notification_title">Gearに転送</string>
+    <string name="common_none">なし</string>
+    <string name="common_recent_apps">最近のアプリ</string>
+    <string name="fmg_unavailable_during_call">通話中は利用不可</string>
+    <string name="general_app_name_for_reinstall">Samsung Gearアプリケーション</string>
+    <string name="indicator_noti_restoring">復元中…</string>
+    <string name="indicator_noti_subtitle">%sに接続</string>
+    <string name="indicator_noti_to">%sと接続されています。</string>
+    <string name="indicator_noti_to_connect_bt">Bluetoothで%sと接続中</string>
+    <string name="indicator_noti_to_connect_remotely">%sとリモート接続中</string>
+    <string name="indicator_noti_to_disconnect">%sとの接続が解除されました。</string>
+    <string name="install_fail_dueto_connection_lost">モバイル端末との接続が解除されたため、Gearアプリのインストールに失敗しました。モバイル端末と接続したときに、Gearアプリがインストールされます。</string>
+    <string name="navigate_up">上に移動</string>
+    <string name="notification_alarm">アラーム</string>
+    <string name="notification_email">Eメール</string>
+    <string name="notification_incoming_call">音声着信</string>
+    <string name="notification_messages">メッセージ</string>
+    <string name="notification_missed_call">不在着信</string>
+    <string name="notification_schedule">スケジュール</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%2$sをアンインストールした後も、%1$sは引き続き利用できます。</string>
+    <string name="uninstall_fail_dueto_connection_lost">モバイル端末との接続が解除されたため、Gearアプリのアンインストールに失敗しました。モバイル端末と接続したときに、Gearアプリがアンインストールされます。</string>
+    <string name="update_fail_dueto_connection_lost">モバイル端末との接続が解除されたため、Gearアプリの更新に失敗しました。モバイル端末と接続したときに、Gearアプリが更新されます。</string>
+    <string name="watch_app_install_fail">アプリのインストールに失敗しました。</string>
+    <string name="watch_app_upate_fail">Gearアプリの更新に失敗しました。モバイル端末との接続が解除されました。</string>
+</resources>

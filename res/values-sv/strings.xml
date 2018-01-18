@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear-hanterare</string>
+    <string name="bt_connected">Ansluten</string>
+    <string name="bt_disconnected">Frånkopplad</string>
+    <string name="bt_unpaired">Ej sammankopplad</string>
+    <string name="cf_activate_failed">Det gick inte att aktivera samtalsvidarekoppling.</string>
+    <string name="cf_activate_success">Samtalsvidarekoppling har aktiverats.</string>
+    <string name="cf_deactivate_failed">Det gick inte att inaktivera samtalsvidarekoppling.</string>
+    <string name="cf_deactivate_success">Samtalsvidarekoppling inaktiverat.</string>
+    <string name="cf_notification_title">Vidarekoppla samtal till din Gear</string>
+    <string name="common_none">Ingen</string>
+    <string name="common_recent_apps">Senaste prog</string>
+    <string name="fmg_unavailable_during_call">Inte tillgänglig under samtal.</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear-programmet</string>
+    <string name="indicator_noti_restoring">Återställer…</string>
+    <string name="indicator_noti_subtitle">Ansluten till %s.</string>
+    <string name="indicator_noti_to">Ansluten till %s.</string>
+    <string name="indicator_noti_to_connect_bt">Ansluten till %s via Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Fjärransluten till %s.</string>
+    <string name="indicator_noti_to_disconnect">Bortkopplad från %s.</string>
+    <string name="install_fail_dueto_connection_lost">Det gick inte att installera Gear-programmet. Anslutningen till din mobila enhet har förlorats. Gear-programmet kommer att installeras när det ansluts till den mobila enheten.</string>
+    <string name="navigate_up">Navigera upp</string>
+    <string name="notification_alarm">Alarm</string>
+    <string name="notification_email">E-post</string>
+    <string name="notification_incoming_call">Inkommande samtal</string>
+    <string name="notification_messages">Meddelanden</string>
+    <string name="notification_missed_call">Missat samtal</string>
+    <string name="notification_schedule">Schema</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s finns kvar på enheten även om du avinstallerar %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Det gick inte att avinstallera Gear-programmet. Anslutningen till din mobila enhet har förlorats. Gear-programmet kommer att avinstalleras när det ansluts till den mobila enheten.</string>
+    <string name="update_fail_dueto_connection_lost">Det gick inte att uppdatera Gear-programmet. Anslutningen till din mobila enhet har förlorats. Gear-programmet kommer att uppdateras när det ansluts till den mobila enheten.</string>
+    <string name="watch_app_install_fail">Det gick inte att installera programmet.</string>
+    <string name="watch_app_upate_fail">Det gick inte att uppdatera Gear-programmet. Anslutningen till den mobila enheten förlorades.</string>
+</resources>

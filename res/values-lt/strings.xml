@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Prisijungta</string>
+    <string name="bt_disconnected">Atjungta</string>
+    <string name="bt_unpaired">Nesusieta</string>
+    <string name="cf_activate_failed">Nepavyko įjungti skambučių peradresavimo.</string>
+    <string name="cf_activate_success">Skambučių peradresavimas įjungtas.</string>
+    <string name="cf_deactivate_failed">Nepavyko išjungti skambučių peradresavimo.</string>
+    <string name="cf_deactivate_success">Skambučių peradresavimas išjungtas.</string>
+    <string name="cf_notification_title">Skambučių peradresavimas į jūsų „Gear“</string>
+    <string name="common_none">Nėra</string>
+    <string name="common_recent_apps">Pask. progr.</string>
+    <string name="fmg_unavailable_during_call">Pokalbio metu nepasiekiama.</string>
+    <string name="general_app_name_for_reinstall">„Samsung Gear“ programa</string>
+    <string name="indicator_noti_restoring">Atkuriama…</string>
+    <string name="indicator_noti_subtitle">Prisijungta prie %s.</string>
+    <string name="indicator_noti_to">Prijungta prie %s.</string>
+    <string name="indicator_noti_to_connect_bt">Prie %s prisijungta per „Bluetooth“.</string>
+    <string name="indicator_noti_to_connect_remotely">Prie %s prisijungta nuotoliniu būdu.</string>
+    <string name="indicator_noti_to_disconnect">Atsijungta nuo %s.</string>
+    <string name="install_fail_dueto_connection_lost">Nepavyko įdiegti programos „Gear“. Nutrūko ryšys su jūsų mobiliuoju įrenginiu. Programa „Gear“ bus įdiegta, kai prijungsite mobilųjį įrenginį.</string>
+    <string name="navigate_up">Pereiti aukštyn</string>
+    <string name="notification_alarm">Signalas</string>
+    <string name="notification_email">El. paštas</string>
+    <string name="notification_incoming_call">Gaunamas skambutis</string>
+    <string name="notification_messages">Žinutės</string>
+    <string name="notification_missed_call">Neatsakytas skambutis</string>
+    <string name="notification_schedule">Tvarkaraštis</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s liks jūsų įrenginyje net pašalinus %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Nepavyko pašalinti programos „Gear“. Nutrūko ryšys su jūsų mobiliuoju įrenginiu. Programa „Gear“ bus pašalinta, kai prijungsite mobilųjį įrenginį.</string>
+    <string name="update_fail_dueto_connection_lost">Nepavyko atnaujinti programos „Gear“. Nutrūko ryšys su jūsų mobiliuoju įrenginiu. Programa „Gear“ bus atnaujinta, kai prijungsite mobilųjį įrenginį.</string>
+    <string name="watch_app_install_fail">Nepavyko įdiegti programos.</string>
+    <string name="watch_app_upate_fail">Nepavyko atnaujinti programos „Gear“. Nutrūko ryšys su mobiliuoju įrenginiu.</string>
+</resources>

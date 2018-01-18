@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Koblet til</string>
+    <string name="bt_disconnected">Frakoblet</string>
+    <string name="bt_unpaired">Uparet</string>
+    <string name="cf_activate_failed">Kunne ikke aktivere Viderekobling av anrop.</string>
+    <string name="cf_activate_success">Viderekobling av anrop er aktivert.</string>
+    <string name="cf_deactivate_failed">Kunne ikke deaktivere Viderekobling av anrop.</string>
+    <string name="cf_deactivate_success">Viderekobling av anrop er deaktivert.</string>
+    <string name="cf_notification_title">Viderekoble anrop til Gear</string>
+    <string name="common_none">Ingen</string>
+    <string name="common_recent_apps">Nylige apper</string>
+    <string name="fmg_unavailable_during_call">Utilgjengelig under samtale.</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear-appen</string>
+    <string name="indicator_noti_restoring">Gjenoppretter…</string>
+    <string name="indicator_noti_subtitle">Koblet til %s.</string>
+    <string name="indicator_noti_to">Koblet sammen med %s.</string>
+    <string name="indicator_noti_to_connect_bt">Koblet til %s via Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Koblet til %s eksternt.</string>
+    <string name="indicator_noti_to_disconnect">Koblet fra %s.</string>
+    <string name="install_fail_dueto_connection_lost">Kunne ikke installere Gear-appen. Tilkoblingen til mobilenheten har gått tapt. Gear-appen vil bli installert når mobilenheten kobles til.</string>
+    <string name="navigate_up">Naviger opp</string>
+    <string name="notification_alarm">Alarm</string>
+    <string name="notification_email">E-post</string>
+    <string name="notification_incoming_call">Innkommende anrop</string>
+    <string name="notification_messages">Meldinger</string>
+    <string name="notification_missed_call">Ubesvart anrop</string>
+    <string name="notification_schedule">Tidsplan</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s forblir på enheten selv etter at du har avinstallert %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Kunne ikke avinstallere Gear-appen. Tilkoblingen til mobilenheten har gått tapt. Gear-appen vil bli avinstallert når mobilenheten kobles til.</string>
+    <string name="update_fail_dueto_connection_lost">Kunne ikke oppdatere Gear-appen. Tilkoblingen til mobilenheten har gått tapt. Gear-appen vil bli oppdatert når mobilenheten kobles til.</string>
+    <string name="watch_app_install_fail">Kunne ikke installere appen.</string>
+    <string name="watch_app_upate_fail">Kunne ikke oppdatere Gear-appen. Tilkoblingen til mobilenheten har gått tapt.</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Conectado</string>
+    <string name="bt_disconnected">Desconectado</string>
+    <string name="bt_unpaired">Non vinculado</string>
+    <string name="cf_activate_failed">Non se puido activar Desvío de chamadas.</string>
+    <string name="cf_activate_success">Desvío de chamadas activado.</string>
+    <string name="cf_deactivate_failed">Non se puido desactivar Desvío de chamadas.</string>
+    <string name="cf_deactivate_success">Desvío de chamadas desactivado.</string>
+    <string name="cf_notification_title">Desvío de chamadas ao teu Gear</string>
+    <string name="common_none">Ningún</string>
+    <string name="common_recent_apps">Aplic.recen.</string>
+    <string name="fmg_unavailable_during_call">Non dispoñible durante a chamada</string>
+    <string name="general_app_name_for_reinstall">a aplicación Samsung Gear</string>
+    <string name="indicator_noti_restoring">Restaurando…</string>
+    <string name="indicator_noti_subtitle">Conectado a %s</string>
+    <string name="indicator_noti_to">Conectado co %s</string>
+    <string name="indicator_noti_to_connect_bt">Conectado a %s por Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Conectado a %s de xeito remoto.</string>
+    <string name="indicator_noti_to_disconnect">Desconectado de %s.</string>
+    <string name="install_fail_dueto_connection_lost">Non se puido instalar a aplicación Gear. Perdeuse a conexión co teu dispositivo móbil. Instalarase a aplicación Gear cando se conecte ao dispositivo móbil.</string>
+    <string name="navigate_up">Navega cara a arriba</string>
+    <string name="notification_alarm">Alarma</string>
+    <string name="notification_email">Correo electrónico</string>
+    <string name="notification_incoming_call">Chamada entrante</string>
+    <string name="notification_messages">Mensaxes</string>
+    <string name="notification_missed_call">Chamada perdida</string>
+    <string name="notification_schedule">Calendario</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s permanecerá no teu dispositivo aínda despois de desinstalar %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Non se puido desinstalar a aplicación Gear. Perdeuse a conexión co teu dispositivo móbil. Desinstalarase a aplicación Gear cando se conecte ao dispositivo móbil.</string>
+    <string name="update_fail_dueto_connection_lost">Non se puido actualizar a aplicación Gear. Perdeuse a conexión co teu dispositivo móbil. Actualizarase a aplicación Gear cando se conecte ao dispositivo móbil.</string>
+    <string name="watch_app_install_fail">Non se puido instalar a aplicación</string>
+    <string name="watch_app_upate_fail">Non se puido actualizar a aplicación Gear. Perdeuse a conexión ao dispositivo móbil.</string>
+</resources>

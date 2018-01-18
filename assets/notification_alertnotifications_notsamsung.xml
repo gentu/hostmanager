@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><notifications>
+<entry>
+<package type="text">call</package>
+<entryname>Incoming Call</entryname>
+<id>10</id>
+<maxByte>25</maxByte>
+<marked>true</marked>
+</entry>
+</notifications>

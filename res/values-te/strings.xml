@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">గేర్ మేనేజర్</string>
+    <string name="bt_connected">కనెక్ట్ చేయబడింది</string>
+    <string name="bt_disconnected">డిస్కనెక్ట్ చేయబడింది</string>
+    <string name="bt_unpaired">జతకూడని</string>
+    <string name="cf_activate_failed">కాల్ ఫార్వార్డింగ్‌ని ప్రారంభించడం విఫలమైంది.</string>
+    <string name="cf_activate_success">కాల్ ఫార్వార్డింగ్ ప్రారంభించబడింది.</string>
+    <string name="cf_deactivate_failed">కాల్ ఫార్వార్డింగ్‌ని నిలిపివేయడం విఫలమైంది.</string>
+    <string name="cf_deactivate_success">కాల్ ఫార్వార్డింగ్ నిలిపివేయబడింది.</string>
+    <string name="cf_notification_title">మీ గేర్‌కు కాల్‌లను ఫార్వార్డ్ చేయడం</string>
+    <string name="common_none">ఏదీకాదు</string>
+    <string name="common_recent_apps">ఇటీవలి అప్లికేషన్‌లు</string>
+    <string name="fmg_unavailable_during_call">కాల్ సమయంలో లభించదు.</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear అప్లికేషన్</string>
+    <string name="indicator_noti_restoring">పునరుద్ధరిస్తోంది…</string>
+    <string name="indicator_noti_subtitle">%sకు కనెక్ట్ చేయబడింది.</string>
+    <string name="indicator_noti_to">%s తో కనెక్ట్ అయ్యింది.</string>
+    <string name="indicator_noti_to_connect_bt">%sకు బ్లూటూత్ ద్వారా కనెక్ట్ చేయబడింది.</string>
+    <string name="indicator_noti_to_connect_remotely">%sకు రిమోట్‌గా కనెక్ట్ చేయబడింది.</string>
+    <string name="indicator_noti_to_disconnect">%s నుండి డిస్‌కనెక్ట్ చేయబడింది.</string>
+    <string name="install_fail_dueto_connection_lost">గేర్ అప్లికేషన్‌ని ఇన్‌స్టాల్ చేయడం సాధ్యం కాదు. మీ మొబైల్ పరికరానికి కనెక్షన్‌ని కోల్పోయారు. మొబైల్ పరికరానికి కనెక్ట్ చేసినప్పుడు గేర్ అప్లికేషన్ ఇన్‌స్టాల్ చేయబడుతుంది.</string>
+    <string name="navigate_up">పైకి నావిగేట్ చెయ్యి</string>
+    <string name="notification_alarm">అలారం</string>
+    <string name="notification_email">ఇమెయిల్</string>
+    <string name="notification_incoming_call">ఇన్కమింగ్ కాల్</string>
+    <string name="notification_messages">సందేశాలు</string>
+    <string name="notification_missed_call">మిస్సైన కాల్</string>
+    <string name="notification_schedule">షెడ్యూల్</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s అనేది %2$sని అన్ఇన్‌స్టాల్ చేసిన తర్వాత కుడా మీ పరికరంలో అలాగే ఉంటుంది.</string>
+    <string name="uninstall_fail_dueto_connection_lost">గేర్ అప్లికేషన్‌ని అన్ఇన్‌స్టాల్ చేయడం సాధ్యం కాదు. మీ మొబైల్ పరికరానికి కనెక్షన్‌ని కోల్పోయారు. మొబైల్ పరికరానికి కనెక్ట్ చేసినప్పుడు గేర్ అప్లికేషన్ అన్ఇన్‌స్టాల్ చేయబడుతుంది.</string>
+    <string name="update_fail_dueto_connection_lost">గేర్ అప్లికేషన్‌ని అప్‌డేట్ చేయడం సాధ్యం కాదు. మీ మొబైల్ పరికరానికి కనెక్షన్‌ని కోల్పోయారు. మొబైల్ పరికరానికి కనెక్ట్ చేసినప్పుడు గేర్ అప్లికేషన్ అప్‌డేట్ చేయబడుతుంది.</string>
+    <string name="watch_app_install_fail">అప్లికేషన్‌ని ఇన్‌స్టాల్ చేయడంలో విఫలమైంది.</string>
+    <string name="watch_app_upate_fail">గేర్ అప్లికేషన్‌ని అప్‌డేట్ చేయడంలో విఫలమైంది. మొబైల్ పరికరానికి కనెక్షన్‌ని కోల్పోయారు.</string>
+</resources>

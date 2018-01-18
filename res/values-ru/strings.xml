@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Подключено</string>
+    <string name="bt_disconnected">Отключено</string>
+    <string name="bt_unpaired">Связь разорвана</string>
+    <string name="cf_activate_failed">Не удалось включить переадресацию вызовов.</string>
+    <string name="cf_activate_success">Переадресация вызовов включена.</string>
+    <string name="cf_deactivate_failed">Не удалось отключить переадресацию вызовов.</string>
+    <string name="cf_deactivate_success">Переадресация вызовов отключена.</string>
+    <string name="cf_notification_title">Переадресация вызовов на Gear</string>
+    <string name="common_none">Нет</string>
+    <string name="common_recent_apps">Посл. прил.</string>
+    <string name="fmg_unavailable_during_call">Недоступно во время разговора.</string>
+    <string name="general_app_name_for_reinstall">приложение Samsung Gear</string>
+    <string name="indicator_noti_restoring">Восстановление…</string>
+    <string name="indicator_noti_subtitle">Подключено к %s.</string>
+    <string name="indicator_noti_to">Соединено с %s.</string>
+    <string name="indicator_noti_to_connect_bt">Подключено к %s через Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Подключено к %s удаленно.</string>
+    <string name="indicator_noti_to_disconnect">Отключено от %s.</string>
+    <string name="install_fail_dueto_connection_lost">Не удалось установить приложение Gear. Подключение к мобильному устройству разорвано. Приложение Gear будет установлено при подключении к мобильному устройству</string>
+    <string name="navigate_up">Переход вверх</string>
+    <string name="notification_alarm">Сигнал</string>
+    <string name="notification_email">Электронная почта</string>
+    <string name="notification_incoming_call">Входящий вызов</string>
+    <string name="notification_messages">Сообщения</string>
+    <string name="notification_missed_call">Пропущенный вызов</string>
+    <string name="notification_schedule">Расписание</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s останется на устройстве даже после удаления %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Не удалось удалить приложение Gear. Подключение к мобильному устройству разорвано. Приложение Gear будет удалено при подключении к мобильному устройству</string>
+    <string name="update_fail_dueto_connection_lost">Не удалось обновить приложение Gear. Подключение к мобильному устройству разорвано. Приложение Gear будет обновлено при подключении к мобильному устройству</string>
+    <string name="watch_app_install_fail">Не удалось установить приложение.</string>
+    <string name="watch_app_upate_fail">Не удалось обновить приложение Gear. Подключение к мобильному устройству разорвано</string>
+</resources>

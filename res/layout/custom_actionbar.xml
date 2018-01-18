@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/main_logo_top" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="matrix" android:contentDescription="@null" />
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/ly_action_bar_button" android:focusable="true" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <com.samsung.android.uhm.framework.ui.base.CustomSpinner android:textSize="@dimen/action_bar_title_font_size" android:textColor="@color/drawer_regular_text_color" android:ellipsize="marquee" android:id="@id/pluginListSpinner" android:background="@drawable/spinner_arrow_drawable" android:visibility="gone" android:fadingEdge="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:prompt="@string/bt_unknown" android:layout_centerVertical="true" android:layout_marginStart="10.0dip" />
+        <LinearLayout android:gravity="center" android:id="@id/layout_drawer" android:layout_width="24.0dip" android:layout_height="fill_parent">
+            <ImageView android:id="@id/action_up_button" android:layout_width="24.0dip" android:layout_height="24.0dip" />
+        </LinearLayout>
+        <TextView android:textSize="@dimen/action_bar_title_font_size" android:textColor="@color/drawer_regular_text_color" android:ellipsize="marquee" android:id="@id/tvActionTitle" android:background="@android:color/transparent" android:fadingEdge="horizontal" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_centerVertical="true" android:textAlignment="viewStart" android:layout_marginStart="16.0dip" android:layout_toEndOf="@id/layout_drawer" />
+        <View android:background="@android:color/transparent" android:clickable="false" android:layout_width="6.0dip" android:layout_height="fill_parent" android:layout_toEndOf="@id/tvActionTitle" />
+    </RelativeLayout>
+    <LinearLayout android:gravity="center|right" android:orientation="horizontal" android:id="@id/ly_action_switch_holder" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginEnd="12.0dip" android:layout_toStartOf="@id/ly_action_btn_holder" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/ly_action_btn_holder" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentEnd="true" />
+</RelativeLayout>

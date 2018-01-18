@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Ulandi</string>
+    <string name="bt_disconnected">Uzilgan</string>
+    <string name="bt_unpaired">Ulanmagan</string>
+    <string name="cf_activate_failed">Qo‘ng‘iroqni boshqa raqamga o‘tkazishni yoqib bo‘lmadi.</string>
+    <string name="cf_activate_success">Qo‘ng‘iroqni boshqa raqamga o‘tkazish yoqildi.</string>
+    <string name="cf_deactivate_failed">Qo‘ng‘iroqni boshqa raqamga o‘tkazishni o‘chirib bo‘lmadi.</string>
+    <string name="cf_deactivate_success">Qo‘ng‘iroqni boshqa raqamga o‘tkazish o‘chirilgan.</string>
+    <string name="cf_notification_title">Qo‘ng‘iroqlarni Gearingizga yo‘naltirish</string>
+    <string name="common_none">Yo‘q</string>
+    <string name="common_recent_apps">Oxirgi ilova</string>
+    <string name="fmg_unavailable_during_call">Qo‘ng‘iroq mobaynida foydalanib bo‘lmaydi.</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear ilovasi</string>
+    <string name="indicator_noti_restoring">Tiklanmoqda…</string>
+    <string name="indicator_noti_subtitle">%sga ulandi.</string>
+    <string name="indicator_noti_to">%s bilan ulandi.</string>
+    <string name="indicator_noti_to_connect_bt">%sga Bluetooth orqali ulangan.</string>
+    <string name="indicator_noti_to_connect_remotely">%sga masofadan ulangan.</string>
+    <string name="indicator_noti_to_disconnect">%sdan uzildi.</string>
+    <string name="install_fail_dueto_connection_lost">Gear ilovasini o‘rnatib bo‘lmadi. Mobil qurilmangizga ulanish yo‘qotildi. Mobil qurilmaga ulanganda, Gear ilovasi o‘rnatiladi</string>
+    <string name="navigate_up">Yuqoriga navigatsiyalash</string>
+    <string name="notification_alarm">Budilnik</string>
+    <string name="notification_email">E-pochta</string>
+    <string name="notification_incoming_call">Kiruvchi qo‘ng‘iroq</string>
+    <string name="notification_messages">Xabarlar</string>
+    <string name="notification_missed_call">Qabul qilinmagan qo‘ng‘iroq</string>
+    <string name="notification_schedule">Jadval</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s qurilmangizda saqlanib qolad, hatto %2$s ni olib tashlaganingizdan keyin ham.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Gear ilovasini olib tashlab bo‘lmadi. Mobil qurilmangizga ulanish yo‘qotildi. Mobil qurilmaga ulanganda, Gear ilovasi olib tashlanadi</string>
+    <string name="update_fail_dueto_connection_lost">Gear ilovasini olib tashlab bo‘lmadi. Mobil qurilmangizga ulanish yo‘qotildi. Mobil qurilmaga ulanganda, Gear ilovasi yangilanadi</string>
+    <string name="watch_app_install_fail">Ilovani o‘rnatib bo‘lmadi.</string>
+    <string name="watch_app_upate_fail">Gear ilovasini yangilab bo‘lmadi. Mobil qurilmaga ulanish yo‘qotildi</string>
+</resources>

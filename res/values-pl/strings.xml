@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Menedżer zegarka Gear</string>
+    <string name="bt_connected">Połączono</string>
+    <string name="bt_disconnected">Rozłączono</string>
+    <string name="bt_unpaired">Niepowiązane</string>
+    <string name="cf_activate_failed">Błąd włączania funkcji Przekazywanie połączeń.</string>
+    <string name="cf_activate_success">Przekazywanie połączeń włączone.</string>
+    <string name="cf_deactivate_failed">Błąd wyłączania funkcji Przekazywanie połączeń.</string>
+    <string name="cf_deactivate_success">Wyłączono przekazywanie połączeń.</string>
+    <string name="cf_notification_title">Przekazywanie połączeń do zegarka Gear</string>
+    <string name="common_none">Brak</string>
+    <string name="common_recent_apps">Ost. aplik.</string>
+    <string name="fmg_unavailable_during_call">Niedostępne podczas połączenia.</string>
+    <string name="general_app_name_for_reinstall">aplikacja Samsung Gear</string>
+    <string name="indicator_noti_restoring">Przywracanie…</string>
+    <string name="indicator_noti_subtitle">Połączono z %s.</string>
+    <string name="indicator_noti_to">Połączono z %s.</string>
+    <string name="indicator_noti_to_connect_bt">Połączono z urządzeniem %s przez Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Zdalnie połączono z urządzeniem %s.</string>
+    <string name="indicator_noti_to_disconnect">Odłączono od %s.</string>
+    <string name="install_fail_dueto_connection_lost">Nie można zainstalować aplikacji zegarka Gear. Połączenie z urządzeniem przenośnym zostało utracone. Aplikacja zegarka Gear zostanie zainstalowana po połączeniu z urządzeniem przenośnym.</string>
+    <string name="navigate_up">Nawiguj w górę</string>
+    <string name="notification_alarm">Alarm</string>
+    <string name="notification_email">E-mail</string>
+    <string name="notification_incoming_call">Połączenie</string>
+    <string name="notification_messages">Wiadomości</string>
+    <string name="notification_missed_call">Połączenie nieodebrane</string>
+    <string name="notification_schedule">Terminarz</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">Aplikacja %1$s pozostanie na urządzeniu nawet po odinstalowaniu dodatku %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Nie można odinstalować aplikacji zegarka Gear. Połączenie z urządzeniem przenośnym zostało utracone. Aplikacja zegarka Gear zostanie odinstalowana po połączeniu z urządzeniem przenośnym.</string>
+    <string name="update_fail_dueto_connection_lost">Nie można zaktualizować aplikacji zegarka Gear. Połączenie z urządzeniem przenośnym zostało utracone. Aplikacja zegarka Gear zostanie zaktualizowana po połączeniu z urządzeniem przenośnym.</string>
+    <string name="watch_app_install_fail">Nie można zainstalować tej aplikacji.</string>
+    <string name="watch_app_upate_fail">Nie można zaktualizować aplikacji zegarka Gear. Połączenie z urządzeniem przenośnym zostało utracone.</string>
+</resources>

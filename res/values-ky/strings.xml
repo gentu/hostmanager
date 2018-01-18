@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cf_activate_failed">Чалууну которуу иштилбей калды.</string>
+    <string name="cf_activate_success">Чалууну которуу иштетилген.</string>
+    <string name="cf_deactivate_failed">Чалууну которуу иштен чыгарылбай калды.</string>
+    <string name="cf_deactivate_success">Чакыруу которуусу иштен чыгарылды.</string>
+    <string name="cf_notification_title">"Чакырууларды Gear'иңизге тапшыруу"</string>
+    <string name="common_none">Эч бири</string>
+    <string name="common_recent_apps">Акыркы колд.</string>
+    <string name="fmg_unavailable_during_call">Чалуу учурунда байкалбайт</string>
+    <string name="indicator_noti_restoring">Калыбына келтирүүдө…</string>
+    <string name="indicator_noti_subtitle">%s менен туташты.</string>
+    <string name="indicator_noti_to">%s менен туташты</string>
+    <string name="indicator_noti_to_connect_bt">%s менен Bluetooth аркылуу туташыңыз.</string>
+    <string name="indicator_noti_to_connect_remotely">%s менен аралыктан туташты.</string>
+    <string name="indicator_noti_to_disconnect">%s тармагынан ажыратылды.</string>
+    <string name="install_fail_dueto_connection_lost">Gear сунуучуну орнотуу иши кыйрады. Мобилдик түзмөгүңүзгө байланыш жоголду. Gear сунуучу мобилдик түзмөгүңүзгө байланышканда, орнотулат.</string>
+    <string name="notification_alarm">Ойготкуч</string>
+    <string name="notification_email">Email</string>
+    <string name="notification_incoming_call">Кирүүчү чалуу</string>
+    <string name="notification_messages">Билдирүүлөр</string>
+    <string name="notification_missed_call">Алынбаган чалуу</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="uninstall_fail_dueto_connection_lost">Gear сунуучунун ордун бошотуу ишке ашпады. Мобилдик түзмөгүңүзгө байланыш жоголду. Gear сунуучунун мобилдик түзмөгүңүзгө байланышканда, орду бошотулат.</string>
+    <string name="update_fail_dueto_connection_lost">Gear сунуучуга жаңыртуусу кыйрады. Мобилдик түзмөгүңүзгө байланыш жоголду. Gear сунуучу мобилдик түзмөгүңүзгө байланышканда, жаңыртылат.</string>
+    <string name="watch_app_install_fail">Сунуучуну орнотуу кыйрады.</string>
+    <string name="watch_app_upate_fail">Gear сунуучуга жаңыртуусу кыйрады. Мобилдик түзмөккө болгон байлыныш жоголду.</string>
+</resources>

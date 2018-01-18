@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">เชื่อมต่อแล้ว</string>
+    <string name="bt_disconnected">เลิก​เชื่อม​ต่อ​แล้ว</string>
+    <string name="bt_unpaired">ยก​เลิก​การจับ​คู่</string>
+    <string name="cf_activate_failed">การเปิดใช้งานการ ส่งต่อการโทร ล้มเหลว</string>
+    <string name="cf_activate_success">เปิดใช้งานการส่งต่อ การโทรแล้ว</string>
+    <string name="cf_deactivate_failed">การปิดใช้งานการ ส่งต่อการโทร ล้มเหลว</string>
+    <string name="cf_deactivate_success">ปิดใช้งานการส่งต่อการโทรแล้ว</string>
+    <string name="cf_notification_title">การโอนสายไปยัง Gear</string>
+    <string name="common_none">ไม่​มี</string>
+    <string name="common_recent_apps">แอพล่าสุด</string>
+    <string name="fmg_unavailable_during_call">ใช้​งาน​ไม่​ได้​ขณะ​ใช้​สาย</string>
+    <string name="general_app_name_for_reinstall">แอพพลิเคชั่น Samsung Gear</string>
+    <string name="indicator_noti_restoring">กำลัง​เรียก​คืน…</string>
+    <string name="indicator_noti_subtitle">เชื่อมต่อกับ %s แล้ว</string>
+    <string name="indicator_noti_to">เชื่อม​ต่อ​กับ %s ​แล้ว</string>
+    <string name="indicator_noti_to_connect_bt">เชื่อมต่อกับ %s ผ่าน Bluetooth</string>
+    <string name="indicator_noti_to_connect_remotely">เชื่อมต่อกับ %s จากระยะไกล</string>
+    <string name="indicator_noti_to_disconnect">ยกเลิกการเชื่อมต่อกับ %s แล้ว</string>
+    <string name="install_fail_dueto_connection_lost">การติดตั้งแอพ Gear ล้มเหลว การเชื่อมต่อกับ อุปกรณ์มือถือของคุณสูญหาย แอพ Gear จะถูกติดตั้งเมื่อเชื่อมต่อกับ อุปกรณ์มือถือแล้ว</string>
+    <string name="navigate_up">หา​ตำแหน่ง​ขึ้น</string>
+    <string name="notification_alarm">การ​เตือน</string>
+    <string name="notification_email">อีเมล</string>
+    <string name="notification_incoming_call">โทรเข้า</string>
+    <string name="notification_messages">ข้อ​ความ</string>
+    <string name="notification_missed_call">เบอร์​ที่​ไม่​ได้​รับ​สาย</string>
+    <string name="notification_schedule">การ​นัด​หมาย</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s จะยังคงอยู่บนอุปกรณ์ของคุณแม้หลังจาก ถอนการติดตั้ง %2$s</string>
+    <string name="uninstall_fail_dueto_connection_lost">การถอนการติดตั้งแอพ Gear ล้มเหลว การเชื่อมต่อกับ อุปกรณ์มือถือของคุณสูญหาย แอพ Gear จะถูกถอนการติดตั้ง เมื่อเชื่อมต่อกับอุปกรณ์มือถือแล้ว</string>
+    <string name="update_fail_dueto_connection_lost">การอัพเดทแอพ Gear ล้มเหลว การเชื่อมต่อกับอุปกรณ์ มือถือของคุณสูญหาย แอพ Gear จะถูกอัพเดทเมื่อเชื่อมต่อกับ อุปกรณ์มือถือแล้ว</string>
+    <string name="watch_app_install_fail">การติดตั้งแอพล้มเหลว</string>
+    <string name="watch_app_upate_fail">การอัพเดทแอพ Gear ล้มเหลว การเชื่อมต่อกับอุปกรณ์ มือถือสูญหาย</string>
+</resources>

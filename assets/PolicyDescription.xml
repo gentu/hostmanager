@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xmlns="connect-manager-policy-decision">
+	<attribute policyCount = "2">
+	</attribute>
+
+	<policy name = "DATALINK_POLICY" host = "4" wearable = "5">
+	   <host_buletooth version = "DEVICE_TYPE_CLASSIC">
+			<wearable_buletooth version = "DEVICE_TYPE_CLASSIC" value = "SPP"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL" value = "SPP"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL_SAMSUNG" value = "SPP"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL_4_1" value = "SPP"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_LE" value = "NO_POLICY"></wearable_buletooth>
+		</host_buletooth>
+		
+		<host_buletooth version = "DEVICE_TYPE_DUAL">
+			<wearable_buletooth version = "DEVICE_TYPE_CLASSIC" value = "SPP"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL" value = "SPP"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL_SAMSUNG" value = "SPP"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL_4_1" value = "SPP"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_LE" value = "GATT"></wearable_buletooth>
+		</host_buletooth>
+		
+		<host_buletooth version = "DEVICE_TYPE_DUAL_SAMSUNG">
+			<wearable_buletooth version = "DEVICE_TYPE_CLASSIC" value = "SPP"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL" value = "SPP"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL_SAMSUNG" value = "SPP"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL_4_1" value = "SPP"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_LE" value = "GATT"></wearable_buletooth>
+		</host_buletooth>
+		
+		<host_buletooth version = "DEVICE_TYPE_DUAL_4_1">
+			<wearable_buletooth version = "DEVICE_TYPE_CLASSIC" value = "SPP"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL" value = "SPP"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL_SAMSUNG" value = "SPP"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL_4_1" value = "NO_POLICY"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_LE" value = "GATT"></wearable_buletooth>
+		</host_buletooth>
+	</policy>
+	
+	<policy name = "AUTO_CONNECTION_POLICY" host = "4" wearable = "5">
+	   <host_buletooth version = "DEVICE_TYPE_CLASSIC">
+			<wearable_buletooth version = "DEVICE_TYPE_CLASSIC" value = "BR_EDR"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL" value = "BR_EDR"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL_SAMSUNG" value = "BR_EDR"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL_4_1" value = "BR_EDR"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_LE" value = "NO_POLICY"></wearable_buletooth>
+		</host_buletooth>
+		
+		<host_buletooth version = "DEVICE_TYPE_DUAL">
+			<wearable_buletooth version = "DEVICE_TYPE_CLASSIC" value = "BR_EDR"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL" value = "BR_EDR"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL_SAMSUNG" value = "BR_EDR"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL_4_1" value = "BR_EDR"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_LE" value = "LE_STANDARD"></wearable_buletooth>
+		</host_buletooth>
+		
+		<host_buletooth version = "DEVICE_TYPE_DUAL_SAMSUNG">
+			<wearable_buletooth version = "DEVICE_TYPE_CLASSIC" value = "BR_EDR"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL" value = "BR_EDR"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL_SAMSUNG" value = "LE_NON_STANDARD"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL_4_1" value = "LE_NON_STANDARD"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_LE" value = "LE_STANDARD"></wearable_buletooth>
+		</host_buletooth>
+		
+		<host_buletooth version = "DEVICE_TYPE_DUAL_4_1">
+			<wearable_buletooth version = "DEVICE_TYPE_CLASSIC" value = "BR_EDR"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL" value = "BR_EDR"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL_SAMSUNG" value = "LE_NON_STANDARD"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_DUAL_4_1" value = "LE_STANDARD"></wearable_buletooth>
+			<wearable_buletooth version = "DEVICE_TYPE_LE" value = "LE_STANDARD"></wearable_buletooth>
+		</host_buletooth>
+	</policy>
+	
+	<policy name = "MODULE_POLICY" host = "4" wearable = "1">
+	   <android_vserion androidAPIVersion = "15">
+	   		<available_module BLE = "BLE" value = "DISABLE"></available_module>
+	   </android_vserion>
+	   
+	   <android_vserion androidAPIVersion = "16">
+	   		<available_module BLE = "BLE" value = "DISABLE"></available_module>
+	   </android_vserion>
+	   
+	   <android_vserion androidAPIVersion = "17">
+	   		<available_module BLE = "BLE" value = "DISABLE"></available_module>
+	   </android_vserion>
+	   
+	   <android_vserion androidAPIVersion = "18">
+	   		<available_module BLE = "BLE" value = "ENABLE"></available_module>
+	   </android_vserion>
+	   
+	   <android_vserion androidAPIVersion = "19">
+	   		<available_module BLE = "BLE" value = "ENABLE"></available_module>
+	   </android_vserion>
+	   
+	   <android_vserion androidAPIVersion = "20">
+	   		<available_module BLE = "BLE" value = "ENABLE"></available_module>
+	   </android_vserion>
+	   
+	   <android_vserion androidAPIVersion = "21">
+	   		<available_module BLE = "BLE" value = "ENABLE"></available_module>
+	   </android_vserion>
+	   
+	   <android_vserion androidAPIVersion = "22">
+	   		<available_module BLE = "BLE" value = "ENABLE"></available_module>
+	   </android_vserion>
+	</policy>
+	
+</root>

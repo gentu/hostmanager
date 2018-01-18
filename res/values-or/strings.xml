@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">ଗିୟର ପରିଚାଳକ</string>
+    <string name="bt_connected">ସଂଯୋଗ ହୋଇଛି</string>
+    <string name="bt_disconnected">ବିଛିନ୍ନ ହେଲା</string>
+    <string name="bt_unpaired">ଅନ୍‌ପେୟାର୍।</string>
+    <string name="cf_activate_failed">କଲ୍ ଅଗ୍ରଗାମୀ ସକ୍ଷମ କରିବାକୁ ବିଫଳ ହେଲା।</string>
+    <string name="cf_activate_success">କଲ୍ ଅଗ୍ରଗାମୀ ସକ୍ଷମ ହୋଇଛି।</string>
+    <string name="cf_deactivate_failed">କଲ୍ ଅଗ୍ରଗାମୀ ଅକ୍ଷମ କରିବାକୁ ବିଫଳ ହେଲା।</string>
+    <string name="cf_deactivate_success">କଲ୍ ଫର୍‌ୱାର୍ଡିଂ ଅକ୍ଷମ ହୋଇଛି।</string>
+    <string name="cf_notification_title">ଆପଣଙ୍କ ଗିଅର୍‌ରେ କଲଗୁଡିକ ଫରୱାର୍ଡ କରିବା</string>
+    <string name="common_none">କିଛି ନାହିଁ</string>
+    <string name="common_recent_apps">ସମ୍ପ୍ରତି ଆପସ୍</string>
+    <string name="fmg_unavailable_during_call">କଲ୍ ସମୟରେ ଅନୁପଲବ୍ଧ।</string>
+    <string name="general_app_name_for_reinstall">ସାମସଙ୍ଗ ଗଅର୍ ଆପ୍ଲିକେସନ୍</string>
+    <string name="indicator_noti_restoring">ପୁନରୁଦ୍ଧାର କରୁଛି…</string>
+    <string name="indicator_noti_subtitle">%sକୁ ସଂଯୋଜିତ।</string>
+    <string name="indicator_noti_to">%s ସହିତ ସଂଯୋଜିତ।</string>
+    <string name="indicator_noti_to_connect_bt">%sକୁ ବ୍ଲୁଟୁଥ ମାଧ୍ୟମରେ ସଂଯୁକ୍ତ ହୋଇଛି।</string>
+    <string name="indicator_noti_to_connect_remotely">%sକୁ ରିମୋଟ୍ ଭାବେ ସଂଯୁକ୍ତ ହୋଇଛି।</string>
+    <string name="indicator_noti_to_disconnect">%sରୁ ବିଚ୍ଛିନ୍ନ ହୋଇଛି।</string>
+    <string name="install_fail_dueto_connection_lost">ଗିଅର୍ ଆପ୍ଲିକେସନ୍ ସଂସ୍ଥାପନ କରିବାକୁ ବିଫଳ ହୋଇଛି। ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସ୍‌କୁ ସଂଯୋଜନ ହରାଇଛି। ମୋବାଇଲ୍ ଡିଭାଇସ୍‌କୁ ସଂଯୋଜିତ ହେବା ବେଳେ ଗିଅର୍ ଆପ୍ଲିକେସନ୍ ସଂସ୍ଥାପିତ ହେବ।</string>
+    <string name="navigate_up">ଉପରକୁ ନେଭିଗେଟ୍ କରନ୍ତୁ</string>
+    <string name="notification_alarm">ଆଲରାମ୍</string>
+    <string name="notification_email">ଇମେଲ୍</string>
+    <string name="notification_incoming_call">ଆଗମନ କଲ୍</string>
+    <string name="notification_messages">ସନ୍ଦେଶଗୁଡିକ</string>
+    <string name="notification_missed_call">ହରାଇଥିବା କଲ୍</string>
+    <string name="notification_schedule">ସିଡ୍ୟୁଲ୍</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">ଏପରିକି %2$s ଅଣସଂସ୍ଥାପନ କରିବା ପରେ ଆପଣଙ୍କ ଡିଭାଇସ୍‌ %1$sରେ ରହିବ।</string>
+    <string name="uninstall_fail_dueto_connection_lost">ଗିଅର୍ ଆପ୍ଲିକେସନ୍ ଅଣସଂସ୍ଥାପନ କରିବାକୁ ବିଫଳ ହୋଇଛି। ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସ୍‌କୁ ସଂଯୋଜନ ହରାଇଛି। ମୋବାଇଲ୍ ଡିଭାଇସ୍‌କୁ ସଂଯୋଜିତ ହେବା ବେଳେ ଗିଅର୍ ଆପ୍ଲିକେସନ୍ ଅଣସଂସ୍ଥାପିତ ହେବ।</string>
+    <string name="update_fail_dueto_connection_lost">ଗିଅର୍ ଆପ୍ଲିକେସନ୍ ଅପ୍‌ଡେଟ୍ କରିବାକୁ ବିଫଳ ହୋଇଛି। ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସ୍‌କୁ ସଂଯୋଜନ ହରାଇଛି। ମୋବାଇଲ୍ ଡିଭାଇସ୍‌କୁ ସଂଯୋଜିତ ହେବା ବେଳେ ଗିଅର୍ ଆପ୍ଲିକେସନ୍ ଅପ୍‌ଡେଟ୍ ହେବ।</string>
+    <string name="watch_app_install_fail">ଆପ୍ଲିକେସନ୍ ସଂସ୍ଥାପନ କରିବାକୁ ବିଫଳ ହୋଇଛି।</string>
+    <string name="watch_app_upate_fail">ଗିଅର୍ ଆପ୍ଲିକେସନ୍ ଅପ୍‌ଡେଟ୍ କରିବାକୁ ବିଫଳ ହୋଇଛି। ମୋବାଇଲ୍ ଡିଭାଇସ୍‌କୁ ସଂଯୋଜନ ହରାଇଛି।</string>
+</resources>

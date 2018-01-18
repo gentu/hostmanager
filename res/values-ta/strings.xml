@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">கியர் மேலாளர்</string>
+    <string name="bt_connected">இணைக்கப்பட்டது</string>
+    <string name="bt_disconnected">துண்டிக்கபட்டது</string>
+    <string name="bt_unpaired">இணை. நீக்கப்பட்டது</string>
+    <string name="cf_activate_failed">அழைப்பு முன்னனுப்பலைச் செயல்படுத்துவது தோல்வியுற்றது.</string>
+    <string name="cf_activate_success">அழைப்பு முன்னனுப்பல் செயல்படுத்தப்பட்டுள்ளது.</string>
+    <string name="cf_deactivate_failed">அழைப்பு முன்னனுப்பலைச் செயல்நீக்குவது தோல்வியுற்றது.</string>
+    <string name="cf_deactivate_success">அழைப்பு முன்னனுப்புதல் செயல்நீக்கப்பட்டது.</string>
+    <string name="cf_notification_title">உங்கள் கியருடன் அழைப்புகளைப் பகிர்கிறது</string>
+    <string name="common_none">ஒன்றுமில்லை</string>
+    <string name="common_recent_apps">சமீப. பயன்பாடுகள்</string>
+    <string name="fmg_unavailable_during_call">அழைப்பின் பொழுது கிடைப்பதில்லை.</string>
+    <string name="general_app_name_for_reinstall">சாம்சங் கியர் பயன்பாடு</string>
+    <string name="indicator_noti_restoring">மீ.சேமிக்கிறது…</string>
+    <string name="indicator_noti_subtitle">%s என்பதுடன் இணைக்கப்பட்டது.</string>
+    <string name="indicator_noti_to">%s உடன் இணைந்தது.</string>
+    <string name="indicator_noti_to_connect_bt">ப்ளூடூத் வழியாக %s உடன் இணைக்கப்பட்டது.</string>
+    <string name="indicator_noti_to_connect_remotely">%s உடன் ரிமோட் நிலையில் இணைக்கப்பட்டது.</string>
+    <string name="indicator_noti_to_disconnect">%s-இலிருந்து துண்டிக்கப்பட்டது.</string>
+    <string name="install_fail_dueto_connection_lost">கியர் பயன்பாட்டை நிறுவுதல் தோல்வியுற்றது. உங்கள் மொபைல் சாதனத்திற்கான இணைப்பு துண்டிக்கப்பட்டுள்ளது. மொபைல் சாதனத்துடன் இணைக்கப்படும்போது கியர் பயன்பாடு நிறுவப்படும்.</string>
+    <string name="navigate_up">மேலே நகர்த்தவும்</string>
+    <string name="notification_alarm">அலாரம்</string>
+    <string name="notification_email">மின்னஞ்சல்</string>
+    <string name="notification_incoming_call">உள்வரு. அழைப்பு</string>
+    <string name="notification_messages">தகவல்கள்</string>
+    <string name="notification_missed_call">தவறிய அழைப்பு</string>
+    <string name="notification_schedule">திட்டம்</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%2$s-ஐ நிறுவல் நீக்கிய பிறகும் கூட %1$s உங்கள் சாதனத்தில் தொடர்ந்து இருக்கும்.</string>
+    <string name="uninstall_fail_dueto_connection_lost">கியர் பயன்பாட்டை நிறுவல்நீக்குதல் தோல்வியுற்றது. உங்கள் மொபைல் சாதனத்திற்கான இணைப்பு துண்டிக்கப்பட்டுள்ளது. மொபைல் சாதனத்துடன் இணைக்கப்படும்போது கியர் பயன்பாடு நிறுவல் நீக்கப்படும்.</string>
+    <string name="update_fail_dueto_connection_lost">கியர் பயன்பாட்டைப் புதுப்பிப்பது தோல்வியுற்றது. உங்கள் மொபைல் சாதனத்திற்கான இணைப்பு துண்டிக்கப்பட்டுள்ளது. மொபைல் சாதனத்துடன் இணைக்கப்படும்போது கியர் பயன்பாடு புதுப்பிக்கப்படும்.</string>
+    <string name="watch_app_install_fail">பயன்பாடு நிறுவுதல் தோல்வியுற்றது.</string>
+    <string name="watch_app_upate_fail">கியர் பயன்பாட்டைப் புதுப்பிப்பது தோல்வி. மொபைல் சாதனத்திற்கான இணைப்பு துண்டிக்கப்பட்டுள்ளது.</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">ಗೇರ್ ಮ್ಯಾನೇಜರ್</string>
+    <string name="bt_connected">ಸಂಪರ್ಕಿತಗೊಂಡಿದೆ</string>
+    <string name="bt_disconnected">ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="bt_unpaired">ಜೋಡಿತೆಗೆದ</string>
+    <string name="cf_activate_failed">ಕರೆ ಫಾರ್ವರ್ಡಿಂಗ್ ಶಕ್ತಗೊಳಿಸಲು ವಿಫಲವಾಗಿದೆ.</string>
+    <string name="cf_activate_success">ಕರೆ ಫಾರ್ವಡಿಂಗ್ ಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ.</string>
+    <string name="cf_deactivate_failed">ಕರೆ ಫಾರ್ವರ್ಡಿಂಗ್ ನಿಶಕ್ತಗೊಳಿಸಲು ವಿಫಲವಾಗಿದೆ.</string>
+    <string name="cf_deactivate_success">ಕರೆ ಫಾರ್ವರ್ಡಿಂಗ್ ನಿಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ.</string>
+    <string name="cf_notification_title">ಕರೆಗಳನ್ನು ನಿಮ್ಮ ಗೇರ್‌ಗೆ ಫಾರ್ವರ್ಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+    <string name="common_none">ಯಾವುದೂ ಇಲ್ಲ</string>
+    <string name="common_recent_apps">ಇತ್ತೀಚಿನ ಅನ್ವಯಿಸುವಿಕೆಗಳು</string>
+    <string name="fmg_unavailable_during_call">ಕರೆ ಮಾಡುವ ವೇಳೆಯಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ.</string>
+    <string name="general_app_name_for_reinstall">ಸ್ಯಾಮ್‌ಸಂಗ್ ಗೇರ್ ಅನ್ವಯಿಸುವಿಕೆ</string>
+    <string name="indicator_noti_restoring">ಮರುಸಂಗ್ರಹಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="indicator_noti_subtitle">%sಗೆ ಸಂಪರ್ಕಿಸಲಾಗಿದೆ.</string>
+    <string name="indicator_noti_to">%s ನೊಂದಿಗೆ ಸಂಪರ್ಕಿಸಲಾಗಿದೆ.</string>
+    <string name="indicator_noti_to_connect_bt">ಬ್ಲೂಟೂತ್ ಮೂಲಕ %sಗೆ ಸಂಪರ್ಕಿಸಲಾಗಿದೆ.</string>
+    <string name="indicator_noti_to_connect_remotely">%sಗೆ ರಿಮೋಟ್ ಆಗಿ ಸಂಪರ್ಕಿಸಲಾಗಿದೆ.</string>
+    <string name="indicator_noti_to_disconnect">%sನಿಂದ ಸಂಪರ್ಕ ಕಡಿತಗೊಂಡಿದೆ.</string>
+    <string name="install_fail_dueto_connection_lost">ಗೇರ್‌ ಅನ್ವಯಿಸುವಿಕೆ ಸ್ಥಾಪಿಸಲು ವಿಫಲವಾಗಿದೆ. ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನಕ್ಕೆ ಸಂಪರ್ಕವು ತಪ್ಪಿರುತ್ತದೆ. ಮೊಬೈಲ್ ಸಾಧನಕ್ಕೆ ಸಂಪರ್ಕಿಸಿದಾಗ ಗೇರ್ ಅನ್ವಯಿಸುವಿಕೆಯನ್ನು ಸ್ಥಾಪಿಸಲಾಗುತ್ತದೆ.</string>
+    <string name="navigate_up">ಮೇಲೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ</string>
+    <string name="notification_alarm">ಎಚ್ಚರಗಂಟೆ</string>
+    <string name="notification_email">ಇಮೇಲ್</string>
+    <string name="notification_incoming_call">ಒಳಬರುತ್ತಿರುವ ಕರೆ</string>
+    <string name="notification_messages">ಸಂದೇಶಗಳು</string>
+    <string name="notification_missed_call">ತಪ್ಪಿಹೊದ ಕರೆ</string>
+    <string name="notification_schedule">ಕಾರ್ಯಕ್ರಮ</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%2$s ಸ್ಥಾಪನೆ ರದ್ದುಗೊಳಿಸಿದ ನಂತರವೂ ಸಹ %1$s ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿಯೇ ಉಳಿಯುತ್ತದೆ.</string>
+    <string name="uninstall_fail_dueto_connection_lost">ಗೇರ್‌ ಅನ್ವಯಿಸುವಿಕೆ ಸ್ಥಾಪನೆ ತೆಗೆಯಲು ವಿಫಲವಾಗಿದೆ. ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನಕ್ಕೆ ಸಂಪರ್ಕವು ತಪ್ಪಿರುತ್ತದೆ. ಮೊಬೈಲ್ ಸಾಧನಕ್ಕೆ ಸಂಪರ್ಕಿಸಿದಾಗ ಗೇರ್ ಅನ್ವಯಿಸುವಿಕೆಯನ್ನು ಸ್ಥಾಪನೆ ತೆಗೆಯಲಾಗುತ್ತದೆ.</string>
+    <string name="update_fail_dueto_connection_lost">ಗೇರ್‌ ಅನ್ವಯಿಸುವಿಕೆ ನವೀಕರಿಸಲು ವಿಫಲವಾಗಿದೆ. ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನಕ್ಕೆ ಸಂಪರ್ಕವು ತಪ್ಪಿರುತ್ತದೆ. ಮೊಬೈಲ್ ಸಾಧನಕ್ಕೆ ಸಂಪರ್ಕಿಸಿದಾಗ ಗೇರ್ ಅನ್ವಯಿಸುವಿಕೆಯನ್ನು ನವೀಕರಿಸಲಾಗುವುದು.</string>
+    <string name="watch_app_install_fail">ಅನ್ವಯಿಸುವಿಕೆ ಸ್ಥಾಪಿಸಲು ವಿಫಲ.</string>
+    <string name="watch_app_upate_fail">ಗೇರ್‌ ಅನ್ವಯಿಸುವಿಕೆ ನವೀಕರಿಸಲು ವಿಫಲವಾಗಿದೆ. ಮೊಬೈಲ್ ಸಾಧನಕ್ಕೆ ಸಂಪರ್ಕವು ಕಡಿದಿದೆ.</string>
+</resources>

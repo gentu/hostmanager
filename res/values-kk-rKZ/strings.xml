@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cf_activate_failed">Қоңырау бағытын өзгертуді қосу сәтсіз болды.</string>
+    <string name="cf_activate_success">Қоңырау бағытын өзгерту қосылды.</string>
+    <string name="cf_deactivate_failed">Қоңырау бағытын өзгертуді өшіру сәтсіз болды.</string>
+    <string name="cf_deactivate_success">Қоңырау бағытын өзгерту ажыратылды.</string>
+    <string name="cf_notification_title">Қоңыраулар бағытын Gear құрылғысына өзгерту</string>
+    <string name="common_none">Жоқ</string>
+    <string name="common_recent_apps">Соңғы бағд-р</string>
+    <string name="fmg_unavailable_during_call">Қоңырау барысында болмайды.</string>
+    <string name="indicator_noti_restoring">Қалпына келтіру…</string>
+    <string name="indicator_noti_subtitle">%s қосылды.</string>
+    <string name="indicator_noti_to">%s құрылғысымен қосылған.</string>
+    <string name="indicator_noti_to_connect_bt">%s құрылғысына Bluetooth арқылы қосылды.</string>
+    <string name="indicator_noti_to_connect_remotely">%s құрылғысына қашықтықтан қосылды.</string>
+    <string name="indicator_noti_to_disconnect">%s құрамынан ажыратылды.</string>
+    <string name="install_fail_dueto_connection_lost">Gear бағдарламасын орнату орындалмады. Мобильді құрылғыңыздың қосылымы жоғалды. Gear бағдарламасы мобильді құрылғыға қосылғанда орнатылады</string>
+    <string name="notification_alarm">Дабыл</string>
+    <string name="notification_email">Электрондық пошта</string>
+    <string name="notification_incoming_call">Қабылданған қоңырау</string>
+    <string name="notification_messages">Хабарламалар</string>
+    <string name="notification_missed_call">Қабылданбаған қоңырау</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="uninstall_fail_dueto_connection_lost">Gear бағдарламасын жою орындалмады. Мобильді құрылғыңыздың қосылымы жоғалды. Gear бағдарламасы мобильді құрылғыға қосылғанда жойылады.</string>
+    <string name="update_fail_dueto_connection_lost">Gear бағдарламасын жаңарту орындалмады. Мобильді құрылғыңыздың қосылымы жоғалды. Gear бағдарламасы мобильді құрылғыға қосылғанда жаңартылады</string>
+    <string name="watch_app_install_fail">Бағдарламаны орнату сәтсіз аяқталды.</string>
+    <string name="watch_app_upate_fail">Gear бағдарламасын жаңарту орындалмады. Мобильді құрылғы қосылымы жоғалды</string>
+</resources>

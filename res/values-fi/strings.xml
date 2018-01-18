@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Yhdistetty</string>
+    <string name="bt_disconnected">Yhteys katkaistu</string>
+    <string name="bt_unpaired">Ei pariliitosta</string>
+    <string name="cf_activate_failed">Soitonsiirron ottaminen käyttöön epäonnistui.</string>
+    <string name="cf_activate_success">Soitonsiirto käytössä.</string>
+    <string name="cf_deactivate_failed">Soitonsiirron poistaminen käytöstä epäonnistui.</string>
+    <string name="cf_deactivate_success">Soitonsiirto poistettu käytöstä.</string>
+    <string name="cf_notification_title">Puheluiden siirtäminen Geariin</string>
+    <string name="common_none">Ei mitään</string>
+    <string name="common_recent_apps">Viim. sov.</string>
+    <string name="fmg_unavailable_during_call">Ei saatavilla puhelun aikana.</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear -sovellus</string>
+    <string name="indicator_noti_restoring">Palautetaan…</string>
+    <string name="indicator_noti_subtitle">Yhteys muodostettu kohteeseen %s.</string>
+    <string name="indicator_noti_to">Yhdistetty %s.</string>
+    <string name="indicator_noti_to_connect_bt">Yhdistetty Bluetoothilla laitteeseen %s.</string>
+    <string name="indicator_noti_to_connect_remotely">Yhdistetty etäältä laitteeseen %s.</string>
+    <string name="indicator_noti_to_disconnect">Yhteys tukiasemaan %s on katkaistu.</string>
+    <string name="install_fail_dueto_connection_lost">Gear-sovelluksen asentaminen epäonnistui. Yhteys mobiililaitteeseen on katkennut. Gear-sovellus asennetaan, kun muodostat yhteyden mobiililaitteeseen.</string>
+    <string name="navigate_up">Siirry ylös kohteeseen</string>
+    <string name="notification_alarm">Hälytys</string>
+    <string name="notification_email">Sähköposti</string>
+    <string name="notification_incoming_call">Saapuva puhelu</string>
+    <string name="notification_messages">Viesti</string>
+    <string name="notification_missed_call">Vastaamaton puhelu</string>
+    <string name="notification_schedule">Ajoitettu tapahtuma</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s jää laitteeseen myös sen jälkeen, kun laajennuksen %2$s asennus on poistettu.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Gear-sovelluksen asennuksen poistaminen epäonnistui. Yhteys mobiililaitteeseen on katkennut. Gear-sovelluksen asennus poistetaan, kun muodostat yhteyden mobiililaitteeseen.</string>
+    <string name="update_fail_dueto_connection_lost">Gear-sovelluksen päivittäminen epäonnistui. Yhteys mobiililaitteeseen on katkennut. Gear-sovellus päivitetään, kun muodostat yhteyden mobiililaitteeseen.</string>
+    <string name="watch_app_install_fail">Sovelluksen asentaminen epäonnistui.</string>
+    <string name="watch_app_upate_fail">Gear-sovelluksen päivittäminen epäonnistui. Yhteys mobiililaitteeseen on katkennut.</string>
+</resources>

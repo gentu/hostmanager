@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="spinnerDropDownItemStyle" parent="@android:style/TextAppearance.Widget.TextView.SpinnerItem">
+        <item name="android:textColor">@color/dropdown_item_text_color</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:padding">16.0dip</item>
+        <item name="android:minWidth">112.0dip</item>
+    </style>
+</resources>

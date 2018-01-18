@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">ຕົວຈັດການເກຍ</string>
+    <string name="bt_connected">ເຊື່ອມຕໍ່ແລ້ວ</string>
+    <string name="bt_disconnected">ປິດເຊື່ອມຕໍ່ແລ້ວ</string>
+    <string name="bt_unpaired">ບໍ່ໄດ້ຈັບຄູ່</string>
+    <string name="cf_activate_failed">ເປີດໃຊ້ງານການໂອນສາຍໂທບໍ່ສໍາເລັດ.</string>
+    <string name="cf_activate_success">ການໂອນສາຍໂທເປີດໃຊ້ງານແລ້ວ.</string>
+    <string name="cf_deactivate_failed">ບໍ່ສາມາດປິດໃຊ້ງານການໂອນສາຍໂທໄດ້.</string>
+    <string name="cf_deactivate_success">ການໂອນສາຍປິດໃຊ້ງານແລ້ວ.</string>
+    <string name="cf_notification_title">ໂອນສາຍໄປຫາເກຍຂອງທ່ານ</string>
+    <string name="common_none">ບໍ່ມີ</string>
+    <string name="common_recent_apps">ແອັບບໍ່ດົນນີ້</string>
+    <string name="fmg_unavailable_during_call">ໃຊ້ບໍ່ໄດ້ໃນລະຫວ່າງການໂທ.</string>
+    <string name="general_app_name_for_reinstall">ແອພພລິເຄຊັນ Samsung Gear</string>
+    <string name="indicator_noti_restoring">ກໍາລັງເອົາກັບມາ…</string>
+    <string name="indicator_noti_subtitle">ເຊື່ອມຕໍ່ກັບ %s ແລ້ວ.</string>
+    <string name="indicator_noti_to">ໄດ້ເຊື່ອມຕໍ່ກັບ %s.</string>
+    <string name="indicator_noti_to_connect_bt">ເຊື່ອມຕໍ່ກັບ %s ຜ່ານບລູທູດແລ້ວ.</string>
+    <string name="indicator_noti_to_connect_remotely">ເຊື່ອມຕໍ່ກັບ %s ທາງໄກແລ້ວ.</string>
+    <string name="indicator_noti_to_disconnect">ຕັດເຊື່ອມຕໍ່ຈາກ %s ແລ້ວ.</string>
+    <string name="install_fail_dueto_connection_lost">ຕິດຕັ້ງແອັບເກຍບໍ່ສໍາເລັດ ການເຊື່ອມຕໍ່ກັບໂທລະສັບມືຖືຂອງທ່ານຖືກຕັດໄປ. ແອັບເກຍຈະຖືກຕິດຕັ້ງ ເມື່ອເຊື່ອມຕໍ່ກັບໂທລະສັບມືຖືແລ້ວ.</string>
+    <string name="navigate_up">ເລື່ອນຂຶ້ນ</string>
+    <string name="notification_alarm">ປຸກ</string>
+    <string name="notification_email">ອີ​ເມລ໌</string>
+    <string name="notification_incoming_call">ສາຍໂທເຂົ້າ</string>
+    <string name="notification_messages">ຂໍ້ຄວາມ</string>
+    <string name="notification_missed_call">ສາຍບໍ່ໄດ້ຮັບ</string>
+    <string name="notification_schedule">ກໍານົດເວລາ</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s ຈະຍັງຄົງຢູ່ໃນອຸປະກອນຂອງທ່ານ ແມ້ຫຼັງຈາກການຖອນຕິດຕັ້ງ %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">ຖອນຕິດຕັ້ງແອັບເກຍບໍ່ສໍາເລັດ ການເຊື່ອມຕໍ່ກັບໂທລະສັບມືຖືຂອງທ່ານຖືກຕັດໄປ. ແອັບເກຍຈະຖືກຖອນຕິດຕັ້ງ ເມື່ອເຊື່ອມຕໍ່ເຂົ້າກັບໂທລະສັບມືຖືແລ້ວ.</string>
+    <string name="update_fail_dueto_connection_lost">ອັບເດດແອັບເກຍບໍ່ສໍາເລັດ ການເຊື່ອມຕໍ່ກັບໂທລະສັບມືຖືຂອງທ່ານຖືກຕັດໄປ. ແອັບເກຍຈະຖືກອັບເດດ ເມື່ອເຊື່ອມຕໍ່ກັບໂທລະສັບມືຖືແລ້ວ.</string>
+    <string name="watch_app_install_fail">ຕິດຕັ້ງແອັບບໍ່ສໍາເລັດ.</string>
+    <string name="watch_app_upate_fail">ອັບເດດແອັບເກຍບໍ່ສໍາເລັດ ການເຊື່ອມຕໍ່ກັບໂທລະສັບມືຖືຖືກຕັດ.</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">گیئر مینیجر</string>
+    <string name="bt_connected">مربوط</string>
+    <string name="bt_disconnected">غیر منسلک ہو گیا</string>
+    <string name="bt_unpaired">غیرجوڑی کردہ</string>
+    <string name="cf_activate_failed">کال آگے کرنا کو اہل کرنے میں ناکام۔</string>
+    <string name="cf_activate_success">کال آگے کرنا اہل۔</string>
+    <string name="cf_deactivate_failed">کال آگے کرنا کو غیر فعال کرنے میں ناکام۔</string>
+    <string name="cf_deactivate_success">کال فارورڈنگ غیرفعال۔</string>
+    <string name="cf_notification_title">آپ کے گیئرز کو کال آگے بھیجنا</string>
+    <string name="common_none">نہیں</string>
+    <string name="common_recent_apps">حالیہ ایپلیکیشنز</string>
+    <string name="fmg_unavailable_during_call">کال کے دوران اجازت نہیں۔</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear ایپلیکیشن</string>
+    <string name="indicator_noti_restoring">دوباہ سٹور کر رہا ہے۔۔۔</string>
+    <string name="indicator_noti_subtitle">%s سے جڑگیا۔</string>
+    <string name="indicator_noti_to">%s کے ساتھ متصل ہوگیا۔</string>
+    <string name="indicator_noti_to_connect_bt">%s سے بلیو ٹوتھ کے ذریعے جڑا ہے۔</string>
+    <string name="indicator_noti_to_connect_remotely">%s سے دور سے جڑا ہے۔</string>
+    <string name="indicator_noti_to_disconnect">%s سے منقطع ہوگیا۔</string>
+    <string name="install_fail_dueto_connection_lost">‏Gear ایپلیکیشن نصب کرنا ناکام ہوگیا۔ آپ کے موبائل آلہ کا کنکشن ضائع ہوچکا ہے۔ جب موبائل آلہ سے جڑا ہو تو Gear ایپلیکیشن نصب کی جائے گی۔</string>
+    <string name="navigate_up">اوپر کی طرف نیویگیٹ کریں</string>
+    <string name="notification_alarm">الارم</string>
+    <string name="notification_email">ای میل</string>
+    <string name="notification_incoming_call">ان کمنگ کال</string>
+    <string name="notification_messages">پیغامات</string>
+    <string name="notification_missed_call">کال وصول نہیں ہوئی</string>
+    <string name="notification_schedule">شیڈیول</string>
+    <string name="notification_voicemail">‏Voice Mail</string>
+    <string name="toast_text_for_reinstall">%2$s کو غیر نصب کرنے پر بھی %1$s آپ کے آلہ میں باقی رہے گا۔</string>
+    <string name="uninstall_fail_dueto_connection_lost">‏Gear ایپلیکیشن نا تنصیب کرنا ناکام ہوگیا۔ آپ کے موبائل آلہ کا کنکشن ضائع ہوچکا ہے۔ جب موبائل آلہ سے جڑا ہو تو Gear ایپلیکیشن نا تنصیب کی جائے گی۔</string>
+    <string name="update_fail_dueto_connection_lost">‏Gear ایپلیکیشن تازہ کاری کرنا ناکام ہوگیا۔ آپ کے موبائل آلہ کا کنکشن ضائع ہوچکا ہے۔ جب موبائل آلہ سے جڑا ہو تو Gear ایپلیکیشن تازہ کاری کی جائے گی۔</string>
+    <string name="watch_app_install_fail">ایپلیکیشن نصب کرنا ناکام ہوگیا۔</string>
+    <string name="watch_app_upate_fail">‏Gear ایپلیکیشن تازہ کاری کرنا ناکام۔ موبائل آلہ کا کنکشن ضائع ہوگیا۔</string>
+</resources>

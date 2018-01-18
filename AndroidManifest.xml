@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="com.samsung.accessory.wmanager" package="com.samsung.android.hostmanager" platformBuildVersionCode="24" platformBuildVersionName="7.0">
+    <uses-permission android:name="com.sec.android.app.clockpackage.permission.ACCESS_WCRECEIVER"/>
+    <uses-permission android:name="com.samsung.accessory.permission.ACCESSORY_FRAMEWORK"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.INSTALL_PACKAGES"/>
+    <uses-permission android:name="android.permission.DELETE_PACKAGES"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="com.samsung.accessory.permission.ACCESSORY_FRAMEWORK_ADMIN"/>
+    <uses-permission android:name="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER"/>
+    <uses-permission android:name="com.samsung.android.hostmanager.permission.WRITE_APP_REGISTRY"/>
+    <uses-permission android:name="com.sec.android.app.safetyassurance.permission.PRIVATE"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="com.samsung.accessory.permission.ACCESSORY_FRAMEWORK"/>
+    <uses-permission android:name="com.samsung.accessory.permission.ACCESSORY_FRAMEWORK_ADMIN"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="com.sec.android.permission.SMART_UNLOCK"/>
+    <uses-permission android:name="com.samsung.permission.wearable.CONNECT_ACCESS"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+    <uses-permission android:name="android.permission.RECEIVE_SMS"/>
+    <uses-permission android:name="com.samsung.accessory.saproviders.backupandshareprovider.WRITE_FILE_SYSTEM"/>
+    <uses-permission android:name="com.samsung.accessory.saproviders.backupandshareprovider.READ_FILE_SYSTEM"/>
+    <uses-permission android:name="com.samsung.accessory.goproviders.backupandshareprovider.WRITE_FILE_SYSTEM"/>
+    <uses-permission android:name="com.samsung.accessory.goproviders.backupandshareprovider.READ_FILE_SYSTEM"/>
+    <uses-permission android:name="com.samsung.android.gear2plugin.provider.Settings.READ"/>
+    <uses-permission android:name="com.samsung.android.gear2plugin.provider.Settings.WRITE"/>
+    <meta-data android:name="android.support.VERSION" android:value="26.0.0-alpha1"/>
+    <application android:allowBackup="true" android:hardwareAccelerated="false" android:icon="@drawable/gear_manager" android:label="@string/app_name" android:name="com.samsung.android.hostmanager.HMApplication">
+        <service android:name="com.samsung.android.hostmanager.service.HostManager">
+            <intent-filter>
+                <action android:name="com.samsung.android.hostmanager.service.IUHostManager"/>
+                <action android:name="com.samsung.android.plugin.ACTION_PLUGIN_CHANGE_NOTI"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.samsung.android.hostmanager.service.ICHostManager"/>
+            </intent-filter>
+        </service>
+        <service android:exported="true" android:name="com.samsung.android.hostmanager.service.HMSAPProviderService" android:permission="com.samsung.accessory.permission.ACCESSORY_FRAMEWORK">
+            <intent-filter>
+                <action android:name="com.samsung.android.watchmanager.ACTION_HM_REQUEST_DISCONNECT"/>
+                <action android:name="com.samsung.accessory.action.SERVICE_CONNECTION_REQUESTED"/>
+                <action android:name="com.samsung.accessory.action.REGISTER_AGENT"/>
+            </intent-filter>
+        </service>
+        <receiver android:enabled="true" android:exported="false" android:name="com.samsung.android.hostmanager.notification.PackageReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REMOVED"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:exported="true" android:name="com.samsung.android.hostmanager.status.PackageReceiver" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER">
+            <intent-filter>
+                <action android:name="com.samsung.uhm.info.preapkinstall_finished"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:name="com.samsung.android.hostmanager.service.HMSamsungAppStoreService">
+            <intent-filter>
+                <action android:name="com.samsung.android.app.watchmanager.INSTALL_APP"/>
+            </intent-filter>
+        </service>
+        <receiver android:exported="false" android:name="com.samsung.android.hostmanager.pm.HMPackageBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED"/>
+                <action android:name="android.intent.action.PACKAGE_REMOVED"/>
+                <action android:name="android.intent.action.PACKAGE_REPLACED"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:exported="true" android:name="com.samsung.android.hostmanager.service.SystemEventReceiver" android:permission="android.permission.RECEIVE_BOOT_COMPLETED">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.ACTION_SHUTDOWN"/>
+                <action android:name="android.intent.action.PACKAGE_DATA_CLEARED"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.hostmanager.callforward.CallForwardReceiver">
+            <intent-filter>
+                <action android:name="com.android.phone.cfwidget.widget_reload_action"/>
+                <action android:name="com.android.gear.tshare.forward.changestate"/>
+                <action android:name="com.android.gear.tshare.forward.loginstate"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.sdk.accessoryfiletransfer.SAFileTransferIncomingRequestReceiver">
+            <intent-filter>
+                <action android:name="com.samsung.accessory.ftconnection"/>
+            </intent-filter>
+        </receiver>
+        <service android:enabled="true" android:exported="false" android:name="com.samsung.android.hostmanager.connectionmanager.ConnectionManager">
+            <intent-filter>
+                <action android:name="com.samsung.android.hostmanager.connectionmanager.ConnectionManager.START_SERVICE"/>
+                <action android:name="com.samsung.android.hostmanager.connectionmanager.ConnectionManager.STOP_SERVICE"/>
+                <action android:name="com.samsung.android.hostmanager.connectionmanager.SUBSCRIBE_SERVICE"/>
+            </intent-filter>
+        </service>
+        <receiver android:enabled="true" android:exported="false" android:name="com.samsung.android.hostmanager.connectionmanager.ServiceLauncher">
+            <intent-filter android:priority="1">
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.bluetooth.adapter.action.STATE_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:exported="false" android:name="com.samsung.android.hostmanager.connectionmanager.receiver.ConnectionManagerNotifier">
+            <intent-filter>
+                <action android:name="com.sec.android.service.connectionmanager.action.CONNECTION_INFO_NOTIFY"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.samsung.android.hostmanager.connectionmanager.SAAgentService"/>
+        <receiver android:exported="true" android:name="com.samsung.android.sdk.accessory.ServiceConnectionIndicationBroadcastReceiver">
+            <intent-filter>
+                <action android:name="com.samsung.accessory.action.SERVICE_CONNECTION_REQUESTED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name="com.samsung.android.sdk.accessory.RegisterUponInstallReceiver">
+            <intent-filter>
+                <action android:name="com.samsung.accessory.action.REGISTER_AGENT"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name="com.samsung.android.hostmanager.br.BackupProvidersDataReceiver" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER">
+            <intent-filter>
+                <action android:name="com.samsung.android.app.watchmanager.ACTION_REQUEST_DATA_BACKUP"/>
+            </intent-filter>
+        </receiver>
+        <meta-data android:name="AccessoryServicesLocation" android:value="/res/xml/hmaccessoryservices.xml"/>
+        <meta-data android:name="com.samsung.android.keepalive.density" android:value="true"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.samsung.android.uhm.framework.ui.base.BaseActivity"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.samsung.android.uhm.framework.ui.base.GeneralActivity"/>
+        <meta-data android:name="SPDE.build.signature" android:value="unknown/unofficial/release/none"/>
+        <meta-data android:name="SPDE.env.version" android:value="2.1.3/G24.2.16/24.2.9"/>
+    </application>
+</manifest>

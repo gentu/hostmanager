@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">গিয়ার পরিচালক</string>
+    <string name="bt_connected">সংযুক্ত</string>
+    <string name="bt_disconnected">সংযোগ বিচ্ছিন্ন</string>
+    <string name="bt_unpaired">জোড় মুক্ত করা হয়েছে</string>
+    <string name="cf_activate_failed">কল অগ্রবর্তীকরণ সক্ষম করতে ব্যর্থ হয়েছে।</string>
+    <string name="cf_activate_success">কল অগ্রবর্তীকরণ সক্ষম আছে।</string>
+    <string name="cf_deactivate_failed">কল অগ্রবর্তীকরণ অক্ষম করতে ব্যর্থ হয়েছে।</string>
+    <string name="cf_deactivate_success">কল অগ্রবর্তীকরণ অক্ষম আছে।</string>
+    <string name="cf_notification_title">কলগুলি আপনার গিয়ারে অগ্রবর্তী করা</string>
+    <string name="common_none">কিছু না</string>
+    <string name="common_recent_apps">সাম্প্রতিক অ্যাপগুলি</string>
+    <string name="fmg_unavailable_during_call">কলের সময় অসুলভ।</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear অ্যাপ্লিকেশন</string>
+    <string name="indicator_noti_restoring">পুনরুদ্ধার হচ্ছে…</string>
+    <string name="indicator_noti_subtitle">%s এর সাথে সংযুক্ত।</string>
+    <string name="indicator_noti_to">%s-এর সাথে সংযুক্ত।</string>
+    <string name="indicator_noti_to_connect_bt">ব্লুটুথের মাধ্যমে %s-এর সাথে সংযুক্ত।</string>
+    <string name="indicator_noti_to_connect_remotely">রিমোটলি %s-এর সাথে সংযুক্ত।</string>
+    <string name="indicator_noti_to_disconnect">%s থেকে সংযোগ বিচ্ছিন্ন হয়েছে।</string>
+    <string name="install_fail_dueto_connection_lost">গিয়ার অ্যাপটি ইনস্টল করতে ব্যর্থ হয়েছে৷ আপনার মোবাইল ডিভাইসের সংযোগ হারিয়েছে৷ মোবাইল ডিভাইসে সংযোগ থাকার সময় গিয়ার অ্যাপটি ইনস্টল হবে৷</string>
+    <string name="navigate_up">নেভিগেট আপ</string>
+    <string name="notification_alarm">অ্যালার্ম</string>
+    <string name="notification_email">ইমেল</string>
+    <string name="notification_incoming_call">আগত কল</string>
+    <string name="notification_messages">বার্তাগুলি</string>
+    <string name="notification_missed_call">মিসড কল</string>
+    <string name="notification_schedule">সময়সূচী</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">এমনকি %2$s আনইনস্টল করার পরেও আপনার ডিভাইসে %1$s থেকে যাবে।</string>
+    <string name="uninstall_fail_dueto_connection_lost">গিয়ার অ্যাপটি আনইনস্টল করতে ব্যর্থ হয়েছে৷ আপনার মোবাইল ডিভাইসের সংযোগ হারিয়েছে৷ মোবাইল ডিভাইসে সংযোগ থাকার সময় গিয়ার অ্যাপটি আনইনস্টল হবে৷</string>
+    <string name="update_fail_dueto_connection_lost">গিয়ার অ্যাপটি আপডেট করতে ব্যর্থ হয়েছে৷ আপনার মোবাইল ডিভাইসের সংযোগ হারিয়েছে৷ মোবাইল ডিভাইসে সংযোগ থাকার সময় গিয়ার অ্যাপটি আপডেট হবে৷</string>
+    <string name="watch_app_install_fail">অ্যাপটি ইনস্টল করতে ব্যর্থ হয়েছে।</string>
+    <string name="watch_app_upate_fail">গিয়ার অ্যাপটি আপডেট করতে ব্যর্থ হয়েছে৷ মোবাইল ডিভাইসের সংযোগ হারিয়েছে৷</string>
+</resources>

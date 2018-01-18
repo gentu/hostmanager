@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Spojen</string>
+    <string name="bt_disconnected">Odspojeno</string>
+    <string name="bt_unpaired">Neupareni</string>
+    <string name="cf_activate_failed">Uključivanje Prosljeđivanja poziva nije uspjelo.</string>
+    <string name="cf_activate_success">Prosljeđivanje poziva uključeno.</string>
+    <string name="cf_deactivate_failed">Isključivanje Prosljeđivanja poziva nije uspjelo.</string>
+    <string name="cf_deactivate_success">Isključeno je prosljeđivanje poziva.</string>
+    <string name="cf_notification_title">Prosljeđivanje poziva na Gear</string>
+    <string name="common_none">Ništa</string>
+    <string name="common_recent_apps">Ned. aplik.</string>
+    <string name="fmg_unavailable_during_call">Nedostupno tijekom poziva.</string>
+    <string name="general_app_name_for_reinstall">aplikacije Samsung Gear</string>
+    <string name="indicator_noti_restoring">Vraćanje…</string>
+    <string name="indicator_noti_subtitle">Spojeno s %s.</string>
+    <string name="indicator_noti_to">Spojeno s %s.</string>
+    <string name="indicator_noti_to_connect_bt">Spojen na %s preko Bluetootha.</string>
+    <string name="indicator_noti_to_connect_remotely">Spojeno na %s na daljinu.</string>
+    <string name="indicator_noti_to_disconnect">Odspojeno s %s.</string>
+    <string name="install_fail_dueto_connection_lost">Neuspješna instalacija aplikacije Geara. Veza s mobilnim uređajem je izgubljena. Aplikacija Geara će se instalirati kad se spoji na mobilni uređaj.</string>
+    <string name="navigate_up">Dođite gore</string>
+    <string name="notification_alarm">Alarm</string>
+    <string name="notification_email">Email</string>
+    <string name="notification_incoming_call">Dolazni poziv</string>
+    <string name="notification_messages">Poruke</string>
+    <string name="notification_missed_call">Propušteni poziv</string>
+    <string name="notification_schedule">Raspored</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s će ostati na uređaju čak i nakon deinstalacije %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Neuspješna deinstalacija aplikacije Geara. Veza s mobilnim uređajem je izgubljena. Aplikacija Geara će se deinstalirati kad se spoji na mobilni uređaj.</string>
+    <string name="update_fail_dueto_connection_lost">Neuspješna aktualizacija aplikacije Geara. Veza s mobilnim uređajem je izgubljena. Aplikacija Geara će se aktualizirati kad se spoji na mobilni uređaj.</string>
+    <string name="watch_app_install_fail">Neuspješna instalacija aplikacije.</string>
+    <string name="watch_app_upate_fail">Neuspješna aktualizacija aplikacije Geara. Izgubljena veza s mobilnim uređajem.</string>
+</resources>

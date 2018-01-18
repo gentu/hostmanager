@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <application name="ConnectionManager">
+        <serviceProfile id="/system/bcmservice" name="/system/bcmservice" role="consumer" serviceImpl="com.samsung.android.hostmanager.connectionmanager.SAAgentService" version="2.0">
+            <supportedTransports>
+                <transport type="TRANSPORT_BT" />
+                <transport type="TRANSPORT_MOBILE" />
+            </supportedTransports>
+            <serviceChannel id="222" dataRate="low" priority="low" reliability="disable" />
+        </serviceProfile>
+    </application>
+    <application name="HostManager">
+        <serviceProfile id="/system/hostmanager" name="HostManager" role="provider" serviceImpl="com.samsung.android.hostmanager.service.HMSAPProviderService" version="1.0"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <supportedTransports>
+                <transport type="TRANSPORT_BT" />
+                <transport type="TRANSPORT_WIFI" />
+                <transport type="TRANSPORT_MOBILE" />
+            </supportedTransports>
+            <serviceChannel id="103" dataRate="low" priority="high" reliability="disable" />
+        </serviceProfile>
+    </application>
+    <paths
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <files-path name="my_images" path="." />
+        <cache-path name="my_cache" path="." />
+        <external-path name="ext" path="." />
+    </paths>
+</resources>

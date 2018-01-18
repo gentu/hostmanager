@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Ühendatud</string>
+    <string name="bt_disconnected">Ühendus katkestatud</string>
+    <string name="bt_unpaired">Sidumata</string>
+    <string name="cf_activate_failed">Kõnesuunamist ei saanud aktiveerida.</string>
+    <string name="cf_activate_success">Kõnesuunamine aktiveeritud.</string>
+    <string name="cf_deactivate_failed">Kõnesuunamist ei saanud desaktiveerida.</string>
+    <string name="cf_deactivate_success">Kõnesuunamine on desaktiveeritud.</string>
+    <string name="cf_notification_title">Kõnede suunamine teie seadmesse Gear</string>
+    <string name="common_none">Puudub</string>
+    <string name="common_recent_apps">Hilj. rak.-d</string>
+    <string name="fmg_unavailable_during_call">Pole kõne ajal saadaval.</string>
+    <string name="general_app_name_for_reinstall">rakendus Samsung Gear</string>
+    <string name="indicator_noti_restoring">Taastamine…</string>
+    <string name="indicator_noti_subtitle">Ühendatud seadmega %s.</string>
+    <string name="indicator_noti_to">Ühendatud: %s.</string>
+    <string name="indicator_noti_to_connect_bt">Ühendatud seadmega %s Bluetoothi kaudu.</string>
+    <string name="indicator_noti_to_connect_remotely">Ühendatud seadmega %s kaugelt.</string>
+    <string name="indicator_noti_to_disconnect">Ühendus seadmega %s on katkestatud.</string>
+    <string name="install_fail_dueto_connection_lost">Rakenduse Gear installimine nurjus. Ühendus teie mobiilsideseadmega on katkenud. Rakendus Gear installitakse, kui ühendus mobiilsideseadmega luuakse uuesti.</string>
+    <string name="navigate_up">Navigeeri üles</string>
+    <string name="notification_alarm">Alarm</string>
+    <string name="notification_email">E-post</string>
+    <string name="notification_incoming_call">Saabuv kõne</string>
+    <string name="notification_messages">Sõnumid</string>
+    <string name="notification_missed_call">Vastamata kõne</string>
+    <string name="notification_schedule">Ajakava</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s jääb teie seadmesse isegi pärast lisandmooduli %2$s desinstallimist.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Rakenduse Gear desinstallimine nurjus. Ühendus teie mobiilsideseadmega on katkenud. Rakendus Gear desinstallitakse, kui ühendus mobiilsideseadmega luuakse uuesti.</string>
+    <string name="update_fail_dueto_connection_lost">Rakenduse Gear värskendamine nurjus. Ühendus teie mobiilsideseadmega on katkenud. Rakendust Gear värskendatakse, kui ühendus mobiilsideseadmega luuakse uuesti.</string>
+    <string name="watch_app_install_fail">Rakenduse installimine nurjus.</string>
+    <string name="watch_app_upate_fail">Rakenduse Gear värskendamine nurjus. Ühendus mobiilsideseadmega katkes.</string>
+</resources>

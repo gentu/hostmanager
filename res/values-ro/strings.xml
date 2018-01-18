@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Conectat</string>
+    <string name="bt_disconnected">Deconectat</string>
+    <string name="bt_unpaired">Neasociat</string>
+    <string name="cf_activate_failed">Redirecţionarea apelurilor nu a putut fi activată.</string>
+    <string name="cf_activate_success">Redirecţionarea apelurilor este activată.</string>
+    <string name="cf_deactivate_failed">Redirecţionarea apelurilor nu a putut fi dezactivată.</string>
+    <string name="cf_deactivate_success">Redirecţionarea apelurilor este dezactivată.</string>
+    <string name="cf_notification_title">Redirecţionarea apelurilor pe Gear</string>
+    <string name="common_none">Niciuna</string>
+    <string name="common_recent_apps">Apl. recente</string>
+    <string name="fmg_unavailable_during_call">Indisponibil în timpul apelului</string>
+    <string name="general_app_name_for_reinstall">aplicaţia Samsung Gear</string>
+    <string name="indicator_noti_restoring">Restabilire</string>
+    <string name="indicator_noti_subtitle">V-aţi conectat la %s.</string>
+    <string name="indicator_noti_to">Conectat cu %s</string>
+    <string name="indicator_noti_to_connect_bt">V-aţi conectat la %s prin Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">V-aţi conectat la %s la distanţă.</string>
+    <string name="indicator_noti_to_disconnect">Deconectat de la %s.</string>
+    <string name="install_fail_dueto_connection_lost">Instalarea aplicaţiei Gear nu a reuşit. Conexiunea la dispozitivul mobil s-a pierdut. Aplicaţia Gear va fi instalată la conectarea la dispozitivul mobil.</string>
+    <string name="navigate_up">Navigare în sus</string>
+    <string name="notification_alarm">Alarmă</string>
+    <string name="notification_email">E-mail</string>
+    <string name="notification_incoming_call">Apel de intrare</string>
+    <string name="notification_messages">Mesaje</string>
+    <string name="notification_missed_call">Apel pierdut</string>
+    <string name="notification_schedule">Planificare</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s va rămâne pe dispozitiv chiar şi după dezinstalarea %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Dezinstalarea aplicaţiei Gear nu a reuşit. Conexiunea la dispozitivul mobil s-a pierdut. Aplicaţia Gear va fi dezinstalată la conectarea la dispozitivul mobil.</string>
+    <string name="update_fail_dueto_connection_lost">Actualizarea aplicaţiei Gear nu a reuşit. Conexiunea la dispozitivul mobil s-a pierdut. Aplicaţia Gear va fi actualizată la conectarea la dispozitivul mobil.</string>
+    <string name="watch_app_install_fail">Instalarea aplicaţiei nu a reuşit.</string>
+    <string name="watch_app_upate_fail">Actualizarea aplicaţiei Gear nu a reuşit. Conexiunea la dispozitivul mobil s-a pierdut.</string>
+</resources>

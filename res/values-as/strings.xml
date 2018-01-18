@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">গীয়েৰ মেনেজাৰ</string>
+    <string name="bt_connected">সংযোজিত</string>
+    <string name="bt_disconnected">সংযোগহীন হৈছে</string>
+    <string name="bt_unpaired">যোৰা হৈ নথকা</string>
+    <string name="cf_activate_failed">কল ফৰৱাৰ্ডিং সক্ষম কৰিবলৈ বিফল হৈছে৷</string>
+    <string name="cf_activate_success">কল ফৰৱাৰ্ডিং সক্ষম হৈছে৷</string>
+    <string name="cf_deactivate_failed">কল ফৰৱাৰ্ডিং অক্ষম কৰিবলৈ বিফল হৈছে৷</string>
+    <string name="cf_deactivate_success">কল ফৰৱাৰ্ডিং অক্ষমিত৷</string>
+    <string name="cf_notification_title">আপোনাৰ গীয়েৰলৈ কলসমূহ অগ্ৰসৰ কৰি আছে</string>
+    <string name="common_none">একো নাই</string>
+    <string name="common_recent_apps">শেহতীয়া এপ্প্‌চ</string>
+    <string name="fmg_unavailable_during_call">কলৰ সময়ত অনুপলভ্য৷</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear এপ্লিকেশ্বন</string>
+    <string name="indicator_noti_restoring">পুনসঞ্চয় কৰি থকা হৈছে…</string>
+    <string name="indicator_noti_subtitle">%s-লৈ সংযোজিত৷</string>
+    <string name="indicator_noti_to">%s ৰ সৈতে সংযোজিত৷</string>
+    <string name="indicator_noti_to_connect_bt">ব্লুটুথৰ হৈ %s-লৈ সংযোগ হৈছে৷</string>
+    <string name="indicator_noti_to_connect_remotely">%s-লৈ দূৰবৰ্তীভাৱে সংযোগ হৈছে৷</string>
+    <string name="indicator_noti_to_disconnect">%s-ৰ পৰা সংযোগহীন হৈছে৷</string>
+    <string name="install_fail_dueto_connection_lost">"গীয়েৰ এপ ইনষ্টল কৰাত অক্ষম৷ আপোনাৰ ম'বাইল ডিভাইচলৈ সংযোগ হেৰুৱাইছে৷ ম'বাইল ডিভাইচলৈ সংযোগ কৰিলে, গীয়েৰ এপ ইনষ্টল কৰা হ'ব৷"</string>
+    <string name="navigate_up">ওপৰলৈ নেভিগেট কৰক</string>
+    <string name="notification_alarm">এলাৰ্ম</string>
+    <string name="notification_email">ইমেইল</string>
+    <string name="notification_incoming_call">ইনকামিং কল</string>
+    <string name="notification_messages">মেচেজ</string>
+    <string name="notification_missed_call">মিচ কল</string>
+    <string name="notification_schedule">অনুসূচী</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%2$s আনইনষ্টল কৰাৰ পিছতো আপোনাৰ ডিভাইচত %1$s থাকিব৷</string>
+    <string name="uninstall_fail_dueto_connection_lost">"গীয়েৰ এপ আনইনষ্টল কৰাত অক্ষম৷ আপোনাৰ ম'বাইল ডিভাইচলৈ সংযোগ হেৰুৱাইছে৷ ম'বাইল ডিভাইচলৈ সংযোগ কৰিলে, গীয়েৰ এপ আনইনষ্টল কৰা হ'ব৷"</string>
+    <string name="update_fail_dueto_connection_lost">"গীয়েৰ এপ আপডেট কৰাত অক্ষম৷ আপোনাৰ ম'বাইল ডিভাইচলৈ সংযোগ হেৰুৱাইছে৷ ম'বাইল ডিভাইচলৈ সংযোগ কৰিলে, গীয়েৰ এপ আপডেট কৰা হ'ব৷"</string>
+    <string name="watch_app_install_fail">এপ্প্‌চ ইনষ্টল কৰাত অক্ষম৷</string>
+    <string name="watch_app_upate_fail">"গীয়েৰ এপ আপডেট কৰাত অক্ষম৷ ম'বাইল ডিভাইচলৈ সংযোগ হেৰুৱাইছে৷"</string>
+</resources>

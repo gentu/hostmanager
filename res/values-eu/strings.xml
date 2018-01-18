@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Konektatuta</string>
+    <string name="bt_disconnected">Deskonketatuta</string>
+    <string name="bt_unpaired">Desparekatuta</string>
+    <string name="cf_activate_failed">Ezin da Dei birbidalketa gaitu.</string>
+    <string name="cf_activate_success">Dei birbidalketa gaitu da.</string>
+    <string name="cf_deactivate_failed">Ezin da Dei birbidalketa ezgaitu.</string>
+    <string name="cf_deactivate_success">Dei birbidaltze ezgaitu da.</string>
+    <string name="cf_notification_title">Zure Gear-era deiak birbidaltzea</string>
+    <string name="common_none">Bat ere ez</string>
+    <string name="common_recent_apps">Berr. aplik.</string>
+    <string name="fmg_unavailable_during_call">Ez dago eskuragarri deian zehar</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear aplikazioa</string>
+    <string name="indicator_noti_restoring">Berrezartzen…</string>
+    <string name="indicator_noti_subtitle">%s-ra konektatuta</string>
+    <string name="indicator_noti_to">%s bidez konektatuta</string>
+    <string name="indicator_noti_to_connect_bt">%s-ra Bluetooth bidez konektatuta zaude.</string>
+    <string name="indicator_noti_to_connect_remotely">%s-ra urrutitik konektatuta zaude.</string>
+    <string name="indicator_noti_to_disconnect">%s-(e)tik deskonektatu da.</string>
+    <string name="install_fail_dueto_connection_lost">Ezin izan da Gear aplikazioa instalatu. Zure gailu mugikorrerako konexioa galdu da. Gear aplikazioa gailu mugikorrera konektatuta dagoenean instalatuko da.</string>
+    <string name="navigate_up">Nabigatu</string>
+    <string name="notification_alarm">Alarma</string>
+    <string name="notification_email">Posta elektronikoa</string>
+    <string name="notification_incoming_call">Sarrerako deia</string>
+    <string name="notification_messages">Mezuak</string>
+    <string name="notification_missed_call">Galdutako deia</string>
+    <string name="notification_schedule">Antolaketa</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">%1$s-(e)k zure gailuan jarraituko du, %2$s desinstalatuta ere.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Ezin izan da Gear aplikazioa desinstalatu. Zure gailu mugikorrerako konexioa galdu da. Gear aplikazioa gailu mugikorrera konektatuta dagoenean desinstalatuko da.</string>
+    <string name="update_fail_dueto_connection_lost">Ezin izan da Gear aplikazioa eguneratu. Zure gailu mugikorrerako konexioa galdu da. Gear aplikazioa gailu mugikorrera konektatuta dagoenean eguneratuko da.</string>
+    <string name="watch_app_install_fail">Ezin izan da aplikazioa instalatu</string>
+    <string name="watch_app_upate_fail">Ezin izan da Gear aplikazioa eguneratu. Gailu mugikorrerako konexioa galdu da.</string>
+</resources>

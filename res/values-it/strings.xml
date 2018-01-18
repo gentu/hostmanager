@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Connesso</string>
+    <string name="bt_disconnected">Disconnesso</string>
+    <string name="bt_unpaired">Dissociato</string>
+    <string name="cf_activate_failed">"Impossibile attivare l'inoltro delle chiamate."</string>
+    <string name="cf_activate_success">Inoltro delle chiamate attivato.</string>
+    <string name="cf_deactivate_failed">"Impossibile disattivare l'inoltro delle chiamate."</string>
+    <string name="cf_deactivate_success">Inoltro chiamata disattivato.</string>
+    <string name="cf_notification_title">Inoltro delle chiamate a Gear</string>
+    <string name="common_none">Nessuno</string>
+    <string name="common_recent_apps">App recenti</string>
+    <string name="fmg_unavailable_during_call">Non disponibile durante le chiamate.</string>
+    <string name="general_app_name_for_reinstall">"l'applicazione Samsung Gear"</string>
+    <string name="indicator_noti_restoring">Ripristino…</string>
+    <string name="indicator_noti_subtitle">Connesso a %s.</string>
+    <string name="indicator_noti_to">Connesso con %s.</string>
+    <string name="indicator_noti_to_connect_bt">Connesso a %s con Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Connesso a %s in modalità remota.</string>
+    <string name="indicator_noti_to_disconnect">Disconnesso da %s.</string>
+    <string name="install_fail_dueto_connection_lost">"Impossibile installare l'applicazione Gear. La connessione al dispositivo mobile è stata interrotta. L'applicazione Gear verrà installata in seguito alla connessione al dispositivo mobile."</string>
+    <string name="navigate_up">"Esplora verso l'alto"</string>
+    <string name="notification_alarm">Sveglia</string>
+    <string name="notification_email">E-mail</string>
+    <string name="notification_incoming_call">Chiamata in arrivo</string>
+    <string name="notification_messages">Messaggi</string>
+    <string name="notification_missed_call">Chiamata persa</string>
+    <string name="notification_schedule">Programma</string>
+    <string name="notification_voicemail">Segreteria telefonica</string>
+    <string name="toast_text_for_reinstall">%1$s rimarrà sul dispositivo anche dopo aver disinstallato %2$s.</string>
+    <string name="uninstall_fail_dueto_connection_lost">"Impossibile disinstallare l'applicazione Gear. La connessione al dispositivo mobile è stata interrotta. L'applicazione Gear verrà disinstallata in seguito alla connessione al dispositivo mobile."</string>
+    <string name="update_fail_dueto_connection_lost">"Impossibile aggiornare l'applicazione Gear. La connessione al dispositivo mobile è stata interrotta. L'applicazione Gear verrà aggiornata in seguito alla connessione al dispositivo mobile."</string>
+    <string name="watch_app_install_fail">"Impossibile installare l'app."</string>
+    <string name="watch_app_upate_fail">"Impossibile aggiornare l'applicazione Gear. Connessione al dispositivo mobile interrotta."</string>
+</resources>

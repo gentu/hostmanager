@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="bt_connected">Pievienots</string>
+    <string name="bt_disconnected">Atvienots</string>
+    <string name="bt_unpaired">Nav savienots pārī</string>
+    <string name="cf_activate_failed">Neizdevās aktivizēt zvanu pārsūtīšanu.</string>
+    <string name="cf_activate_success">Zvanu pārsūtīšana ir aktivizēta.</string>
+    <string name="cf_deactivate_failed">Neizdevās deaktivizēt zvanu pārsūtīšanu.</string>
+    <string name="cf_deactivate_success">Zvanu pārsūtīšana ir deaktivizēta.</string>
+    <string name="cf_notification_title">Zvanu pārsūtīšana uz ierīci Gear</string>
+    <string name="common_none">Neviena</string>
+    <string name="common_recent_apps">Nes. progr.</string>
+    <string name="fmg_unavailable_during_call">Nav pieejams zvana laikā.</string>
+    <string name="general_app_name_for_reinstall">Samsung Gear programma</string>
+    <string name="indicator_noti_restoring">Atjauno…</string>
+    <string name="indicator_noti_subtitle">Izveidots savienojums ar %s.</string>
+    <string name="indicator_noti_to">Savienots ar %s.</string>
+    <string name="indicator_noti_to_connect_bt">Savienots ar %s, izmantojot Bluetooth.</string>
+    <string name="indicator_noti_to_connect_remotely">Attāli savienots ar %s.</string>
+    <string name="indicator_noti_to_disconnect">Savienojums ar %s ir pārtraukts.</string>
+    <string name="install_fail_dueto_connection_lost">Neizdevās instalēt Gear programmu. Tika zaudēts savienojums ar jūsu mobilo ierīci. Gear programma tiks instalēta, kad tiks izveidots savienojums ar mobilo ierīci.</string>
+    <string name="navigate_up">Naviģēt uz augšu</string>
+    <string name="notification_alarm">Signāls</string>
+    <string name="notification_email">E-pasts</string>
+    <string name="notification_incoming_call">Ienākošais zvans</string>
+    <string name="notification_messages">Ziņas</string>
+    <string name="notification_missed_call">Neatbildēts zvans</string>
+    <string name="notification_schedule">Grafiks</string>
+    <string name="notification_voicemail">Voice Mail</string>
+    <string name="toast_text_for_reinstall">Programma %1$s paliks jūsu ierīcē arī pēc %2$s atinstalēšanas.</string>
+    <string name="uninstall_fail_dueto_connection_lost">Neizdevās atinstalēt Gear programmu. Tika zaudēts savienojums ar jūsu mobilo ierīci. Gear programma tiks atinstalēta, kad tiks izveidots savienojums ar mobilo ierīci.</string>
+    <string name="update_fail_dueto_connection_lost">Neizdevās atjaunināt Gear programmu. Tika zaudēts savienojums ar jūsu mobilo ierīci. Gear programma tiks atjaunināta, kad tiks izveidots savienojums ar mobilo ierīci.</string>
+    <string name="watch_app_install_fail">Neizdevās instalēt programmu.</string>
+    <string name="watch_app_upate_fail">Neizdevās atjaunināt Gear programmu. Zaudēts savienojums ar mobilo ierīci.</string>
+</resources>
