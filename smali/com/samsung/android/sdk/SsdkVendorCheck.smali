@@ -42,7 +42,7 @@
     .locals 3
 
     .prologue
-    const/4 v0, 0x0
+    const/4 v0, 0x1
 
     .line 24
     sget-object v1, Lcom/samsung/android/sdk/SsdkVendorCheck;->strBrand:Ljava/lang/String;
